@@ -301,9 +301,9 @@
    {
     "topic": "Fireships",
     "source_text": "The Chaos forces have 1500 points and 8 free Fireships at their disposal.",
-    "xr_section": "07_chaos.md",
-    "xr_text": "Chaos fleet list",
-    "effect": "Fireships are not in the booklet; the source gives no profile in this scenario."
+    "xr_section": "06_support-assets.md, Fire Ship",
+    "xr_text": "Fire Ship Escort | 10 | 1 | 32mm | 15cm | 45 | 1 | 5+ | 1 | May detonate (non-braced) during its move: D3 Fire criticals on all ships within 3D6cm, ignoring shields, removing ordnance in range",
+    "effect": "The Fire Ship is a Support Assets system ship (10 pts, limit 0-6 for a fleet). The scenario gives eight free, above that limit."
    },
    {
     "topic": "VP for ships leaving by the Chaos edge",
@@ -322,7 +322,6 @@
    "Checked: deployment, first turn, game length."
   ],
   "missing_or_unclear": [
-   "Fireship profile and rules.",
    "Ld of Warhost Nemesis ships (list-dependent).",
    "Who is the attacker (Chaos moves first).",
    "Admiral rules ('profile and points cost of an Imperial Admiral' in the booklet is a Vice Admiral or Fleet Admiral)."

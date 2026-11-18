@@ -471,6 +471,634 @@
   "notes": "Secondary Objectives: +4 salvage at least one of the three Wrecks fully inside the opponent's half; +2 kill the Admiral or he disengages; +2 win one or more boarding actions. Original: Tournament Mission Pack C3 (Mission 2: Wrecks O' Plenty)."
  },
  {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "battle",
+  "generic": "yes",
+  "factions_required": "any",
+  "id": "inv-chart",
+  "title": "The Chart",
+  "source": "Battlefleet Gothic Invasion",
+  "pages": "printed p.2 (PDF p.4)",
+  "author": "Games Workshop",
+  "forces": "Equal points value; attacker and defender agreed or diced for.",
+  "summary": "An ambush in a 15cm-wide asteroid field running the length of the table. The attacker deploys along one side; the defender within 20cm of a short edge; ships may not set up within 50cm of an enemy. With the Rogue Trader's chart the attacking force may re-roll failed Leadership tests to navigate the field; the second roll stands. The defender scores bonus VP equal to the value of ships that exit the opposite edge.",
+  "special_rules": [
+   "Asteroid field along the table centre",
+   "Attacker re-rolls asteroid navigation tests",
+   "Defender gets bonus VP for exiting ships"
+  ],
+  "xr_dependencies": [
+   "s.39 Asteroid Fields",
+   "s.38 Victory Points",
+   "s.37 Disengaging"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Rulebook page pointers",
+    "source_text": "Use the standard Victory Points system found on p. 66 of the Battlefleet Gothic rulebook",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "Each capital ship, escort squadron, and defence installation that is crippled at the end of the game awards the opposing player a number of victory points equal to 25% of that unit/squadron's total points value",
+    "effect": "Pointer swap to s.38. The old rulebook scoring is the same in effect: the Defensive Ring text values a crippled 150pt station at 37 points (25%, rounded down)."
+   },
+   {
+    "topic": "Asteroid navigation re-rolls",
+    "source_text": "all ships in the Attacking force may reroll failed Leadership tests for navigating the asteroid field. The second roll stands whether it is successful or not. Escort ships, which normally may reroll these Leadership tests even without a chart, gain no additional advantage.",
+    "xr_section": "s.39 Asteroid Fields",
+    "xr_text": "Due to their size, escorts may re-roll the result if they fail, but the second roll stands.",
+    "effect": "Consistent with XR. XR also tests on 3D6 on All Ahead Full and slows the ship 5cm; the source does not change either."
+   },
+   {
+    "topic": "Asteroid field size",
+    "source_text": "An enormous asteroid field runs the length of the table (from short edge to short edge along an imaginary centerline). The field is around 15 cm wide.",
+    "xr_section": "s.39 Asteroid Fields",
+    "xr_text": "Each asteroid field is D3x5cm wide and D3x5cm long.",
+    "effect": "One enormous field replaces XR's separate fields. XR size rules do not cover a long field; the scenario overrides."
+   },
+   "Checked: first turn (attacker), 8 turns, VP, disengage by the far edge. The page pointer 'p. 44' in the source is the old asteroid rule."
+  ],
+  "missing_or_unclear": [
+   "Which edge the defender's exit scoring uses ('the table edge opposite his deployment zone').",
+   "Table size.",
+   "Whether the 15cm field blocks line of sight along its whole length (as XR fields do)."
+  ],
+  "diagram": "simple",
+  "length": "about 0.4 page",
+  "notes": "The page also has a modelling guide (Making Asteriods). Short and self-contained."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "battle",
+  "generic": "yes",
+  "factions_required": "any",
+  "id": "inv-conquest",
+  "title": "Conquest",
+  "source": "Battlefleet Gothic Invasion",
+  "pages": "printed p.3 (PDF p.5)",
+  "author": "Games Workshop",
+  "forces": "Equal points value.",
+  "summary": "A planet sits in the table centre. Each side sets up within 30cm of opposite table edges, 50cm or more from enemy ships. At the end of the game, add up the points value of ships within 20cm of the planet (crippled or destroyed ships do not count); the higher total wins.",
+  "special_rules": [
+   "Win by points value of ships within 20cm of the planet"
+  ],
+  "xr_dependencies": [
+   "s.39 Planets",
+   "s.41 High Orbit",
+   "s.38 Victory Points"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Victory without VP",
+    "source_text": "At the end of the game, add up the total points value of the ships that are within 20 cm of the planet (crippled or destroyed ships do not count). The side with the higher sum wins.",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "In many scenarios, the winner will be the player who scores the most victory points.",
+    "effect": "Standard VP are not used; the winner is by points near the planet. XR allows scenario-specific victory."
+   },
+   {
+    "topic": "Gravity well versus 20cm",
+    "source_text": "within 20 cm of the planet",
+    "xr_section": "s.41 High Orbit",
+    "xr_text": "a planet's gravity well, which affects high-orbit manoeuvring, extends Small 10cm / Medium 15cm / Large 30cm from the template edge",
+    "effect": "The source measures a flat 20cm from the planet; no size is given for the planet, so it can fall outside or inside the gravity well."
+   },
+   "Checked: attack-free deployment (D6 roll, not attack rating), first turn by roll, game length 8 turns. 'Crippled' defined by s.35."
+  ],
+  "missing_or_unclear": [
+   "Planet size (the 'Making Planets' text gives none).",
+   "Measurement from planet edge or centre.",
+   "Whether squadrons count by the squadron value or each ship."
+  ],
+  "diagram": "none",
+  "length": "about 0.4 page",
+  "notes": "Racing to a planet; very simple. Attack ratings are not used."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "battle",
+  "generic": "yes",
+  "factions_required": "any",
+  "id": "inv-breakthrough",
+  "title": "Breakthrough",
+  "source": "Battlefleet Gothic Invasion",
+  "pages": "printed p.4 (PDF p.6)",
+  "author": "Games Workshop",
+  "forces": "Equal points; the Convoy Runner may field up to one transport per cruiser or escort squadron.",
+  "summary": "Convoy Runners try to get past attackers. The Convoy Runner scores +50 VP for each cruiser or escort squadron with surviving models worth at least 150 points, and each transport, that reaches the Attacker's deployment edge; the attacker gains 10% of the value of each convoy ship crippled or destroyed.",
+  "special_rules": [
+   "+50 VP per cruiser, escort squadron (150+ pts surviving) and transport exiting",
+   "Attacker +10% of crippled or destroyed convoy ships"
+  ],
+  "xr_dependencies": [
+   "Scenarios: Using Attack Ratings",
+   "s.8 Squadrons",
+   "Support Assets: convoy ships (transports)",
+   "s.38"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Attack rating roll",
+    "source_text": "Roll a D6 and add your Attack Rating.",
+    "xr_section": "Scenarios, Using Attack Ratings (XR p.78)",
+    "xr_text": "have each player roll a number of D6 equal to their fleet's attack rating and choose the best individual dice score",
+    "effect": "One die plus the rating (source) against the best of a number of dice (XR). XR attack ratings are 2 to 4; the sum favours the rating far more."
+   },
+   {
+    "topic": "Transports",
+    "source_text": "The Convoy Runner may field up to one transport per cruiser or squadron of escorts.",
+    "xr_section": "06_support-assets.md",
+    "xr_text": "any fleet except Necrons, Tyranids, Eldar and Dark Eldar may use the convoy ships.",
+    "effect": "Transports must be taken from the Support Assets convoy ships (a Conventional Transport is free in XR); Eldar, Dark Eldar, Necrons and Tyranids cannot field them."
+   },
+   {
+    "topic": "Scattered value",
+    "source_text": "For each cruiser, squadron of escorts whose surviving models have a total points value of 150 or more, and transport ship that makes it off the Attacker's deployment zone, the Convoy Runner gains an additional 50 Victory Points.",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "A ship exiting by the far edge scores 50 VP for the runner and still gives 10% to the attacker as 'scattered' under s.38 unless the scenario overrides. The text does not say."
+   },
+   "Checked: first turn (D6: on 1 the runner), 8 turns, set-up within 20cm."
+  ],
+  "missing_or_unclear": [
+   "Whether exiting ships also give the attacker the s.38 10%.",
+   "Table size and sides ('opposite edge').",
+   "The attacker places the battlezone but not how."
+  ],
+  "diagram": "none",
+  "length": "about 0.4 page",
+  "notes": "Dice for attacker uses attack rating. Compare Convoy (narrative) in the booklet."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "battle",
+  "generic": "yes",
+  "factions_required": "any",
+  "id": "inv-head-snake",
+  "title": "Head of the Snake",
+  "source": "Battlefleet Gothic Invasion",
+  "pages": "printed p.4 (PDF p.6)",
+  "author": "Games Workshop",
+  "forces": "Equal points value.",
+  "summary": "Each flagship gets +1 Leadership (maximum 10). If your flagship is crippled or destroyed, every other ship and squadron in your fleet suffers -2 Leadership for the rest of the game. +200 VP if the enemy flagship is crippled, destroyed or has disengaged.",
+  "special_rules": [
+   "+1 Ld to the flagship",
+   "-2 Ld to the fleet when the flagship is crippled or destroyed",
+   "+200 VP for the enemy flagship"
+  ],
+  "xr_dependencies": [
+   "s.5 Fleet Commanders",
+   "s.3 Leadership",
+   "s.38"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Flagship",
+    "source_text": "If at any point your flagship is crippled or destroyed, then all remaining ships and squadrons in your fleet suffer -2 to their Leadership for the remainder of the game.",
+    "xr_section": "s.5 Fleet Commanders; booklet ruling",
+    "xr_text": "Fleet commander re-rolls are lost if the commander's ship suffers Bridge Smashed or is destroyed. The opponent then scores the commander's VPs.",
+    "effect": "The source never defines 'flagship'. Under XR it should be the fleet commander's ship (a fleet with no commander needs a rule). Bridge Smashed is not mentioned."
+   },
+   {
+    "topic": "Leadership floor",
+    "source_text": "-2 to their Leadership",
+    "xr_section": "s.37 Disengaging; s.6",
+    "xr_text": "Any ship or squadron that through any combination of effects is reduced to Leadership 1 or less must attempt to disengage or move off of the closest table edge",
+    "effect": "-2 Ld can push low-Leadership ships to Ld 1 or less and force disengaging under s.37. The source does not mention this."
+   },
+   {
+    "topic": "VP and +200",
+    "source_text": "Use the standard Victory Points system found on p. 66 of the Battlefleet Gothic rulebook",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "Each capital ship, escort squadron, and defence installation that is crippled at the end of the game awards the opposing player a number of victory points equal to 25% of that unit/squadron's total points value",
+    "effect": "Pointer swap to s.38. The old rulebook scoring is the same in effect: the Defensive Ring text values a crippled 150pt station at 37 points (25%, rounded down)."
+   },
+   "Checked: first turn (roll), game length, deployment, no attack rating."
+  ],
+  "missing_or_unclear": [
+   "Definition of flagship; fleets with no commander.",
+   "Whether the +1 stacks with commander bonuses (cap 10 stated).",
+   "The +200 VP is per enemy flagship only once."
+  ],
+  "diagram": "none",
+  "length": "about 0.4 page",
+  "notes": "Very close to Titan Clash's flagship focus."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "battle",
+  "generic": "yes",
+  "factions_required": "any",
+  "id": "inv-retrieval",
+  "title": "Retrieval",
+  "source": "Battlefleet Gothic Invasion",
+  "pages": "printed p.6 (PDF p.8)",
+  "author": "Games Workshop",
+  "forces": "Equal points value.",
+  "summary": "Six derelict hulks (numbered 1-6, placed blind, 20cm apart) hold one artifact, chosen by a D6 before the game. A ship moving within 5cm of a hulk reveals its number; a match gives the artifact to that ship. The enemy steals it by damaging the carrier until it becomes a hulk, or by winning a boarding action on it. The fleet holding the artifact at the end wins.",
+  "special_rules": [
+   "Derelict hulks placed blind",
+   "Artifact search within 5cm",
+   "Artifact steal by damage or boarding",
+   "Transfer once per turn within 5cm"
+  ],
+  "xr_dependencies": [
+   "s.34 Hulks",
+   "s.32 Boarding Actions",
+   "s.38 Holding the Field"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Boarding a hulk or carrying ship",
+    "source_text": "Also, in the event of a successful boarding action on the ship carrying it, no damage is done, but the artifact is stolen.",
+    "xr_section": "s.32 Boarding Actions, Results",
+    "xr_text": "The losing ship then suffers damage equal to the difference in scores.",
+    "effect": "The source removes boarding damage and critical hits when the artifact is stolen. XR applies the result table."
+   },
+   {
+    "topic": "Derelicts as hulks",
+    "source_text": "a half a dozen derelict hulks",
+    "xr_section": "s.34 Hulks in combat",
+    "xr_text": "Drifting and blazing hulks cannot be fired upon, boarded, or have torpedoes deliberately launched at them by friendly vessels or ordnance for any reason, although enemies may still do so normally.",
+    "effect": "The derelicts are treated as objects to approach, not as XR hulks that drift and attract Catastrophic Damage."
+   },
+   "Checked: deployment, 8 turns, no VP (the winner is by artifact possession), first turn by roll."
+  ],
+  "missing_or_unclear": [
+   "Whether the derelicts are shot at, their size and Armour.",
+   "'Damaging the ship carrying it such that it becomes a hulk': becomes a hulk at 0 hits (s.34).",
+   "What a 'ship' includes (escorts may carry the artifact?).",
+   "Table size."
+  ],
+  "diagram": "none",
+  "length": "about 0.7 page",
+  "notes": "Treasure-hunt scenario; no VP, so the win is binary."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "battle",
+  "generic": "yes",
+  "factions_required": "any",
+  "id": "inv-defensive-ring",
+  "title": "Defensive Ring",
+  "source": "Battlefleet Gothic Invasion",
+  "pages": "printed p.7 (PDF p.9)",
+  "author": "Games Workshop",
+  "forces": "Equal points. Defender spends at least 30% on Orbital Defences including a Space Station (the Refueling Station) and up to one cruiser per 750 points; remainder on escorts. Attacker takes any ships but only six ordnance stands (torpedoes excepted) per 750 points.",
+  "summary": "The attacker raids the defender's Refueling Station. The station is in the table centre with the defences placed first within 30cm; the attacker sets up within 20cm of any one table edge. The attacker scores double VP for destroying the station (300 instead of 150) or normal VP for crippling it (150 instead of 37).",
+  "special_rules": [
+   "Orbital Defences 30%+",
+   "Ordnance limit for the attacker",
+   "Station VP doubled for destroying; an uncrippled station earns the defender a heroic-defence bonus"
+  ],
+  "xr_dependencies": [
+   "06_support-assets.md (Space Station)",
+   "s.38 Victory Points",
+   "s.15 Ordnance"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Rulebook page pointers",
+    "source_text": "Use the standard Victory Points system found on p. 66 of the Battlefleet Gothic rulebook",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "Each capital ship, escort squadron, and defence installation that is crippled at the end of the game awards the opposing player a number of victory points equal to 25% of that unit/squadron's total points value",
+    "effect": "Pointer swap to s.38. The old rulebook scoring is the same in effect: the Defensive Ring text values a crippled 150pt station at 37 points (25%, rounded down)."
+   },
+   {
+    "topic": "Planetary defence points",
+    "source_text": "The Defender must choose at least 30% of his points from the Orbital Defenses list (BFG rulebook, p. 147); these Orbital Defenses must include a Space Station (BFG rulebook, p. 145) that will represent the Refueling Station.",
+    "xr_section": "06_support-assets.md, Including planetary defences",
+    "xr_text": "the defender in any scenario with a planet may spend up to a third of their points limit on planetary defences.",
+    "effect": "The source requires 30% on defences; XR lets a defender spend up to a third and defences are scenario-dependent (not in fleet lists). The Space Station is 150pts and 8 hits in Support Assets."
+   },
+   {
+    "topic": "Doubled VP for the station",
+    "source_text": "The Attackers get double the normal Victory Points for destroying the Refueling Station (i.e., 300 points instead of 150 points) or normal Victory Points for crippling the Refueling Station (i.e., 150 points instead of 37 points).",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "Each capital ship, escort squadron, and defence installation that is crippled at the end of the game awards the opposing player a number of victory points equal to 25% of that unit/squadron's total points value",
+    "effect": "The scenario doubles the destroyed value and gives full value for a crippled station (150), where the source's own parenthesis says 'instead of 37'. The text reads 'normal VP for crippling ... 150 instead of 37' which means a crippled station scores 150."
+   },
+   {
+    "topic": "Ordnance limit",
+    "source_text": "The Attacker may choose any ships but is limited to launching six stands of ordnance (torpedoes excepted) per 750 points in his fleet.",
+    "xr_section": "s.15 Ordnance",
+    "xr_text": "Ordnance: Launching, Moving & Attacking",
+    "effect": "A scenario limit on launch capacity; XR has no per-points limit, so it is an additional rule. 'Stands' means launch bay strength."
+   },
+   "Checked: first turn (attacker), 8 turns. 'Part of a Campaign' consequences: a double on a Leadership test for All Ahead Full or Burn Retros means the ship has run low on fuel (campaign only)."
+  ],
+  "missing_or_unclear": [
+   "Whether 'cruiser' includes grand cruisers and battlecruisers (cruisers are cruisers in the booklet).",
+   "Whether Orbital Defences count toward 'at least 30%' when they are part of the station.",
+   "Refueling Station Armour and shields (Space Station profile).",
+   "Wording: 'normal Victory Points for crippling the Refueling Station (i.e., 150 points instead of 37 points)' reads as full value for a cripple; the parenthesis contradicts 'normal'."
+  ],
+  "diagram": "none",
+  "length": "about 0.6 page",
+  "notes": "Campaign consequences: the winning attacker's ships can run low on fuel; the defender's capital ships may start the next game with one less hit."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "battle",
+  "generic": "yes",
+  "factions_required": "Chaos attacker (Black Legion theme) vs Imperial defender",
+  "id": "inv-port-maw",
+  "title": "Port Maw",
+  "source": "Battlefleet Gothic Invasion",
+  "pages": "printed p.8-9 (PDF p.10-11)",
+  "author": "Games Workshop",
+  "forces": "The Defenders have four times the points of the Attackers.",
+  "summary": "The attacker comes out of a warp rift against Port Maw, a huge station with its shields down and its fleet docked. Docked ships attack at half strength and are easy targets (all shots at them count as closing). At the start of each defender turn each docked ship rolls a D6; on a 6 it may back off. Released ships must move away at 5cm per turn until 10cm from the station. Ordnance and ships within 30cm of the station suffer one hit on 4+ (ordnance destroyed on a 6) in the defender's shooting phase. Twelve turns.",
+  "special_rules": [
+   "Huge: attacks against Port Maw do not affect the outcome",
+   "Low Power: hit on 4+ per enemy ship and ordnance within 30cm",
+   "Docked: half strength, no shields, release on 6",
+   "Sitting Ducks: shots at docked ships count as closing",
+   "Maneuvering Thrusters: 5cm per turn until 10cm clear"
+  ],
+  "xr_dependencies": [
+   "s.39 Planets",
+   "06_support-assets.md (defences)",
+   "s.7 Brace for Impact",
+   "s.38 Victory Points",
+   "s.13 Gunnery table (closing)"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Rulebook page pointers",
+    "source_text": "Use the standard Victory Points system found on p. 66 of the Battlefleet Gothic rulebook",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "Each capital ship, escort squadron, and defence installation that is crippled at the end of the game awards the opposing player a number of victory points equal to 25% of that unit/squadron's total points value",
+    "effect": "Pointer swap to s.38. The old rulebook scoring is the same in effect: the Defensive Ring text values a crippled 150pt station at 37 points (25%, rounded down)."
+   },
+   {
+    "topic": "4:1 forces",
+    "source_text": "The Defenders have four times the points of the Attackers.",
+    "xr_section": "s.4 Assembling the Fleet",
+    "xr_text": "Assembling the Fleet",
+    "effect": "A ratio rather than a points limit; the booklet allows this for scenario forces. Note the defender's docked fleet counts for VP."
+   },
+   {
+    "topic": "Docked ships in blast marker rules",
+    "source_text": "Docked ships attack at half strength.",
+    "xr_section": "s.11 Shields",
+    "xr_text": "Shields & Blast Markers",
+    "effect": "No XR docking rule; the Ramilies and Fortress-Monastery docking in the booklet is different."
+   },
+   "Checked: first turn (attacker), game length 12 turns, VP standard."
+  ],
+  "missing_or_unclear": [
+   "Port Maw's profile (the source says huge and that attacks against it have no effect; no stats).",
+   "Defender's shooting phase hit: Armour of hit ('one hit on a result of 4+') whether shields apply.",
+   "Position of the warp rift ('within 10cm of any one table edge' is the attacker's set-up).",
+   "Table size (the model covers 2 x 2 feet)."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "The text itself says the scenario is not completely balanced. Fanatic Online later published a different 'The Port Maw Blockade'."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "small-game",
+  "generic": "no",
+  "factions_required": "any with a Warhammer 40,000 army",
+  "id": "inv-boarding-party",
+  "title": "Boarding Party (BFG half)",
+  "source": "Battlefleet Gothic Invasion",
+  "pages": "printed p.16-17 (PDF p.18-19)",
+  "author": "Games Workshop",
+  "forces": "BFG: defender has 25% more points than the attacker. 40K: attackers up to 500 points, defenders up to 250.",
+  "summary": "A linked game. Play the BFG scenario until a boarding action is declared against the defender, then resolve it as a Warhammer 40,000 scenario (a suicide squad fights through six rooms to the torpedo bay). If the attackers succeed, the Flagship takes D6+2 damage.",
+  "special_rules": [
+   "Boarding Action replaced by a 40K game",
+   "Success: D6+2 damage to the Flagship"
+  ],
+  "xr_dependencies": [
+   "s.32 Boarding Actions",
+   "s.38"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Boarding resolved by a 40K game",
+    "source_text": "do not make the standard boarding action roll. Instead take a break from the Battlefleet Gothic game and play the Warhammer 40,000 Boarding Action scenario to determine the outcome of the boarding action.",
+    "xr_section": "s.32 Boarding Actions",
+    "xr_text": "To resolve the action both players roll a D6 and add the appropriate modifiers from the following list",
+    "effect": "Replaces the XR boarding roll. Not usable without a Warhammer 40,000 game; the supplement would drop it or keep it as an optional rule (decision)."
+   },
+   {
+    "topic": "Rulebook page pointers",
+    "source_text": "Use the standard Victory Points system found on p. 66 of the Battlefleet Gothic rulebook",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "Each capital ship, escort squadron, and defence installation that is crippled at the end of the game awards the opposing player a number of victory points equal to 25% of that unit/squadron's total points value",
+    "effect": "Pointer swap to s.38. The old rulebook scoring is the same in effect: the Defensive Ring text values a crippled 150pt station at 37 points (25%, rounded down)."
+   },
+   "Checked: first turn, deployment within 30cm of a single table edge, game length, no attack ratings."
+  ],
+  "missing_or_unclear": [
+   "Whether any boarding action triggers it or only attacker-initiated.",
+   "Effect of failure on the BFG game."
+  ],
+  "diagram": "none",
+  "length": "about 0.7 page (BFG half)",
+  "notes": "Needs a Warhammer 40,000 army and ship interiors. Probably out of scope for the supplement."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "small-game",
+  "generic": "no",
+  "factions_required": "any (Ork Kroozers and Salamanders in the example); needs a 40K army",
+  "id": "inv-deadline",
+  "title": "Deadline (BFG half)",
+  "source": "Battlefleet Gothic Invasion",
+  "pages": "printed p.18-19 (PDF p.20-21)",
+  "author": "Games Workshop",
+  "forces": "BFG: equal points value.",
+  "summary": "Linked games. The 40K assault on three bunkers (generators) is played first. Then the BFG battle: the Defenders' planet with a Macro Cannon fires as a Nova Cannon with no minimum range, every other turn with two generators, every third turn with one, never with none. The cannon cannot be attacked.",
+  "special_rules": [
+   "Macro Cannon fires as a Nova Cannon, no minimum range",
+   "Planet does not block its line of fire",
+   "Firing cadence set by generators surviving the ground game"
+  ],
+  "xr_dependencies": [
+   "s.14 Nova Cannon",
+   "s.39 Planets",
+   "s.38 Victory Points"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Macro Cannon as a Nova Cannon",
+    "source_text": "The Macro Cannon fires as a Nova Cannon with no minimum range. The planet itself does not block the Macro Cannon's line of fire.",
+    "xr_section": "s.14 Nova Cannon",
+    "xr_text": "Nova Cannon",
+    "effect": "XR's nova cannon has a minimum range and is blocked by planets as direct fire (s.39). The scenario removes both."
+   },
+   {
+    "topic": "Set up by an old pointer",
+    "source_text": "Follow the set up rules for Scenario Seven from the Battlefleet Gothic rulebook (p. 76).",
+    "xr_section": "Scenarios, Exterminatus!",
+    "xr_text": "Exterminatus!",
+    "effect": "Old rulebook scenario numbering: Scenario Seven is not clear without the original book; the supplement needs the intended set-up named. In the XR list the intended scenario is not identified by the source."
+   },
+   {
+    "topic": "Rulebook page pointers",
+    "source_text": "Use the standard Victory Points system found on p. 66 of the Battlefleet Gothic rulebook",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "Each capital ship, escort squadron, and defence installation that is crippled at the end of the game awards the opposing player a number of victory points equal to 25% of that unit/squadron's total points value",
+    "effect": "Pointer swap to s.38. The old rulebook scoring is the same in effect: the Defensive Ring text values a crippled 150pt station at 37 points (25%, rounded down)."
+   },
+   "Checked: first turn (roll), game length until a fleet is destroyed or disengages."
+  ],
+  "missing_or_unclear": [
+   "Which XR scenario 'Scenario Seven' is (the old Planetary Assault)",
+   "Macro Cannon position in the Defenders' deployment zone ('places the planet with the Macro Cannon in his deployment zone').",
+   "Hit points or Armour of the cannon and the generators in BFG."
+  ],
+  "diagram": "none",
+  "length": "about 1 page (BFG half)",
+  "notes": "Needs a Warhammer 40,000 game for the cadence."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "raid",
+  "generic": "yes",
+  "factions_required": "any (extra Eldar rules)",
+  "id": "ann-convoy-variants",
+  "title": "Convoy Run Variants (with Eldar rules and variant convoy ships)",
+  "source": "BFG 2002 Annual; also Warp Storm",
+  "pages": "Annual printed p.68-69 (PDF p.70-71); Warp Storm part 1 PDF p.20-21",
+  "author": "Andy Chambers, Pavel Stafa, Michael Powers",
+  "forces": "Alternative attacker forces tables replacing the old Convoy attacker table: The Cruiser Trap, The Wolf Packs, The Old Minefield; convoy escort raised to 150 points per pair of transports for the Cruiser Trap.",
+  "summary": "Three alternative attacker tables (D6): The Cruiser Trap (up to 250pt cruiser, 200pt cruiser, 150pt escort squadron, 3 or 2 Deadfall missile counters, 1 attack craft counter), The Wolf Packs (210pt cruiser, escort squadrons of 200/150/100, 2 Deadfall counters, 1 attack craft counter), The Old Minefield (210pt cruiser, escorts 180/150, 3 Deadfall counters, 2 or 1 orbital mine counters). Eldar attackers may deploy the CL Lightning (140pts); Eldar convoy transports get their own profile. Armed freighter (20), escort carrier (60), Q-ship (60).",
+  "special_rules": [
+   "Alternative attacker tables",
+   "Eldar as attackers (CL Lightning)",
+   "Eldar transports and changed victory conditions",
+   "Armed freighter, escort carrier and Q-ship convoy ships"
+  ],
+  "xr_dependencies": [
+   "Scenarios: Convoy (narrative)",
+   "Scenarios: Convoy (matched play)",
+   "s.17 Mines",
+   "06_support-assets.md (convoy ships)",
+   "09_eldar.md"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Eldar rules",
+    "xr_section": "09_eldar.md (MMS v2.0)",
+    "xr_text": "the booklet uses the fan Eldar MMS v2.0 rules, which take priority over XR's Eldar",
+    "effect": "The CL Lightning, Shadow Cruiser (the old Shadow class) and Eldar transport profiles (speed 10/10/15, holofield) were written for the old Eldar. The booklet's Eldar list does not include them and does not allow Eldar convoy ships (Support Assets: not Eldar, Dark Eldar)."
+   },
+   {
+    "topic": "Attacker forces",
+    "source_text": "Three Deadfall missile counters. Two Deadfall missile counters. One Attack Craft counter.",
+    "xr_section": "Scenarios, Convoy (narrative)",
+    "xr_text": "One deadfall torpedo or attack craft cluster. | Two deadfall torpedo or attack craft clusters (in any mix desired). | Three deadfall torpedo or attack craft clusters (in any mix desired).",
+    "effect": "The booklet's narrative Convoy uses clusters 'in any mix desired' and a different table (capital ship up to 200pts at 6). The variant tables are alternative D6 tables; 'Deadfall missile' becomes 'deadfall torpedo'."
+   },
+   {
+    "topic": "Convoy victory conditions",
+    "source_text": "Transports Exiting 75% or more Eldar Convoy Win ... up to 49% Attacker's Win",
+    "xr_section": "Scenarios, Convoy (matched play)",
+    "xr_text": "convoy ships are scored by vp_bonus",
+    "effect": "Eldar victory is by percentage of transports exiting; the booklet's matched Convoy scores VP. The percentage table needs a decision for Eldar."
+   },
+   {
+    "topic": "Escort carrier reload",
+    "source_text": "They make 'Reload Ordnance' checks at -1 Ld.",
+    "xr_section": "s.7 Special Orders",
+    "xr_text": "Reload Ordnance: If the ship passes its command check, all of its ordnance is successfully reloaded and may be launched in any subsequent shooting phase.",
+    "effect": "A -1 Ld modifier on Reload Ordnance for escort carriers; XR has no such modifier (the Mechanicus gift and other Ld modifiers are specific)."
+   },
+   "Checked: terrain, first turn and game length are not given (they follow the base Convoy scenario)."
+  ],
+  "missing_or_unclear": [
+   "Which Convoy scenario these tables replace (the old Scenario 6 p.74): in XR the narrative Convoy has its own forces table.",
+   "Orbital mine counters are 'replaced by D3+2 orbital mines when activated': XR mines are placed as markers.",
+   "'Armed freighter counts as half a freighter' round-down rule in scenarios of capacity."
+  ],
+  "diagram": "none",
+  "length": "about 1.5 pages",
+  "notes": "Identical text in the Annual and in Warp Storm part 1. Warp Rift 15 'Cat and Mouse' in the community listing may relate to the Eldar convoy discussion; see the Warp Rift entries."
+ },
+ {
+  "group": "Battlefleet Gothic Invasion (Games Workshop, US booklet) and 2002 Annual",
+  "in_booklet": "no",
+  "ocr": "yes",
+  "ocr_note": "numbers checked against the page image at 100-110 dpi",
+  "type": "narrative",
+  "generic": "no",
+  "factions_required": "Imperial Navy and Space Marines",
+  "id": "ann-sm-scenarios",
+  "title": "Scenarios Involving Space Marines (five variant ideas)",
+  "source": "BFG 2002 Annual; also Warp Storm",
+  "pages": "Annual printed p.72-73 (PDF p.74-75); Warp Storm part 1 PDF p.51-52",
+  "author": "Gav Thorpe, Andy Chambers",
+  "forces": "Variants of The Raiders, Planetary Assault and Surprise Attack with Space Marine forces.",
+  "summary": "Five short ideas: (1) an Imperial fleet ambushed and a nearby Space Marine vessel answers (The Raiders with equal points and 3 D6 rolls for the SM presence arriving by contact markers); (2) a sudden offensive: Planetary Assault variant race to a contested planet; (3) a rebellious planet: a reverse Planetary Assault; (4) a small SM force on patrol: Surprise Attack in which SM identify enemy ships within 45cm for VP; (5) campaign uses (result 11/12 Convoy and planetary defences).",
+  "special_rules": [
+   "Contact-marker arrival of SM vessels",
+   "Space Marines score assault points",
+   "Space Marine ships identify the enemy within 45cm"
+  ],
+  "xr_dependencies": [
+   "Scenarios: The Raiders, Planetary Assault, Surprise Attack, Escalating Engagement",
+   "03_space-marines.md",
+   "s.31 teleport attacks"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Written for the original rulebook scenarios",
+    "source_text": "To fight this out, you could base the battle on The Raiders scenario, though both forces start with an equal points value.",
+    "xr_section": "Scenarios, The Raiders (booklet)",
+    "xr_text": "The Raiders",
+    "effect": "Original scenario names and mechanics changed in XR (Raiders: defender -1 Ld for D6 turns). Each variant is only an outline with no rules text."
+   },
+   {
+    "topic": "Space Marine fleet list",
+    "source_text": "Space Marine battle barge ... 425 pts ... Master of the Fleet (Ld 10) ... 50 pts",
+    "xr_section": "03_space-marines.md",
+    "xr_text": "Space Marines",
+    "effect": "The Annual fleet list is superseded by the booklet's Space Marine fleet list and Chapter tactics."
+   },
+   "Checked: ideas only; no deployment, forces or victory conditions given."
+  ],
+  "missing_or_unclear": [
+   "All five variants lack forces, deployment and victory conditions (they are suggestions).",
+   "Which scenario the booklet expects for 'Escalating Engagement' arrival by contact markers."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Not buildable as scenarios without new text; a source of ideas only. Same text in Warp Storm and the Annual."
+ },
+ {
   "group": "Book of Nemesis (Cypra Probatii)",
   "source": "Book of Nemesis",
   "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
@@ -772,9 +1400,9 @@
    {
     "topic": "Fireships",
     "source_text": "The Chaos forces have 1500 points and 8 free Fireships at their disposal.",
-    "xr_section": "07_chaos.md",
-    "xr_text": "Chaos fleet list",
-    "effect": "Fireships are not in the booklet; the source gives no profile in this scenario."
+    "xr_section": "06_support-assets.md, Fire Ship",
+    "xr_text": "Fire Ship Escort | 10 | 1 | 32mm | 15cm | 45 | 1 | 5+ | 1 | May detonate (non-braced) during its move: D3 Fire criticals on all ships within 3D6cm, ignoring shields, removing ordnance in range",
+    "effect": "The Fire Ship is a Support Assets system ship (10 pts, limit 0-6 for a fleet). The scenario gives eight free, above that limit."
    },
    {
     "topic": "VP for ships leaving by the Chaos edge",
@@ -793,7 +1421,6 @@
    "Checked: deployment, first turn, game length."
   ],
   "missing_or_unclear": [
-   "Fireship profile and rules.",
    "Ld of Warhost Nemesis ships (list-dependent).",
    "Who is the attacker (Chaos moves first).",
    "Admiral rules ('profile and points cost of an Imperial Admiral' in the booklet is a Vice Admiral or Fleet Admiral)."
