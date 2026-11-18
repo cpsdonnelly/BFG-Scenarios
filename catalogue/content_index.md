@@ -1248,3 +1248,62 @@ No scenarios.
 | Double's Hobby Insights: terrain | 65-80 | other | |
 | Moose Musings: Suppression cruiser | 82-83 | ship design | 160pts. |
 | James Woodford gallery | 84-87 | other | |
+
+### Warp Rift 44 (June 2024) — `WarpRift44.pdf`, 36 PDF pages, OCR
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Contents, editorial | 2-3 | other | |
+| Tobari support cruiser; Tobari "Build Me a Ship" challenge | 5-7 | ship design | |
+| Keywords in Battlefleet Gothic | 8 | rules variant | |
+| Space Marine fleet rules: leaders; Imperial Navy battle barge, Mercury class battlecruiser | 9-10 | fleet list | |
+| Moose Musings: Asteroids! | 11 | rules variant | Destroying asteroids. |
+| Battlefleet Gothic Tree Campaign (Francis) | 13-14 | campaign | Four linked battles for one star system, 2000pt fleets, two players. |
+| Scenario: The Engagement at Norduun (Bleachhawk) | 15-17 | scenario | Historical, early M40, Rustroja Sector: an Imperial fleet (Vengeance grand cruiser flagship) against two Chaos forces escorting reinforcements and supplies. |
+| Campaigning through the Stars: Necrons | 18-25 | campaign | Necron campaign rules: conquest, refits, appeal charts. |
+| Tactica: Imperial Navy Overview part one | 27-33 | tactics | |
+| Double's Hobby Section: airbrushing bases | 35 | other | |
+
+### Warp Rift 45 (October 2024) — `WarpRift45.pdf`, 43 PDF pages, OCR
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Tobari Kingdom, Tobari battleship (horizon) | 5-6 | ship design | 350pts. |
+| Grey Knights fleet | 7-9 | fleet list | General rules, capital ships, escorts, reserves and allies. |
+| Moose Musings: Segmentum Pacificus, Chiros Sector fleet list | 10-11 | fleet list | |
+| Campaigning through the Stars: Rogue Traders (Fro5ty) | 13-21 | campaign | Rogue Trader campaign rules, refits, appeals. |
+| The Tyrant Challenge episode 2 | 23 | battle report | |
+| Tactica: Imperial Navy Overview part two | 24-28 | tactics | |
+| Battle report: Larsik's Gambit (Turbidious Tom) | 29-31 | battle report | Mechanicus vs Dark Mechanicus. |
+| The Fall of Hyra: a narrative one-day campaign (DoublebaseFanatic) | 32-42 | campaign | Badab War event: lore, pre-made fleet lists (Loyalists, Secessionists), Badab vessels, and the scenario "The Fall of Hydra" combining BFG with Kill Team boarding actions and orbital support. |
+
+### Warp Rift 46 (March 2025) — `WarpRift46.pdf`, 78 PDF pages
+
+PDF pages 39-78 have **no text** layer (image pages); they were identified from the page images.
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Battlefleet Gothic Keywords (Voi_D_ragon) | 5 | rules variant | |
+| Battlefleet Pech: the Kroot (Frank O'Hanlon) | 6-12 | fleet list | Kroot fleet. |
+| On the Crewing of Voidships (AlricOfRahls) | 13 | other | |
+| Campaign: Gretarius (Si, Grotesque Misalignment) | 15-19 | campaign | Narrative campaign setting: worlds of the Gretarius system and hazards such as the Psultoroth void creatures. |
+| Moose Musings: The Tyranid Snowball (Italianmoose) | 20 | campaign | Tyranids in campaigns. |
+| Campaigning through the Stars: Adeptus Mechanicus | 21-27 | campaign | Mechanicus campaign rules. |
+| Tactica Imperial Navy: The Bastion Fleets (HuvalC and Fr05ty) | 29-31 | tactics | |
+| Facebook Painting Competition 2024 review | 33-38 | other | |
+| Imperial Navy fleet rules and ship profiles (image insert) | 39-78 | fleet list | Imperial Navy fleet rules, every battleship, grand cruiser, battlecruiser, cruiser, light cruiser and escort profile with faction keywords, and the Gothic Sector, Bastion Fleets and Armageddon Sector fleet lists. |
+
+### Warp Rift 47 (October 2025) — `WarpRift47.pdf`, 40 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Chaos Gargoyle class battleship (the Catalyst) | 5 | ship design | |
+| Imperial Missile Cruiser (Bleachhawk) | 6-7 | ship design | |
+| Craftworld Lugganath (horizon) | 8-14 | fleet list | Craftworld and Corsair fleet list with Lugganath ships. |
+| Battlefleet Heresy: Galaxy Aflame (Joe Snuff) | 15-17 | rules variant | Horus Heresy era rules. |
+| Ships from the Discordia Sector (Fr05ty) | 18-20 | ship design | |
+| Moose Musings: Mathematical musing (Italianmoose) | 22-25 | tactics | Probability analysis. |
+| Scenario: The Shattered Gate (Turbidious Tom) | 27-28 | scenario | Any vs any round a damaged Eldar webway gate (Orks want to ram it); long-edge deployment, optional Eldar reinforcements through the gate. |
+| Scenario extra: The Void Eye (Bleachhawk) | 29-31 | other | A warp beast model and background for the scenarios that use warp beasts; presented as a scenario extra. |
+| Campaigning through the Stars: Eldar (Fr05ty) | 32-38 | campaign | Eldar campaign rules, refits, appeals. |
+| Imperial Missile Cruiser painting | 40 | other | |
