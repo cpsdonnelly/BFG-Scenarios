@@ -567,3 +567,66 @@ Articles from the Fanatic Online website, one per file. Most are text PDFs; `03b
 | 90btf Black Templars fleet | Black Templars Fleet (Ray Bell) | 1-4 | fleet list | House rules for a Black Templars fleet. |
 | 92bfg Vessels of Mars | Vessels of Mars (Nate Montes, Robert Henderson, Ray Bell) | 1-4 | fleet list | Adeptus Mechanicus ships and rules. |
 | 99bfg Dethroner | Chaos Dethroner Class Battleship | 1-2 | ship design | 405pt Chaos battleship converted from the Conquest. |
+
+---
+
+## Project_Distant_Darkness
+
+A fan narrative series about a renegade Tau project fleet (Kor'O Ry'zon and his captains). Text PDFs; a few pages are pictures with no text. No printed page numbers. Many missions use the series' own ships and characters, so they need the Distant Darkness fleet list in `Project Distant Darkness Main.pdf`.
+
+### Project Distant Darkness Main (Revival; Roy "Horizon" Amkreutz and Chris "Zhai Morenn" Lautermilch) — `Project Distant Darkness Main.pdf`, 30 PDF pages
+
+| Title | PDF p. | Type | What it is |
+|---|---|---|---|
+| Introduction and story | 1-5 | fiction | The project's origins. |
+| Production levels and ship profiles | 6-11 | ship design | Distant Darkness vessels by phase: Ry'zon's personal Lar'shi'vre, escort, Or'es El'leath, Il'Porrui, Mantis and Marauder variants. |
+| Character profiles | 12-14 | other | The command crew (Tas'ka, L'ikei, Nua'ta, Sheva's). |
+| Special rules | 15-16 | rules variant | Railgun batteries, Manta missile destroyers, prow deflector, experimental stealth system. |
+| Project Distant Darkness fleet list | 17 | fleet list | Fleet commanders and ships. |
+| Scenario: Hunter-Prey | 18-19 | scenario | Distant Darkness vs Novamarines (Space Marines). |
+| Scenario: Light and Darkness | 20 | scenario | Distant Darkness vs Imperial Navy, which must escape with something. |
+| Scenario: Stolen Goods | 21 | scenario | Distant Darkness vs a Rogue Trader. |
+| Scenario: Barrage | 22-23 | scenario | Distant Darkness vs Chaos. |
+| Scenario: Crossfire | 24 | scenario | Distant Darkness and a Tau ECF fleet acting independently vs Orks (Kill Kroozers). |
+| Scenario: Silent Strike | 25 | scenario | Distant Darkness vs Imperial Navy. |
+| Scenario: Hunter Cadre | 26 | scenario | Distant Darkness Hunter Cadre (opponent in the text). |
+| Scenario: Another Day, Another Plan | 27-28 | scenario | Distant Darkness vs Eldar. |
+| Scenario: Into Darkness | 29 | scenario | Distant Darkness vs Dark Eldar. |
+| "To be continued" | 30 | fiction | |
+
+### Project Distant Darkness Chapter I: The Art of Command — 48 PDF pages
+
+A story in ten chapters with one mission each (and two small sub-missions). Most missions are fixed set-ups with named ships, damage states and special conditions rather than points-based scenarios.
+
+| Title | PDF p. | Type | What it is |
+|---|---|---|---|
+| Title, contents, special characters, special rules | 1-5 | other | Kor'O Ry'zon and the crew's characters; re-roll rules. |
+| Chapter 1 / Mission One | 6-7 | scenario | Surprise engagement, inner biosphere: the damaged Ry'zon, a Castellan and two Lar'shi in a fixed set-up. |
+| Chapter 2 / Mission Two | 8-11 | scenario | Three Castellans by an asteroid ring round a planet against Necrons. |
+| Chapter 3 / Mission Three | 12-16 | scenario | The Mantis Emissary infiltrates a Tau orbital dockyard (Remora drones, sleeping Security Orbitals, cloaking). |
+| Chapter 4 / Mission Four | 17-18 | scenario | Five Tau transports and two Defenders against Necron Dirges and Jackals in the outer reaches. |
+| Chapter 5 / Mission Five | 19-21 | scenario | Deep space round a comet with a dust tail; against Imperial ships. |
+| Chapter 6 / Mission Six | 22-25 | scenario | Five Protectors (phase II) against drones released from a dockyard each turn; no disengaging. |
+| Chapter 7 / Sub-Mission Seven | 26-28 | scenario | Ly'tan's shuttle must reach an asteroid field from a Merchant. |
+| Mission Seven | 29 | scenario | Five Protectors in wing formation against Necrons (and an Ork mention), sunward edge marked. |
+| Chapter 8 / Mission Eight | 30-33 | scenario | A standard Fleet Engagement against the Novamarines fleet. |
+| Chapter 9 / Mission Nine | 34-37 | scenario | A Cruiser Clash: the Distant Darkness fleet against a Tau Empire fleet (Custodian Kor'O A'zju). |
+| Sub-Mission Nine | 38-39 | scenario | Garit's shuttle escapes Tau Barracudas to an asteroid field. |
+| Chapter 10 / Mission Ten | 40-43 | scenario | Ly'tan's crippled Explorer and Wardens, the five heroes' Protectors entering behind, against a damaged Tau Empire force. |
+| Epilogue | 44-46 | fiction | |
+
+### Project Distant Darkness Chapter II: Distant Sun — 56 PDF pages
+
+A supplement of seven chapters, each followed by a scenario. PDF pages 1, 4, 52, 55 and 56 have no text (pictures).
+
+| Title | PDF p. | Type | What it is |
+|---|---|---|---|
+| Title, characters (Kor'O Ry'zon Ld 10, elite command crew) | 2-5 | other | |
+| Into the Claw (chapter, scenario) | 6-9 | scenario | The Distant Darkness fleet against Tyranids. |
+| Supply and Demand (chapter, scenario) | 10-14 | scenario | Two Protectors (Tas'ka, Sheva's) hunting a Tau Empire convoy (Hero, two Emissaries, two Defenders, ten cargo transports) in an asteroid-lined outer reaches. |
+| Nightmares (chapter, scenario) | 15-21 | scenario | Tau with Eldar against Tyranids. |
+| Spirit Within, Spirit Without (chapter, scenario) | 22-27 | scenario | Against Orks (Kill Kroozers). |
+| Rising Shadow (chapter, scenario) | 28-32 | scenario | Against Tyranids. |
+| Abandon All Hope (chapter, scenario) | 33-41 | scenario | Against a Tyranid hive fleet. |
+| Ever Dream (chapter, scenario) | 42-51 | scenario | The last stand: Tau and Eldar against Tyranid hive ships. |
+| Epilogue | 53-54 | fiction | |
