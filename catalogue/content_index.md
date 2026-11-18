@@ -630,3 +630,66 @@ A supplement of seven chapters, each followed by a scenario. PDF pages 1, 4, 52,
 | Abandon All Hope (chapter, scenario) | 33-41 | scenario | Against a Tyranid hive fleet. |
 | Ever Dream (chapter, scenario) | 42-51 | scenario | The last stand: Tau and Eldar against Tyranid hive ships. |
 | Epilogue | 53-54 | fiction | |
+
+---
+
+## Warp_Storm_Planet_Killer
+
+All OCR.
+
+### Warp Storm (White Dwarf Presents) — `Warp Storm (part 1 of 2).pdf` (66 PDF pages) and `Warp Storm (part 2 of 2).pdf` (66 PDF pages)
+
+One publication split in two files. Page references are "part 1 p.N" or "part 2 p.N". Printed page = part 1 PDF page - 2, or part 2 PDF page + 64. Part 2 ends with the Planet Killer preview (part 2 p.55-66). Part 1 PDF pages 1-2 and 31 have no text.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Contents, foreword | 1: 4-5 | 2-3 | other | |
+| Torpedoes Away! | 1: 6-7 | 4-5 | rules variant | Special torpedoes: barrage bombs, melta, vortex and others. |
+| Advanced Rules (Andy Chambers) | 1: 8-9 | 6-7 | rules variant | Torpedo bombers, orbital mines, fighters, bomber waves (reprinted in the 2002 Annual). |
+| Brace for Impact! | 1: 10-11 | 8-9 | Q&A/FAQ | Questions and answers. |
+| Incident at Stranivar (Gordon Rennie) | 1: 12-13 | 10-11 | fiction | |
+| The Battle of Callavell (Gav Thorpe) | 1: 14-16 | 12-14 | scenario | Historical refight from the Age of Apostasy: a massive Imperial vs rebel Imperial battle (Imperial and Chaos ships on both sides), in divisions. |
+| Wolf Pack (Gordon Rennie) | 1: 17-19 | 15-17 | fiction | A tale from the Lord Solar Macharius. |
+| Convoy Run Variants | 1: 20-21 | 18-19 | scenario | Same article as in the 2002 Annual (attacker tables, Eldar in the Convoy Run). |
+| In the Beginning: creating a planet | 1: 22-23 | 20-21 | other | Modelling planets. |
+| Creating a Sub-Sector Map | 1: 24-25 | 22-23 | campaign | Warpspace channels, system types, example sub-sector. |
+| Death from the Skies! (Gav Thorpe) | 1: 26-30 | 24-28 | campaign | Linking BFG campaigns to Epic 40,000 and Warhammer 40,000: campaign results chart, troops transported, heavy transports. |
+| Imperial Tactics: The Battle Formation | 1: 32-35 | 30-33 | tactics | Formations, the Scheer manoeuvre, carrier warfare. |
+| Battlefleet Atkins | 1: 36-37 | 34-35 | tactics | Rob Atkins' Imperial fleet. |
+| Out of the Warp! (Rich Baker) | 1: 38-43 | 36-41 | tactics | Collecting and playing Chaos, with a fleet registry. |
+| Plague Fleet (Christian Richnow) | 1: 44-45 | 42-43 | tactics | A Nurgle fleet. |
+| Waaagh! Fleet Gorbag | 1: 46-47 | 44-45 | tactics | Andy Chambers' Ork fleet. |
+| Fighting the Eldar; Stalking the Void | 1: 48-50 | 46-48 | tactics | Eldar tactics; the Void Stalker battleship. |
+| To Cleanse the Stars (Gav Thorpe, Andy Chambers) | 1: 51-52, 61-62 | 49-50, 59-60 | fleet list | Space Marine fleet list and scenario variants (reprinted in the Annual). |
+| Space is Green! (Andy Chambers) | 1: 53-60 | 51-58 | ship design | Ork hulks and roks, Ork Waaagh! fleet list, colour schemes. |
+| The Slayer of Worlds | 1: 63-66; 2: 1-2 | 61-66 | ship design | Planet Killer, Abaddon, Armageddon gun rules (reprinted in the Annual). |
+| New Contacts and De'Aynes Fighting Ships of the Gothic Sector | 2: 4-21 | 68-85 | ship design | Ship descriptions and famous ships: Chaos and Imperial, Eldar, Ork fleets. |
+| Battles of the Gothic Sector: Hunter, Prey (John Carter, Che Webster, Andy Chambers) | 2: 23-31 | 87-95 | battle report | The Raid on Vedyaria Outpost: Imperial attack on an Eldar base among asteroids. |
+| War over Calydon (Andy Chambers, Dave Andrews, Gav Thorpe and others) | 2: 32-48 | 96-112 | battle report | Imperial vs Chaos battle report with fleet organisation and conclusions. |
+| Mail order | 2: 49-54 | 113-118 | other | |
+| Planet Killer preview: editorial | 2: 55-57 | 119-121 | other | |
+| Torpedo Run (David Camburn) | 2: 58-59 | 122-123 | scenario | Historical refight in two sizes: torpedo destroyers attack an enemy cruiser, or the pursuit of the Chaos battleship Bloodwake ("Sink the Bismarck"). |
+| Eldar refits | 2: 59-60 | 123-124 | campaign | Eldar refit tables. |
+| Warp Beasts | 2: 62-63 | 126-127 | rules variant | Warp beast rules. |
+| Imperial Vanquisher class battleship | 2: 64 | 128 | ship design | 340pts. |
+
+### Planet Killer 1 (Fanatic Press) — `Planet Killer - 01.pdf`, 52 PDF pages
+
+Printed page = PDF page - 2.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Contents, legal | 3-4 | 1-2 | other | |
+| Cities in Space (John Carter) | 5-6 | 3-4 | ship design | An Eldar craftworld for multi-player games. |
+| The Imperial Navy | 7-13 | 5-11 | tactics | Imperial fleet tactics. |
+| Ramilies class Star Fort (Andy Chambers) | 14-19 | 12-17 | ship design | Star fort rules (later in the 2002 Annual). |
+| Chaos Space Marine fleet list (Glen Haase) | 20-22 | 18-20 | fleet list | Fleet list, marks, Abaddon, Chaos Space Marine battle barge. |
+| New Threat Alert! Fra'al battlecruiser | 23-24 | 21-22 | ship design | Alien battlecruiser, no points. |
+| Adverts, competitions | 25-32 | 23-30 | other | |
+| Nova Cannon Ammunition (Ned Smotherman) | 33-35 | 31-33 | rules variant | Alternative nova cannon shells (warp rift, E.M. shell, dust cloud...). |
+| Corribra Sector (Matt Sprange) | 36-41 | 34-39 | campaign | Campaign setting: background, Battlefleet Corribra, famous ships. |
+| Corribra: Re-fighting the Engagements | 42-46 | 40-44 | scenario | Linked historical scenarios of the Phillipa war: The Blockade, Invasion of Phillipa II, The Baiting, The Eldar Enter the War, Escalation, The Liberation of Phillipa II (titles from the OCR; Imperial vs Slaaneshi Chaos, with Eldar). |
+| New Ships: Siluria class light cruiser | 47 | 45 | ship design | 90pts. |
+| Hot from the Forges, fleet deals | 48-49 | 46-47 | other | |
+| Space Hulk Convoy (Uwe Wegner) | 50 | 48 | scenario | Imperial and Space Marine fleet towing a captured Ork space hulk to a forge world; any enemy with 2000pts. |
+| Vanquisher picture | 51 | 49 | other | |

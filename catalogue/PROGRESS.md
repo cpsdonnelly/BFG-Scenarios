@@ -11,7 +11,7 @@
 | Fanatic_Online | 34 | done |
 | Project_Distant_Darkness | 3 | done |
 | Warp_Rift | 50 | |
-| Warp_Storm_Planet_Killer | 3 (Warp Storm in two parts) | |
+| Warp_Storm_Planet_Killer | 3 (Warp Storm in two parts) | done |
 
 ## Step 2: scenario catalogue
 
@@ -21,3 +21,4 @@ Not started.
 
 - Page text extracted with `pdftotext -layout` into the scratchpad (regenerate if lost).
 - Tournament Mission Pack PDF pages 9-11 have no text layer: read from images.
+- Project Distant Darkness opponents in the index were inferred from faction mentions on each mission page; confirm when cataloguing.
