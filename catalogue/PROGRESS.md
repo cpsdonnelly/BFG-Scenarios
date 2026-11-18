@@ -8,7 +8,7 @@
 | Annual_2002_Invasion | 3 | done |
 | BFG_Magazine | 22 (19 issues, Old 12, Scenario Listing, xlsx index) | done |
 | Fanatic_Magazine | 17 | done |
-| Fanatic_Online | 34 | |
+| Fanatic_Online | 34 | done |
 | Project_Distant_Darkness | 3 | |
 | Warp_Rift | 50 | |
 | Warp_Storm_Planet_Killer | 3 (Warp Storm in two parts) | |

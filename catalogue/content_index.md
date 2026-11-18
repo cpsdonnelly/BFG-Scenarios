@@ -524,3 +524,46 @@ Each file is one article cut from an issue of Fanatic Magazine. All are OCR. Pri
 | Fanatic Magazine 08 Tyranid tactics | Tyranid Tactics | 1-8 | tactics | Hive fleet organisation, vessels, bio-upgrades, tactics against each race. |
 | Fanatic Magazine 09 Necron tactics | Necron Tactics | 1-7 | tactics | Necron weapons, ships and common player errors. |
 | Fanatic Magazine 10 FAQ | Battlefleet Gothic FAQ | 1-5 | Q&A/FAQ | FAQ by fleet: Imperial, Space Marine and Chaos, Eldar, Tyranids, Necrons. PDF page 6 has no text. |
+
+---
+
+## Fanatic_Online
+
+Articles from the Fanatic Online website, one per file. Most are text PDFs; `03bfgqaa` is a scan with text only on PDF page 5 (pages 1-4 and 6 were read from the page images). No printed page numbers are recorded.
+
+| File | Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|---|
+| 03bfgqaa FAQ2004 [outdated] | BFG Q&A: Your Questions Answered (Matt Keefe, Nate Montes, Bob Henderson) | 1-6 | Q&A/FAQ | The 2004 rules FAQ, part 1 (leadership, special orders, shooting, ordnance...). Marked outdated. Mostly **no text** (image pages). |
+| 04 battlefleet-gothic-privateer-scenarios | Privateer Part 2 (Matt Keefe) | 1-6 | scenario | Same article as `Fanatic Magazine 07 Privateer` (Fanatic 7, printed pages 82-87): Privateer rules, Scenario I The Wolf Packs, Scenario II Tau Space, Tau Trade. |
+| 07tt Tyranid Tactics | Tyranid Tactics (Owen Barnes) | 1-8 | tactics | Same article as `Fanatic Magazine 08 Tyranid tactics`. |
+| 08nt Necron Tactics | Necron Tactics (Elan Stein) | 1-7 | tactics | Same article as `Fanatic Magazine 09 Necron tactics`. |
+| 11bfgfaq FAQ2004 fleets [outdated] | Battlefleet Gothic FAQ part 2 (Matt Keefe) | 1-4 | Q&A/FAQ | Celestial phenomena and race-specific Q&A (Fanatic 10). Marked outdated. |
+| 16et Eldar Tactics | Eldar Tactics (Dan Rothman) | 1-14 | tactics | Long guide to Eldar pirate fleets. |
+| 20np New Celestial Phenomena | New Phenomena (author unknown) | 1-5 | rules variant | Extension of the battlezone generator: minor, moderate and major hazards (double planet, asteroid belt, valuables: wreckage and hulks, binary star, gas and dust belt...). |
+| 24kvqf Tau Kororvesh SG edition [old] | Kor'vattra Qath'fannor: Tau Commerce Protection Fleet | 1-11 | fleet list | Specialist Games edition of the Tau Kor'or'vesh rules (superseded by the Forge World version). |
+| 26radr Scenario Reunion at Daemon Run | Reunion at Daemon Run (Michael Pike) | 1-2 | scenario | Competition runner-up. Grey Knights strike cruisers under Inquisitor Lord Gyorgy Coldiron hunt Lady Erzsebet's Slaaneshi fleet (Favoured Concubine); Gothic War. |
+| 27salii Scenario Surprise at Lachlon II | Surprise at Lachlon II (Reinout Hubbers) | 1-2 | scenario | Competition runner-up. 1000pt fleets: a retreating Imperial fleet with the free Emperor battleship Legatus Stygies and a space station, stalked by a Chaos cruiser detachment. |
+| 28pmb Scenario the Port Maw Blockade | The Port Maw Blockade (Alan Jackson) | 1-3 | scenario | Competition winner. Attack on Port Maw's orbital defences in the primary biosphere; extra planetary defence points, minelayer upgrades. |
+| 32rfgii Random force generator II | Random Force Generator II (Philippe Mauger) | 1 | rules variant | Follow-up to Dan Peric's generator (BFG Magazine 9). |
+| 34fota Scenario the Fate of the Abhorrence | The Fate of the Abhorrence (Nicholas Beach) | 1-2 | scenario | Gothic War: Imperial (Vengeance grand cruiser Undeniable and others) and Eldar ships fight over towing the crippled Chaos battleship Abhorrence. |
+| 39kclc Necron Kopesh class light cruiser | Khopesh Class Light Harvester (Elan Stein) | 1-2 | ship design | House-rule Necron ship. |
+| 42gcgc IN Governor class grand cruiser | Governor Class Grand Cruiser (Warmaster Nice, Admiral d'Artagnan) | 1-2 | ship design | House-rule Imperial grand cruiser. |
+| 43lv Tau Lar'shi variants | Lar'shi Variants (Gary Carney, Frank O'Hanlon) | 1-3 | ship design | Two house-rule Tau Hero variants. |
+| 53bok Campaign Battle over Kotol | Battle Over Kotol (Wesley Vickers) | 1-5 | campaign | Narrative campaign of five missions of rising size: Imperial defenders against any attacker. Battles: 1 Contact, 2 Hold the Line, 3 It Begins, 4 Counter Attack, 5 The Defense of Kolot. (The planet is "Kolot" in the text, "Kotol" in the title.) |
+| 59titf Character Ship Divine Sanction | The Inquisition Takes Flight (Matthew McConnaughey) | 1 | ship design | Character ship competition finalist: Inquisitor's ship Divine Sanction. |
+| 60fc Character Ship Favoured Concubine | Favoured Concubine (Michael Pike) | 1-2 | ship design | Lady Erzsebet's Slaaneshi Despoiler, 535pts. |
+| 61or Character Ship Orkhram'z Raza | Orkhram'z Raza (Dick Sy) | 1-2 | ship design | Ork battlekroozer character ship. |
+| 62tlb Character Ship the Light Bringer | The Light Bringer (Andrew Jenkin) | 1-3 | ship design | Character ship from a space hulk. |
+| 63tba Character Ship the Black Avenger | The Black Avenger (Richard Galvez) | 1-2 | ship design | Character ship (Inquisition). |
+| 67hclc Chaos Heretic class light cruiser | Heretic Class Light Cruiser (Marcin "MKG" Gerkowicz) | 1 | ship design | Same ship as in the Book of Nemesis. |
+| 69pf Scenario Planet Fall | Planet Fall (Nick Schindler) | 1-2 | scenario | Medusa V: an Ulthwe Eldar fleet tries to make planetfall (a whole turn in low orbit) past a 750pt Imperial blockade and orbital stations. |
+| 74bc Character Ship Bakhara's Chariot | Bakara's Chariot (Jonathan S Ward) | 1 | ship design | Raider's Lunar cruiser character ship. |
+| 75tkov Forgeworld Tau Kororvesh rules [old-archived] | The Tau Kor'or'vesh (v1.0) | 1-9 | fleet list | Forge World Tau Protector-era ships, version 1.0 (archived). |
+| 76dgk Grey Knights in BFG | Daemonhunters: Grey Knights in Battlefleet Gothic | 1-2 | fleet list | Same article as BFG Magazine 16. |
+| 78bgm Ork Tactics | Blunt, Green & Mean (Stefano Breviglieri) | 1-4 | tactics | Ork tactics. |
+| 81bfw Blackstone Fortress Weapon Rules | Blackstone Fortress Weapons (Peter Spence) | 1 | rules variant | House rules for the Blackstone Fortress "super mega-death shot". |
+| 82pdd Project Distant Darkness Tau Protector variant | Project Distant Darkness (Roy Amkreutz) | 1-2 | ship design | House-rule Tau Protector variant. |
+| 89tt Torpedo tactics | Torpedo Tactics ("Volandum") | 1-3 | tactics | Torpedo use. |
+| 90btf Black Templars fleet | Black Templars Fleet (Ray Bell) | 1-4 | fleet list | House rules for a Black Templars fleet. |
+| 92bfg Vessels of Mars | Vessels of Mars (Nate Montes, Robert Henderson, Ray Bell) | 1-4 | fleet list | Adeptus Mechanicus ships and rules. |
+| 99bfg Dethroner | Chaos Dethroner Class Battleship | 1-2 | ship design | 405pt Chaos battleship converted from the Conquest. |
