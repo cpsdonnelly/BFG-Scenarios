@@ -137,7 +137,7 @@ Printed page = PDF page - 2. The Annual sorts its rules into New Rules (official
 | Forge World kits | 44-45 | 42-43 | other | Advertisement. |
 | Ordnance Launch Limits (Andy Chambers) | 46 | 44 | rules variant | Experimental limit on ordnance launched. |
 | Nova Cannon Fire! (Pete Haines) | 47 | 45 | rules variant | Experimental nova cannon changes. |
-| Battlefleet Bakka (John Lambshead) | 48-58 | 46-56 | fleet list | History, Lord Admiral Rath, the Bakka fleet list and its ships (Emperor, Victory?, Enforcer, Endeavour, Viper). |
+| Battlefleet Bakka (John Lambshead) | 48-58 | 46-56 | fleet list | History, Lord Admiral Rath, the Bakka fleet list and its ships (Emperor, Victory, Enforcer, Endeavour, Viper). |
 | Hellfire (Duncan Sargent) | 59-62 | 57-60 | ship design | Converting a Chaos Hellfire heavy cruiser, with its profile. |
 | Tactica Imperialis (Andy Hall) | 63-64 | 61-62 | tactics | Imperial tactics against Necrons. |
 | Advanced Rules (Andy Chambers) | 66-68 | 64-66 | rules variant | Torpedo bombers, orbital mines, fighters, bomber waves, ordnance Q&A. |
