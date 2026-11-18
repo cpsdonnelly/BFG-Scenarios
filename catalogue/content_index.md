@@ -8,7 +8,7 @@ Text-layer notes: **OCR** marks a scanned file whose text is Tesseract OCR (numb
 
 ## Advanced_Tournament_Nemesis_Starblade
 
-### BFG Advanced Scenarios (Paolo Barbero) — `BFG advanced scenarios .pdf`, 12 PDF pages, OCR
+### BFG Advanced Scenarios (Paolo Barbero): `BFG advanced scenarios .pdf`, 12 PDF pages, OCR
 
 Revised versions of six AdeptiCon tournament missions (the originals are in the Tournament Mission Pack below). No printed page numbers.
 
@@ -24,7 +24,7 @@ Revised versions of six AdeptiCon tournament missions (the originals are in the 
 | Wrecks O'Plenty | 11 | scenario | Any vs any. Seven wreck tokens round a central planet, salvaged by boarding; a 1 overloads the wreck's reactor. |
 | Back cover | 12 | other | Disclaimer. |
 
-### BFG Tournament Mission Pack (AdeptiCon 2007, 2009, 2010 missions; booklet by Paolo Barbero) — `BFG Tournament Mission Pack.pdf`, 22 PDF pages
+### BFG Tournament Mission Pack (AdeptiCon 2007, 2009, 2010 missions; booklet by Paolo Barbero): `BFG Tournament Mission Pack.pdf`, 22 PDF pages
 
 Text PDF, except PDF pages 9-11 (A6, B1, B2), which have **no text** layer. The missions are numbered by roster (A1-A6, B1-B6, C1-C6), which also serve as the printed page labels. Every mission is any vs any.
 
@@ -52,7 +52,7 @@ Text PDF, except PDF pages 9-11 (A6, B1, B2), which have **no text** layer. The 
 | C6 Hide n' Seek | 21 | scenario | A dense asteroid field round an anomaly that sends radiation spikes affecting ships, with a Leadership chart. |
 | Credits | 22 | other | Baba Yaga Dungeon Club; Game Kastle Store's anti-disengage tournament rules. |
 
-### Book of Nemesis (Cypra Probatii; ed. Marcin "MKG" Gerkowicz) — `Book of Nemesis.pdf`, 62 PDF pages
+### Book of Nemesis (Cypra Probatii; ed. Marcin "MKG" Gerkowicz): `Book of Nemesis.pdf`, 62 PDF pages
 
 Text PDF. Printed page = PDF page - 2.
 
@@ -96,7 +96,7 @@ Text PDF. Printed page = PDF page - 2.
 | Gunnery Practice | 59 | 57 | scenario | Special solo/minigame: one low-Ld cruiser shoots asteroids for six turns and must survive undamaged. |
 | Authors | 60 | 58 | other | Credits. |
 
-### Starblade (Roy "Horizon" Amkreutz) — `Starblade.pdf`, 32 PDF pages
+### Starblade (Roy "Horizon" Amkreutz): `Starblade.pdf`, 32 PDF pages
 
 Text PDF. A narrative Eldar campaign of nine linked scenarios; each scenario is preceded by a poem page. Battlezone 180 x 120cm throughout.
 
@@ -118,7 +118,7 @@ Text PDF. A narrative Eldar campaign of nine linked scenarios; each scenario is 
 
 ## Annual_2002_Invasion
 
-### Battlefleet Gothic 2002 Annual (ed. Warwick Kinrade) — `Battlefleet Gothic - 2002 Annual.pdf`, 92 PDF pages, OCR
+### Battlefleet Gothic 2002 Annual (ed. Warwick Kinrade): `Battlefleet Gothic - 2002 Annual.pdf`, 92 PDF pages, OCR
 
 Printed page = PDF page - 2. The Annual sorts its rules into New Rules (official), Experimental Rules and Unofficial House Rules; the status of each article is given in its heading.
 
@@ -150,7 +150,7 @@ Printed page = PDF page - 2. The Annual sorts its rules into New Rules (official
 | Heavy Transports (Gav Thorpe) | 90 | 88 | ship design | Heavy transports for Planetary Assault and Convoy scenarios (from Warp Storm). |
 | Back cover | 91-92 | | other | |
 
-### Battlefleet Gothic Invasion — `Battlefleet Gothic Invasion.pdf`, 36 PDF pages, OCR
+### Battlefleet Gothic Invasion: `Battlefleet Gothic Invasion.pdf`, 36 PDF pages, OCR
 
 US booklet of new scenarios and hobby articles. Printed page = PDF page - 2.
 
@@ -171,7 +171,7 @@ US booklet of new scenarios and hobby articles. Printed page = PDF page - 2.
 | Deadline | 20-21 | 18-19 | scenario | Linked 40K and BFG scenarios: destroy three generator bunkers to stop a macro cannon, then the fleet battle (rulebook Scenario Seven set-up). |
 | Product catalogue | 22-34 | 20-32 | other | Miniatures range. |
 
-### Imperium Tactica: Lord Rhamirez's Masterclass — `Imperium Tactica Rhamirez.pdf`, 5 PDF pages
+### Imperium Tactica: Lord Rhamirez's Masterclass: `Imperium Tactica Rhamirez.pdf`, 5 PDF pages
 
 Text PDF (a web print of a Fanatic article; printed pages 2-6).
 
@@ -185,7 +185,7 @@ Text PDF (a web print of a Fanatic article; printed pages 2-6).
 
 All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated. The folder also holds `BFG magazine Index.xlsx`, an earlier community index of the issues (used as a cross-check; it misses several items), and `BFG Scenario Listing.pdf` (indexed at the end of this folder).
 
-### Battlefleet Gothic Magazine 1 — `Battlefleet Gothic Magazine 01.pdf`, 52 PDF pages
+### Battlefleet Gothic Magazine 1: `Battlefleet Gothic Magazine 01.pdf`, 52 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -202,7 +202,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Corribra Sector Part II (Matt Sprange) | 40-45 | 38-43 | campaign | Imperial (Captain Leigh) vs Ork (Warlord Gutztoof) campaign: four linked escort-sized scenarios ending with the Gork's Pay; famous ships of the sector. |
 | Catalogue, adverts | 46-52 | 44-50 | other | |
 
-### Battlefleet Gothic Magazine 2 — `Battlefleet Gothic Magazine 02.pdf`, 52 PDF pages
+### Battlefleet Gothic Magazine 2: `Battlefleet Gothic Magazine 02.pdf`, 52 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -218,7 +218,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Experimental Rules: the Smotherman Formula | 45-47 | 43-45 | rules variant | Points formula for designing ships. |
 | Catalogue | 48-52 | 46-50 | other | |
 
-### Battlefleet Gothic Magazine 3 — `Battlefleet Gothic Magazine 03.pdf`, 28 PDF pages
+### Battlefleet Gothic Magazine 3: `Battlefleet Gothic Magazine 03.pdf`, 28 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -231,7 +231,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Mailbag / Q&A | 23-24 | 21-22 | Q&A/FAQ | Mainly Necron questions. |
 | Catalogue | 22, 25-28 | | other | |
 
-### Battlefleet Gothic Magazine 4 — `Battlefleet Gothic Magazine 04.pdf`, 28 PDF pages
+### Battlefleet Gothic Magazine 4: `Battlefleet Gothic Magazine 04.pdf`, 28 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -246,7 +246,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Hellfire (Duncan Sargent) | 22-25 | 20-23 | ship design | Chaos Hellfire heavy cruiser conversion and profile. |
 | Catalogue, grand cruiser showcase | 26-28 | 24-26 | other | |
 
-### Battlefleet Gothic Magazine 5 — `Battlefleet Gothic Magazine 05.pdf`, 28 PDF pages
+### Battlefleet Gothic Magazine 5: `Battlefleet Gothic Magazine 05.pdf`, 28 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -261,7 +261,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Building Bio-ships | 21-25 | 19-23 | other | Tyranid conversions. |
 | Catalogue | 20, 26-28 | | other | |
 
-### Battlefleet Gothic Magazine 6 — `Battlefleet Gothic Magazine 06.pdf`, 28 PDF pages
+### Battlefleet Gothic Magazine 6: `Battlefleet Gothic Magazine 06.pdf`, 28 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -275,7 +275,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Brace for Impact | 24 | 22 | other | Rules status list. |
 | Catalogue, painting | 18, 25-28 | | other | |
 
-### Battlefleet Gothic Magazine 7 — `Battlefleet Gothic Magazine 07.pdf`, 28 PDF pages
+### Battlefleet Gothic Magazine 7: `Battlefleet Gothic Magazine 07.pdf`, 28 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -289,7 +289,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Wolf Packs (James Snee, Frank Court) | 20-25 | 18-23 | fleet list | Human pirates: Leadership, battlezones, a D6 pirate raid scenario generator (Blockade Run, Surprise Attack, Raiders, Convoy Run, Planetary Assault), Sword frigate, transports, armed freighter, Q-ship, Galaxy freighter. |
 | Catalogue, painting | 6-7, 13, 26-28 | | other | |
 
-### Battlefleet Gothic Magazine 8 — `Battlefleet Gothic Magazine 08.pdf`, 28 PDF pages
+### Battlefleet Gothic Magazine 8: `Battlefleet Gothic Magazine 08.pdf`, 28 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -307,7 +307,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Execution Hour (Tim Driscole) | 23-25, 27 | 21-23, 25 | scenario | Imperial evacuation fleet (Macharius, Graf Orlock, Borodino) escaping a Chaos force from the warp at Belatis; from Gordon Rennie's novel. |
 | Forge World, catalogue | 16-17, 22, 26 | | other | |
 
-### Battlefleet Gothic Magazine 9 — `Battlefleet Gothic Magazine 09.pdf`, 28 PDF pages
+### Battlefleet Gothic Magazine 9: `Battlefleet Gothic Magazine 09.pdf`, 28 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -323,7 +323,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Scenario: The Siege (Eric Kelley) | 24-25 | 22-23 | scenario | Any vs any: attacking a fortified system holding a Ramilies star fort or Blackstone Fortress; defender in five groups with reinforcements. |
 | Catalogue, adverts | 12-13, 20-21, 26-28 | | other | |
 
-### Battlefleet Gothic Magazine 10 — `Battlefleet Gothic Magazine 10.pdf`, 28 PDF pages
+### Battlefleet Gothic Magazine 10: `Battlefleet Gothic Magazine 10.pdf`, 28 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -336,7 +336,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Punisher class strike cruiser | 24-25 | 22-23 | ship design | Adeptus Arbites strike cruiser. |
 | Annual advert, Forge World, catalogue | 13, 21-23, 26, 28 | | other | |
 
-### Battlefleet Gothic Magazine 11 — `Battlefleet Gothic Magazine 11.pdf`, 28 PDF pages
+### Battlefleet Gothic Magazine 11: `Battlefleet Gothic Magazine 11.pdf`, 28 PDF pages
 
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
@@ -347,7 +347,7 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Tyranids in the rulebook scenarios | 25 | 23 | scenario | Notes on playing each rulebook scenario with a hive fleet. |
 | Contacts, Dark Eldar recognition guide | 26-27 | 24-25 | other | |
 
-### Battlefleet Gothic Magazine 12 — `Battlefleet Gothic Magazine 12.pdf`, 36 PDF pages
+### Battlefleet Gothic Magazine 12: `Battlefleet Gothic Magazine 12.pdf`, 36 PDF pages
 
 Printed page = PDF page - 2. A second scan of this issue is `Old Battlefleet Gothic Magazine 12.pdf` (below).
 
@@ -363,11 +363,11 @@ Printed page = PDF page - 2. A second scan of this issue is `Old Battlefleet Got
 | Contacts | 34 | 32 | other | |
 | Battlefleet Armageddon: The Chosin Line | 35 | 33 | other | Background on the Chosin Line orbital defence perimeter round Armageddon. |
 
-### Old Battlefleet Gothic Magazine 12 — `Old Battlefleet Gothic Magazine 12.pdf`, 34 PDF pages
+### Old Battlefleet Gothic Magazine 12: `Old Battlefleet Gothic Magazine 12.pdf`, 34 PDF pages
 
 An older scan of issue 12 with the same articles; the Overlord conversion and the Leviathan pages are shorter by two pages. Nothing in it is missing from the newer scan (checked page by page against the outline above). Pages: editorial 3-5, light cruisers 6-11, mailbag 12-13, Numitor 14-19, Overlord 20-21, Leviathan 22-25, appeals charts 26-31, contacts 32, Chosin Line 33.
 
-### Battlefleet Gothic Magazine 13 — `Battlefleet Gothic Magazine 13.pdf`, 36 PDF pages
+### Battlefleet Gothic Magazine 13: `Battlefleet Gothic Magazine 13.pdf`, 36 PDF pages
 
 Printed page = PDF page - 2.
 
@@ -383,7 +383,7 @@ Printed page = PDF page - 2.
 | Cerberus Scenario 1: Into the Nebula | 29-33 | 27-31 | scenario | Imperial vs Ork: the exploration cruiser Venturer (Captain Lysander) must escape an Ork blockade of the Shroud Nebula; Blockade Run set-up, sub-plots, historical results. |
 | Contacts, Battlefleet Armageddon: Voss' Steel (the Falchion) | 34-35 | 32-33 | other | |
 
-### Battlefleet Gothic Magazine 14 — `Battlefleet Gothic Magazine 14.pdf`, 36 PDF pages
+### Battlefleet Gothic Magazine 14: `Battlefleet Gothic Magazine 14.pdf`, 36 PDF pages
 
 Printed page = PDF page - 2. The three Armageddon scenarios are already in the booklet; the Cerberus War scenarios are not.
 
@@ -405,7 +405,7 @@ Printed page = PDF page - 2. The three Armageddon scenarios are already in the b
 | Cerberus Scenario 4: Apotheosis | 29-33 | 27-31 | scenario | Ahriman's Chaos fleet assaults the Eldar craftworld Alurmen: low orbit table, assault points, Eldar defence stations, historical forces, Ahriman's rules (200pts). PDF pages 32-33 continue the scenario after the forces page. |
 | Contacts, cover art | 34-36 | 32-34 | other | |
 
-### Battlefleet Gothic Magazine 15 — `Battlefleet Gothic Magazine 15.pdf`, 36 PDF pages
+### Battlefleet Gothic Magazine 15: `Battlefleet Gothic Magazine 15.pdf`, 36 PDF pages
 
 Printed page = PDF page - 2. No scenarios.
 
@@ -418,7 +418,7 @@ Printed page = PDF page - 2. No scenarios.
 | Strength in Numbers (Alex Aimette) | 26-33 | 24-31 | tactics | Cruiser squadron tactics and formations, with example squadrons. |
 | Contacts, Cacophony Rex | 34-35 | 32-33 | other | |
 
-### Battlefleet Gothic Magazine 16 — `Battlefleet Gothic Magazine 16.pdf`, 36 PDF pages
+### Battlefleet Gothic Magazine 16: `Battlefleet Gothic Magazine 16.pdf`, 36 PDF pages
 
 Printed page = PDF page - 2.
 
@@ -438,7 +438,7 @@ Printed page = PDF page - 2.
 | Battle 4: Belis Corona | 31-33 | 29-31 | scenario | Grand finale: every ship on both fleet lists; historical notes and fleet lists. The booklet's Above Belis Corona (Armada) is a different scenario. |
 | Chaos Space Hulk | 34 | 32 | ship design | |
 
-### Battlefleet Gothic Magazine 17 — `Battlefleet Gothic Magazine 17.pdf`, 36 PDF pages
+### Battlefleet Gothic Magazine 17: `Battlefleet Gothic Magazine 17.pdf`, 36 PDF pages
 
 Printed page = PDF page - 2 (approximately; the OCR'd folios are unreliable in the Tau section).
 
@@ -451,7 +451,7 @@ Printed page = PDF page - 2 (approximately; the OCR'd folios are unreliable in t
 | The Vagaries of War (Nate Montes, Bob Henderson) | 30-34 | 28-32 | campaign | Map-based alternative campaign rules: fleet registry, orders, fleet movement, deciding scenarios, renown. |
 | Tau colour schemes | 35 | 33 | other | |
 
-### Battlefleet Gothic Magazine 18 — `Battlefleet Gothic Magazine 18.pdf`, 34 PDF pages
+### Battlefleet Gothic Magazine 18: `Battlefleet Gothic Magazine 18.pdf`, 34 PDF pages
 
 Printed page = PDF page - 2.
 
@@ -466,7 +466,7 @@ Printed page = PDF page - 2.
 | The Hive Fleets: Tyranids in Battlefleet Gothic | 18-32 | 16-30 | fleet list | Tyranid rules: hive mind, synaptic control, navigation, weapons, damage, hive ship, Kraken, escort drones, hive fleet list, evolutions. |
 | Scenario Notes | 33 | 31 | scenario | Using each rulebook scenario (Cruiser Clash ... Planetary Assault) with a hive fleet (updated from issue 11). |
 
-### Battlefleet Gothic Magazine 19 — `Battlefleet Gothic Magazine 19.pdf`, 35 PDF pages
+### Battlefleet Gothic Magazine 19: `Battlefleet Gothic Magazine 19.pdf`, 35 PDF pages
 
 Printed page = PDF page - 2. The last issue.
 
@@ -482,7 +482,7 @@ Printed page = PDF page - 2. The last issue.
 | Tau Kor'vattra fleet list | 33 | 31 | fleet list | |
 | Back cover, Rogue Trader vessels | 34-35 | 32-33 | other | |
 
-### BFG Scenario Listing — `BFG Scenario Listing.pdf`, 4 PDF pages
+### BFG Scenario Listing: `BFG Scenario Listing.pdf`, 4 PDF pages
 
 Byte-for-byte the same file as `reference/BFG_Scenario_Listing.pdf`.
 
@@ -490,7 +490,7 @@ Byte-for-byte the same file as `reference/BFG_Scenario_Listing.pdf`.
 |---|---|---|---|
 | BFG Scenario Listing (compiled by "italianmoose") | 1-4 | other | Community list of 152 scenarios by publication, with authors and a "generic" flag; the source of `reference/scenario_checklist.md`. |
 
-### BFG magazine Index — `BFG magazine Index.xlsx`
+### BFG magazine Index: `BFG magazine Index.xlsx`
 
 | Title | Type | What it is |
 |---|---|---|
@@ -574,7 +574,7 @@ Articles from the Fanatic Online website, one per file. Most are text PDFs; `03b
 
 A fan narrative series about a renegade Tau project fleet (Kor'O Ry'zon and his captains). Text PDFs; a few pages are pictures with no text. No printed page numbers. Many missions use the series' own ships and characters, so they need the Distant Darkness fleet list in `Project Distant Darkness Main.pdf`.
 
-### Project Distant Darkness Main (Revival; Roy "Horizon" Amkreutz and Chris "Zhai Morenn" Lautermilch) — `Project Distant Darkness Main.pdf`, 30 PDF pages
+### Project Distant Darkness Main (Revival; Roy "Horizon" Amkreutz and Chris "Zhai Morenn" Lautermilch): `Project Distant Darkness Main.pdf`, 30 PDF pages
 
 | Title | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -594,7 +594,7 @@ A fan narrative series about a renegade Tau project fleet (Kor'O Ry'zon and his 
 | Scenario: Into Darkness | 29 | scenario | Distant Darkness vs Dark Eldar. |
 | "To be continued" | 30 | fiction | |
 
-### Project Distant Darkness Chapter I: The Art of Command — 48 PDF pages
+### Project Distant Darkness Chapter I: The Art of Command: 48 PDF pages
 
 A story in ten chapters with one mission each (and two small sub-missions). Most missions are fixed set-ups with named ships, damage states and special conditions rather than points-based scenarios.
 
@@ -615,7 +615,7 @@ A story in ten chapters with one mission each (and two small sub-missions). Most
 | Chapter 10 / Mission Ten | 40-43 | scenario | Ly'tan's crippled Explorer and Wardens, the five heroes' Protectors entering behind, against a damaged Tau Empire force. |
 | Epilogue | 44-46 | fiction | |
 
-### Project Distant Darkness Chapter II: Distant Sun — 56 PDF pages
+### Project Distant Darkness Chapter II: Distant Sun: 56 PDF pages
 
 A supplement of seven chapters, each followed by a scenario. PDF pages 1, 4, 52, 55 and 56 have no text (pictures).
 
@@ -637,7 +637,7 @@ A supplement of seven chapters, each followed by a scenario. PDF pages 1, 4, 52,
 
 All OCR.
 
-### Warp Storm (White Dwarf Presents) — `Warp Storm (part 1 of 2).pdf` (66 PDF pages) and `Warp Storm (part 2 of 2).pdf` (66 PDF pages)
+### Warp Storm (White Dwarf Presents): `Warp Storm (part 1 of 2).pdf` (66 PDF pages) and `Warp Storm (part 2 of 2).pdf` (66 PDF pages)
 
 One publication split in two files. Page references are "part 1 p.N" or "part 2 p.N". Printed page = part 1 PDF page - 2, or part 2 PDF page + 64. Part 2 ends with the Planet Killer preview (part 2 p.55-66). Part 1 PDF pages 1-2 and 31 have no text.
 
@@ -673,7 +673,7 @@ One publication split in two files. Page references are "part 1 p.N" or "part 2 
 | Warp Beasts | 2: 62-63 | 126-127 | rules variant | Warp beast rules. |
 | Imperial Vanquisher class battleship | 2: 64 | 128 | ship design | 340pts. |
 
-### Planet Killer 1 (Fanatic Press) — `Planet Killer - 01.pdf`, 52 PDF pages
+### Planet Killer 1 (Fanatic Press): `Planet Killer - 01.pdf`, 52 PDF pages
 
 Printed page = PDF page - 2.
 
@@ -700,7 +700,7 @@ Printed page = PDF page - 2.
 
 Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDFs except issues 44 and 45, which are OCR. Each issue has a contents page; PDF pages below were found by searching the text for each title, and the printed page is usually the PDF page - 1. Regular sections: Lock On (tactics), Encyclopaedia Gothica (rules), The Dry Dock (modelling), Officers Mess (fiction), Ships Log (battle reports), Void Stalker (scenarios and campaigns, from issue 5).
 
-### Warp Rift 1 — `warprift01.pdf`, 32 PDF pages
+### Warp Rift 1: `warprift01.pdf`, 32 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -712,7 +712,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | Battle of Pelucidar (Space Cadet) | 19-30 | fiction | |
 | Astronomicon, Docking Claws, Incoming | 31-32 | Q&A/FAQ | Questions and answers, links. |
 
-### Warp Rift 2 — `warprift02.pdf`, 22 PDF pages
+### Warp Rift 2: `warprift02.pdf`, 22 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -723,7 +723,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | Not All Is As It Seems; Memories (Norman) | 17-20 | fiction | |
 | Recon Engagement (Chris French) | 21 | battle report | Short battle report. |
 
-### Warp Rift 3 — `warprift03.pdf`, 32 PDF pages
+### Warp Rift 3: `warprift03.pdf`, 32 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -734,7 +734,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | Captain Sinn's Gambit (Norman) | 23-30 | fiction | |
 | Astronomicon | 31 | Q&A/FAQ | |
 
-### Warp Rift 4 — `warprift04.pdf`, 35 PDF pages
+### Warp Rift 4: `warprift04.pdf`, 35 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -746,7 +746,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | Kr00zin' Part Two (kr00za) | 23-24 | other | Modelling. |
 | The Captain's Day (Norman) | 25-34 | fiction | |
 
-### Warp Rift 5 — `warprift05.pdf`, 35 PDF pages
+### Warp Rift 5: `warprift05.pdf`, 35 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -758,7 +758,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | Forcing the Mobeel Narrows (Gaunts Ghost) | 27-32 | scenario | Historical, 147.M41: Imperial forces break into the Louisabama system past the rebel-held (Chaos) space port of Mobeel and its defences. |
 | Siege of Fularis (Ray Bell) | 33-35 | scenario | A siege scenario using the Blackstone Fortress rules; one fleet loses if it disengages or is destroyed. |
 
-### Warp Rift 6 — `warprift06.pdf`, 30 PDF pages
+### Warp Rift 6: `warprift06.pdf`, 30 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -769,7 +769,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | The Bait Part One (Space Cadet) | 17-25 | fiction | |
 | The Ilithrium Campaign (Ray Bell) | 26-30 | campaign | Simple Imperial vs Chaos campaign in the 13th Black Crusade (adaptable to other races). |
 
-### Warp Rift 7 — `warprift07.pdf`, 41 PDF pages
+### Warp Rift 7: `warprift07.pdf`, 41 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -781,7 +781,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | GothiComp 2005 submissions | 30-31 | other | |
 | The Bait Part Two (Space Cadet) | 32-41 | fiction | |
 
-### Warp Rift 8 — `warprift08.pdf`, 32 PDF pages
+### Warp Rift 8: `warprift08.pdf`, 32 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -791,7 +791,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | GothiComp 2005 winners; Big Guns (kr00za) | 16-20 | other | |
 | The Wanderer (Chris French); Chaos Rising (Warmaster Ancaris) | 21-32 | fiction | |
 
-### Warp Rift 9 — `warprift09.pdf`, 33 PDF pages
+### Warp Rift 9: `warprift09.pdf`, 33 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -803,7 +803,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | The Third Fallback (Admiral Lord Michael; credited to Space Cadet) | 25-30 | fiction | |
 | Choir of a Thousand Voices (CyberShadow) | 31-33 | scenario | Chaos attack an Imperial convoy of Black Ships carrying psykers, en route where Imperial support is unavailable. |
 
-### Warp Rift 10 — `warprift10.pdf`, 40 PDF pages
+### Warp Rift 10: `warprift10.pdf`, 40 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -814,7 +814,7 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 
 From issue 11 the contents pages give one start page per article; the table gives that start page (PDF page, checked where the article could be found in the text, otherwise the printed page, which is the PDF page or one less).
 
-### Warp Rift 11 — `warprift11.pdf`, 34 PDF pages (editor from here: Roy "Horizon" Amkreutz)
+### Warp Rift 11: `warprift11.pdf`, 34 PDF pages (editor from here: Roy "Horizon" Amkreutz)
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -826,7 +826,7 @@ From issue 11 the contents pages give one start page per article; the table give
 | Elerianath's Gift (Roy Amkreutz) | 30-32 | scenario | Imperial Navy (up to 1000pts, at least half escorts) vs Orks on contact markers round a drifting Eldar vessel; 200 VP for the first Imperial ship or squadron to leave by the far short edge. |
 | Ship Lexicon | 33 | other | |
 
-### Warp Rift 12 — `warprift12.pdf`, 35 PDF pages
+### Warp Rift 12: `warprift12.pdf`, 35 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -838,7 +838,7 @@ From issue 11 the contents pages give one start page per article; the table give
 | Command and Control: Corsair Eldar versus Space Marines (Roy Amkreutz, Guy Custers) | 29 | battle report | 1500pt Eldar (MMS 1.5) vs Dark Angels. |
 | Ship Lexicon | 35 | other | |
 
-### Warp Rift 13 — `warprift13.pdf`, 39 PDF pages
+### Warp Rift 13: `warprift13.pdf`, 39 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -851,7 +851,7 @@ From issue 11 the contents pages give one start page per article; the table give
 | Space Wolf Scenario I: Wolf Hunt (Dex "Admiral D'Artagnan" Sy) | 36-37 | scenario | Space Wolves vs Imperial Navy: the Wolves intercept a convoy near a renegade station and jump point; convoy zone, asteroid fields. |
 | Space Wolf Scenario II: Hunter Hunted (Dex Sy) | 38-39 | scenario | Imperial Navy blockade vs Space Wolves (up to 1000pts) escaping with a captured cruiser; a heavily modified Blockade Run. |
 
-### Warp Rift 14 — `warprift14.pdf`, 38 PDF pages
+### Warp Rift 14: `warprift14.pdf`, 38 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -864,7 +864,7 @@ From issue 11 the contents pages give one start page per article; the table give
 | Who Goes There? (Alun "Fafrin" Lucas) | 29-30 | scenario | Fun scenario: Imperial fleet (about 1000pts) searching for hidden Ork hulks and roks; capital ships scan each turn. |
 | The Domination of Herculis (Mitch) | 31-35 | campaign | Map-based campaign for three or more players, with notes on Tyranids and other races. |
 
-### Warp Rift 15 — `warprift15.pdf`, 34 PDF pages
+### Warp Rift 15: `warprift15.pdf`, 34 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -876,7 +876,7 @@ From issue 11 the contents pages give one start page per article; the table give
 | Scenario: The Solar Collectors (Mitch) | 32 | scenario | The Diasporex defend solar collectors in a star's corona (flare region) while refuelling; any attacker. |
 | Campaign: Diasporex campaign additions (Mitch) | 33-34 | campaign | Scenario choice, promotions, appeals and calls-for-aid tables for the Diasporex. |
 
-### Warp Rift 16 — `warprift16.pdf`, 50 PDF pages
+### Warp Rift 16: `warprift16.pdf`, 50 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -887,7 +887,7 @@ From issue 11 the contents pages give one start page per article; the table give
 | A Linked Pair of Scenarios to Introduce the Haven: The Asteroids; The Haven | 48-49 | scenario | Searchers vs Eldar: first a search of asteroid fields with ordnance, then an attack on the revealed Eldar haven (Haven Spire), which the searchers win by destroying or forcing to disengage. |
 | Flame On! tournament | 50 | other | Advert. |
 
-### Warp Rift 17 — `warprift17.pdf`, 41 PDF pages
+### Warp Rift 17: `warprift17.pdf`, 41 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -897,7 +897,7 @@ From issue 11 the contents pages give one start page per article; the table give
 | How to Magnetize your Cruisers (Chang) | 27-30 | other | |
 | Tyranid Painting Guide (Giulio Taverna) | 31 | other | |
 
-### Warp Rift 18 — `warprift18.pdf`, 37 PDF pages
+### Warp Rift 18: `warprift18.pdf`, 37 PDF pages
 
 The contents also lists "Divine Intervention" (printed page 38), which is not in the file.
 
@@ -910,7 +910,7 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | Alternative Campaign Rules (Stefano Breviglieri) | 32-35 | campaign | Post-game damage table, resources, reserves. |
 | Minefield Templates (Shapeshifter) | 36-37 | other | Printable templates. |
 
-### Warp Rift 19 — `warprift19.pdf`, 32 PDF pages
+### Warp Rift 19: `warprift19.pdf`, 32 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -922,7 +922,7 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | Convoy Battle (CELS, Anargo Sector Project) | 29-30 | scenario | Imperial merchant convoy trapped by a large attacking fleet split into two attack groups; until one fleet disengages or is destroyed. |
 | Simultaneous Movement Markers; Lance Turret | 31-32 | other | |
 
-### Warp Rift 20 — `warprift20.pdf`, 29 PDF pages
+### Warp Rift 20: `warprift20.pdf`, 29 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -935,7 +935,7 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | Unknown Weapons (Volandum) | 27 | scenario | Tau vs a Tyranid splinter fleet with restrictions. |
 | 3D Blastmarkers (Admiral Dadde) | 28-29 | other | |
 
-### Warp Rift 21 — `warprift21.pdf`, 36 PDF pages
+### Warp Rift 21: `warprift21.pdf`, 36 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -947,7 +947,7 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | Fannon's Patrol (Reg Steiner) | 24 | scenario | From a narrative campaign re-settling Ork-held stars; any attacker (Orks by default; Eldar pirates, Chaos or Imperial substitutes). |
 | High Anchor part three (Richard Swan) | 25-36 | fiction | |
 
-### Warp Rift 22 — `warprift22.pdf`, 29 PDF pages
+### Warp Rift 22: `warprift22.pdf`, 29 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -958,7 +958,7 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | WAAAAAGH (Dominic Amlôt) | 13-28 | fiction | |
 | Minor Engagement (Andy "Ruckdog" Rucker) | 29 | scenario | Small pick-up game between small forces, two deployment zones. |
 
-### Warp Rift 23 — `warprift23.pdf`, 34 PDF pages
+### Warp Rift 23: `warprift23.pdf`, 34 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -970,7 +970,7 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | Target Priority (Admiral Robert de Bertl) | 25-32 | tactics | |
 | Sizes of the Imperial Navy | 33 | other | |
 
-### Warp Rift 24 — `warprift24.pdf`, 38 PDF pages
+### Warp Rift 24: `warprift24.pdf`, 38 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -983,7 +983,7 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | Falling Down (Zhai Morenn) | 32-35 | scenario | Distant Darkness story and scenario: a Tau raid in an Imperial system (Swords and a transport replaced by Corsair class escorts and a light cruiser). |
 | The Forge: Craftworld Eldar, Dark Eldar (and "Fire Everything") | 36-38 | other | Printable counters/templates. |
 
-### Warp Rift 25 — `warprift25.pdf`, 38 PDF pages
+### Warp Rift 25: `warprift25.pdf`, 38 PDF pages
 
 No scenarios.
 
@@ -998,7 +998,7 @@ No scenarios.
 | A Tyranid War, Chapter 10 part 2 (Reg Steiner) | 17-35 | fiction | |
 | The Forge: Imperial Navy, Orks | 36-38 | other | |
 
-### Warp Rift 26 — `warprift26.pdf`, 36 PDF pages
+### Warp Rift 26: `warprift26.pdf`, 36 PDF pages
 
 No scenarios.
 
@@ -1011,7 +1011,7 @@ No scenarios.
 | WAAAAAGH part 2, 1 of 2 (Dominic Amlôt) | 19-29 | fiction | |
 | Raiding the Bits Drawer (S.A.N.G.); Tyranid markers; vortex templates; Adeptus Mechanicus Ark | 30-36 | other | |
 
-### Warp Rift 27 — `warprift27.pdf`, 32 PDF pages
+### Warp Rift 27: `warprift27.pdf`, 32 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1023,7 +1023,7 @@ No scenarios.
 | Battle for the Stygies System (Max Porter Zasada "Moox") | 29-31 | campaign | Tree campaign, Imperial vs Chaos (with Eldar): each battle's result picks the next scenario (Convoy, Planetary Assault and others) with locations and attacker/defender. |
 | Eldar Craftworld | 32 | other | |
 
-### Warp Rift 28 — `warprift28.pdf`, 28 PDF pages
+### Warp Rift 28: `warprift28.pdf`, 28 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1036,7 +1036,7 @@ No scenarios.
 | The Spreading War part 1 (Reg Steiner) | 20-27 | scenario | Narrative with scenarios (Rebellion; second scenario "Death and Glory" / Rear Guard action: renegades must force every Imperial ship off the table). |
 | Chaos Hades class cruiser | 28 | other | Art. |
 
-### Warp Rift 29 — `warprift29.pdf`, 27 PDF pages
+### Warp Rift 29: `warprift29.pdf`, 27 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1046,7 +1046,7 @@ No scenarios.
 | GothiComp 2010 fleet finalists | 15-17 | other | |
 | The Spreading War part 2 (Reg Steiner) | 18-27 | scenario | Narrative continued, Imperial vs Orks, with scenarios: Ork forces of 1200 and 1500pts, planetary installations and stations scored and captured by assault boats. |
 
-### Warp Rift 30 — `warprift30.pdf`, 19 PDF pages
+### Warp Rift 30: `warprift30.pdf`, 19 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1059,7 +1059,7 @@ No scenarios.
 | Battles in the Warp (Dan Lee) | 15-16 | rules variant | Fighting inside the warp: reduced weapon ranges and hit rolls, Geller field tests, daemons materialising aboard. |
 | A Good Deed part 1 (A. R. Aston) | 17-19 | fiction | |
 
-### Warp Rift 31 — `warprift31.pdf`, 25 PDF pages
+### Warp Rift 31: `warprift31.pdf`, 25 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1071,7 +1071,7 @@ No scenarios.
 | Battlefleet Limante part I (Bryan McMahon) | 17-20 | other | Background: history and famous squadrons and people. No scenario rules. |
 | A Good Deed part II (A. R. Aston) | 21-25 | fiction | |
 
-### Warp Rift 32 — `warprift32.pdf`, 20 PDF pages
+### Warp Rift 32: `warprift32.pdf`, 20 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1082,7 +1082,7 @@ No scenarios.
 | Black Ship conversion (Mangozac) | 12-14 | other | |
 | Battlefleet Limante part II (Bryan McMahon) | 15-20 | fiction | Background and history (planetary survey, battle for the sector). |
 
-### Warp Rift 33 — `warprift33.pdf`, 13 PDF pages
+### Warp Rift 33: `warprift33.pdf`, 13 PDF pages
 
 No scenarios.
 
@@ -1094,7 +1094,7 @@ No scenarios.
 | Advanced Ordnance Rules (Graham Wilson) | 8-11 | rules variant | Named attack craft types per race (fighters, bombers, torpedo bombers with their own profiles). |
 | GothiComp 2011 finalists | 12-13 | other | |
 
-### Warp Rift 34 (February 2022, the revival) — `WarpRift34.pdf`, 50 PDF pages
+### Warp Rift 34 (February 2022, the revival): `WarpRift34.pdf`, 50 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1107,7 +1107,7 @@ No scenarios.
 | BFG starter kit (DoublebaseFanatic) | 39-42 | other | |
 | Jeremiah Crowe: The Diasporex Gambit (Tales from the Book of the Void) | 43-49 | scenario | Story with two linked scenarios (Scenario One: The Hammer Needs an Anvil; Scenario Two: Diversions) around the Damnation's Fear; Inquisitorial operations vessel and Metis light combat cruiser profiles. |
 
-### Warp Rift 35 (May 2022) — `WarpRift35.pdf`, 40 PDF pages
+### Warp Rift 35 (May 2022): `WarpRift35.pdf`, 40 PDF pages
 
 No scenarios.
 
@@ -1123,7 +1123,7 @@ No scenarios.
 | Invincible fast battleship build | 32-36 | other | |
 | Jokaero (Nate Montes) | 37-39 | ship design | Jokaero star-frame, 270pts. |
 
-### Warp Rift 36 (October 2022) — `WarpRift36.pdf`, 66 PDF pages
+### Warp Rift 36 (October 2022): `WarpRift36.pdf`, 66 PDF pages
 
 No scenarios.
 
@@ -1137,7 +1137,7 @@ No scenarios.
 | Dark Eldar / Drukhari Tactica (Zhai Morenn) | 33-58 | tactics | Ship-by-ship advice and play against each fleet. |
 | Tau painting guide; nebula bases (DoublebaseFanatic, horizon) | 59-65 | other | |
 
-### Warp Rift 37 (January 2023) — `WarpRift37.pdf`, 51 PDF pages
+### Warp Rift 37 (January 2023): `WarpRift37.pdf`, 51 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1150,7 +1150,7 @@ No scenarios.
 | Arks of Omen: the Balefleets (Grifftofer, Italianmoose, horizon) | 37-47 | fleet list | Dark Mechanicum Ark of Omen in two sizes (750 and 2500pts) with movement, damage, critical and catastrophic tables, campaign use and fleet list. |
 | Planet guide (DoublebaseFanatic) | 48-50 | other | |
 
-### Warp Rift 38 (March 2023) — `WarpRift38.pdf`, 49 PDF pages
+### Warp Rift 38 (March 2023): `WarpRift38.pdf`, 49 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1164,7 +1164,7 @@ No scenarios.
 | Showcase | 46 | other | |
 | Moose Musings (Italianmoose) | 47-49 | rules variant | Proposed alternative rules for playtesting: deploying troops from high orbit / low orbit. |
 
-### Warp Rift 39 (May 2023) — `WarpRift39.pdf`, 47 PDF pages
+### Warp Rift 39 (May 2023): `WarpRift39.pdf`, 47 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1178,7 +1178,7 @@ No scenarios.
 | Showcase | 43 | other | |
 | Moose Musings: Reload Ordnance!; Revisiting WR38 low orbit; Tyranids | 44-46 | rules variant | |
 
-### Warp Rift 40 (July 2023) — `WarpRift40.pdf`, 61 PDF pages
+### Warp Rift 40 (July 2023): `WarpRift40.pdf`, 61 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1196,7 +1196,7 @@ No scenarios.
 | Moose Musings: Avenger, torpedo bombers, update to Commerce Raiders | 46-47 | rules variant | Includes changes to the Commerce Raiders scenario (Warp Rift 38). |
 | Solblade and Tyranid paper cut-outs, markers | 48-60 | other | |
 
-### Warp Rift 41 (October 2023, "Mind Hive") — `WarpRift41.pdf`, 41 PDF pages
+### Warp Rift 41 (October 2023, "Mind Hive"): `WarpRift41.pdf`, 41 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1212,7 +1212,7 @@ No scenarios.
 | Double's Hobby Insights: The Behemoth Arrives | 32-37 | other | |
 | Showcase; Moose Musings: The D12 | 38-40 | rules variant | Using a D12 for some rolls. |
 
-### Warp Rift 42 (December 2023) — `WarpRift42.pdf`, 53 PDF pages
+### Warp Rift 42 (December 2023): `WarpRift42.pdf`, 53 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1230,7 +1230,7 @@ No scenarios.
 | Double's Hobby Insights: rotating Blackstone Fortress | 43-50 | other | |
 | Moose Musings: Ships pushing blast markers | 52 | rules variant | |
 
-### Warp Rift 43 (March 2024, 20th anniversary) — `WarpRift43.pdf`, 88 PDF pages
+### Warp Rift 43 (March 2024, 20th anniversary): `WarpRift43.pdf`, 88 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1249,7 +1249,7 @@ No scenarios.
 | Moose Musings: Suppression cruiser | 82-83 | ship design | 160pts. |
 | James Woodford gallery | 84-87 | other | |
 
-### Warp Rift 44 (June 2024) — `WarpRift44.pdf`, 36 PDF pages, OCR
+### Warp Rift 44 (June 2024): `WarpRift44.pdf`, 36 PDF pages, OCR
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1264,7 +1264,7 @@ No scenarios.
 | Tactica: Imperial Navy Overview part one | 27-33 | tactics | |
 | Double's Hobby Section: airbrushing bases | 35 | other | |
 
-### Warp Rift 45 (October 2024) — `WarpRift45.pdf`, 43 PDF pages, OCR
+### Warp Rift 45 (October 2024): `WarpRift45.pdf`, 43 PDF pages, OCR
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1277,7 +1277,7 @@ No scenarios.
 | Battle report: Larsik's Gambit (Turbidious Tom) | 29-31 | battle report | Mechanicus vs Dark Mechanicus. |
 | The Fall of Hyra: a narrative one-day campaign (DoublebaseFanatic) | 32-42 | campaign | Badab War event: lore, pre-made fleet lists (Loyalists, Secessionists), Badab vessels, and the scenario "The Fall of Hydra" combining BFG with Kill Team boarding actions and orbital support. |
 
-### Warp Rift 46 (March 2025) — `WarpRift46.pdf`, 78 PDF pages
+### Warp Rift 46 (March 2025): `WarpRift46.pdf`, 78 PDF pages
 
 PDF pages 39-78 have **no text** layer (image pages); they were identified from the page images.
 
@@ -1293,7 +1293,7 @@ PDF pages 39-78 have **no text** layer (image pages); they were identified from 
 | Facebook Painting Competition 2024 review | 33-38 | other | |
 | Imperial Navy fleet rules and ship profiles (image insert) | 39-78 | fleet list | Imperial Navy fleet rules, every battleship, grand cruiser, battlecruiser, cruiser, light cruiser and escort profile with faction keywords, and the Gothic Sector, Bastion Fleets and Armageddon Sector fleet lists. |
 
-### Warp Rift 47 (October 2025) — `WarpRift47.pdf`, 40 PDF pages
+### Warp Rift 47 (October 2025): `WarpRift47.pdf`, 40 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1308,7 +1308,7 @@ PDF pages 39-78 have **no text** layer (image pages); they were identified from 
 | Campaigning through the Stars: Eldar (Fr05ty) | 32-38 | campaign | Eldar campaign rules, refits, appeals. |
 | Imperial Missile Cruiser painting | 40 | other | |
 
-### Warp Rift 48 (February 2026) — `WarpRift48.pdf`, 103 PDF pages
+### Warp Rift 48 (February 2026): `WarpRift48.pdf`, 103 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1324,7 +1324,7 @@ PDF pages 39-78 have **no text** layer (image pages); they were identified from 
 | Facebook Painting Competition 2025 | 44-51 | other | |
 | Bonus: Armada Indomitus, Codex: Orks (Nate Montes) | 52-103 | fleet list | Fan Ork codex: Third Armageddon War history, the Armageddon sector, the three Armageddon scenarios (The Gauntlet, Parol's Bait, Defence of Pelucidar: all already in the booklet), clans, special orders, every Ork ship incl. hulks and roks, characters, Freebooterz, planetary defences, fleet lists, refits and crew skills. |
 
-### Warp Rift 49 (June 2026) — `WarpRift49.pdf`, 88 PDF pages
+### Warp Rift 49 (June 2026): `WarpRift49.pdf`, 88 PDF pages
 
 PDF page 63 has no text.
 
@@ -1344,7 +1344,7 @@ PDF page 63 has no text.
 | In memoriam John Blanche | 62 | other | |
 | Bonus: Rogue Traders Reforged v3.1 (Francis) | 64-88 | fleet list | Rogue Trader Dynasty fleet list: promotions, modular ships, gunboats, escorts and recommissioned cruisers, xenos allies, Rogue Trader sub-plots. |
 
-### Warp Rift 50 (November 2026) — `WarpRift50.pdf`, 81 PDF pages
+### Warp Rift 50 (November 2026): `WarpRift50.pdf`, 81 PDF pages
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
