@@ -2,6 +2,8 @@
 
 One table per publication. "PDF p." is the page number in the PDF file; "printed" is the page number printed on the page, where one is visible. Types: scenario, ship design / fleet list, campaign, rules variant, tactics, Q&A/FAQ, battle report, fiction, other.
 
+Pages with no text layer are not blank. Their OCR text is in `ocr_pages/<publication>/<file>.pNNN.txt` (399 pages); every such page below was checked against that OCR and, where it mattered, the page image.
+
 Text-layer notes: **OCR** marks a scanned file whose text is Tesseract OCR (numbers unreliable until checked against the page image). **No text** marks pages with no text layer at all; they were read from the page image.
 
 ---
@@ -37,9 +39,9 @@ Text PDF, except PDF pages 9-11 (A6, B1, B2), which have **no text** layer. The 
 | A3 The Influence of Space Power (AdeptiCon 2007) | 6 | scenario | Pitched battle with a choice of stratagems, one of which holds a reserve element back to enter from table-edge markers on turn 3. |
 | A4 Battle on the Edge of the Warp (AdeptiCon 2009) | 7 | scenario | Fixed terrain with a warp rift at the centre; secondary objectives such as navigating the rift. |
 | A5 Scavenger Hunt (AdeptiCon 2009) | 8 | scenario | Salvage tokens in an old battle zone; one secretly holds jettisoned plans worth 300 VP to whoever controls it. |
-| A6 The Black Hole (AdeptiCon 2010) | 9 | scenario | No text. Original of the Advanced Scenarios version: ships pulled towards a black hole edge each turn. |
-| B1 Sink the Bismark (AdeptiCon 2010) | 10 | scenario | No text. Each player's most expensive capital ship is its "Bismark"; VP for it and objectives such as navigating a warp rift. |
-| B2 Supply Run (AdeptiCon 2010) | 11 | scenario | No text. Ships ending turns in a medium planet's gravity well score bonus VP; secondary objectives. |
+| A6 The Black Hole (AdeptiCon 2010) | 9 | scenario | No text layer (OCR in `ocr_pages/`, checked against the image). Original of the Advanced Scenarios version: ships pulled towards a black hole edge each turn. |
+| B1 Sink the Bismark (AdeptiCon 2010) | 10 | scenario | No text layer (OCR in `ocr_pages/`, checked against the image). Each player's most expensive capital ship is its "Bismark"; VP for it and objectives such as navigating a warp rift. |
+| B2 Supply Run (AdeptiCon 2010) | 11 | scenario | No text layer (OCR in `ocr_pages/`, checked against the image). Ships ending turns in a medium planet's gravity well score bonus VP; secondary objectives. |
 | B3 An Unexpected Encounter | 12 | scenario | Original of the Advanced Scenarios version: detachments arriving as reinforcements. |
 | B4 Battle in the Derelict Base | 13 | scenario | Abandoned fleet base among fixed terrain; some defence satellites are still live and drift at random. |
 | B5 Capture the Research Platform | 14 | scenario | Original of Capture the Station: an armed platform taken by boarding. |
@@ -95,6 +97,7 @@ Text PDF. Printed page = PDF page - 2.
 | Ambush | 58 | 56 | scenario | Special: two allied 500-750pt fleets (independent for composition and re-rolls) ambush one fleet twice the size. Same name as the booklet's Ambush, different scenario. |
 | Gunnery Practice | 59 | 57 | scenario | Special solo/minigame: one low-Ld cruiser shoots asteroids for six turns and must survive undamaged. |
 | Authors | 60 | 58 | other | Credits. |
+| Back page: Warhost Nemesis bridge display | 61 | other | Image page (no text layer): ship and sector data panel for Sir Francis Gherkov, Port Royale and Nemesis sector. Page 62 is blank. |
 
 ### Starblade (Roy "Horizon" Amkreutz): `Starblade.pdf`, 32 PDF pages
 
@@ -529,11 +532,11 @@ Each file is one article cut from an issue of Fanatic Magazine. All are OCR. Pri
 
 ## Fanatic_Online
 
-Articles from the Fanatic Online website, one per file. Most are text PDFs; `03bfgqaa` is a scan with text only on PDF page 5 (pages 1-4 and 6 were read from the page images). No printed page numbers are recorded.
+Articles from the Fanatic Online website, one per file. Most are text PDFs; `03bfgqaa` is a scan whose pages 1-4 and 6 have no text layer (their OCR is in `ocr_pages/Fanatic_Online/`; page 5 has text). `27salii` page 3 is blank. No printed page numbers are recorded.
 
 | File | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|---|
-| 03bfgqaa FAQ2004 [outdated] | BFG Q&A: Your Questions Answered (Matt Keefe, Nate Montes, Bob Henderson) | 1-6 | Q&A/FAQ | The 2004 rules FAQ, part 1 (leadership, special orders, shooting, ordnance...). Marked outdated. Mostly **no text** (image pages). |
+| 03bfgqaa FAQ2004 [outdated] | BFG Q&A: Your Questions Answered (Matt Keefe, Nate Montes, Bob Henderson) | 1-6 | Q&A/FAQ | The 2004 rules FAQ, part 1 (leadership, special orders, shooting, ordnance...). Marked outdated. Same article as `Fanatic Magazine 07 Q&A` (Fanatic 7, printed pp.66-71). Pages 1-4 and 6 have no text layer; OCR in `ocr_pages/`. |
 | 04 battlefleet-gothic-privateer-scenarios | Privateer Part 2 (Matt Keefe) | 1-6 | scenario | Same article as `Fanatic Magazine 07 Privateer` (Fanatic 7, printed pages 82-87): Privateer rules, Scenario I The Wolf Packs, Scenario II Tau Space, Tau Trade. |
 | 07tt Tyranid Tactics | Tyranid Tactics (Owen Barnes) | 1-8 | tactics | Same article as `Fanatic Magazine 08 Tyranid tactics`. |
 | 08nt Necron Tactics | Necron Tactics (Elan Stein) | 1-7 | tactics | Same article as `Fanatic Magazine 09 Necron tactics`. |
@@ -897,9 +900,9 @@ From issue 11 the contents pages give one start page per article; the table give
 | How to Magnetize your Cruisers (Chang) | 27-30 | other | |
 | Tyranid Painting Guide (Giulio Taverna) | 31 | other | |
 
-### Warp Rift 18: `warprift18.pdf`, 37 PDF pages
+### Warp Rift 18: `warprift18.pdf`, 38 PDF pages
 
-The contents also lists "Divine Intervention" (printed page 38), which is not in the file.
+Page 38 has no text layer; its text is in `ocr_pages/Warp_Rift/warprift18.p038.txt`.
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -909,6 +912,7 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | Reaper's Toll (Mark Nutter) | 18-31 | fiction | |
 | Alternative Campaign Rules (Stefano Breviglieri) | 32-35 | campaign | Post-game damage table, resources, reserves. |
 | Minefield Templates (Shapeshifter) | 36-37 | other | Printable templates. |
+| Divine Intervention | 38 | ship design | Character sheet (image page): Retribution class (modified) battleship of the Inquisition, Lord Admiral Flavius Sesar Reed, Omega Draconum fleet, Anargo Sector; hangar decks, alien power core and a psychic manipulator. No rules text. |
 
 ### Warp Rift 19: `warprift19.pdf`, 32 PDF pages
 
@@ -920,7 +924,8 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | High Anchor part one (Richard Swan) | 13-26 | fiction | |
 | Building Merchant Vessels (CELS) | 27-28 | other | |
 | Convoy Battle (CELS, Anargo Sector Project) | 29-30 | scenario | Imperial merchant convoy trapped by a large attacking fleet split into two attack groups; until one fleet disengages or is destroyed. |
-| Simultaneous Movement Markers; Lance Turret | 31-32 | other | |
+| Simultaneous Movement Markers | 31 | other | Printable markers. |
+| Lance Turret (Anargo Sector Project) | 32 | rules variant | Image page: background on dorsal lance turrets and laser lances. |
 
 ### Warp Rift 20: `warprift20.pdf`, 29 PDF pages
 
@@ -1045,6 +1050,7 @@ No scenarios.
 | Imperial Vessels: vessel ages (Age) | 14 | rules variant | |
 | GothiComp 2010 fleet finalists | 15-17 | other | |
 | The Spreading War part 2 (Reg Steiner) | 18-27 | scenario | Narrative continued, Imperial vs Orks, with scenarios: Ork forces of 1200 and 1500pts, planetary installations and stations scored and captured by assault boats. |
+| "Coming Soon" advert for the BFG project (Chronicles teaser) | 28 | other | Image page. |
 
 ### Warp Rift 30: `warprift30.pdf`, 19 PDF pages
 
@@ -1279,7 +1285,7 @@ No scenarios.
 
 ### Warp Rift 46 (March 2025): `WarpRift46.pdf`, 78 PDF pages
 
-PDF pages 39-78 have **no text** layer (image pages); they were identified from the page images.
+PDF pages 39-78 have no text layer; their OCR is in `ocr_pages/Warp_Rift/WarpRift46.pNNN.txt` and was checked against the page images.
 
 | Title (author) | PDF p. | Type | What it is |
 |---|---|---|---|
@@ -1291,7 +1297,7 @@ PDF pages 39-78 have **no text** layer (image pages); they were identified from 
 | Campaigning through the Stars: Adeptus Mechanicus | 21-27 | campaign | Mechanicus campaign rules. |
 | Tactica Imperial Navy: The Bastion Fleets (HuvalC and Fr05ty) | 29-31 | tactics | |
 | Facebook Painting Competition 2024 review | 33-38 | other | |
-| Imperial Navy fleet rules and ship profiles (image insert) | 39-78 | fleet list | Imperial Navy fleet rules, every battleship, grand cruiser, battlecruiser, cruiser, light cruiser and escort profile with faction keywords, and the Gothic Sector, Bastion Fleets and Armageddon Sector fleet lists. |
+| Imperial Navy fleet rules and ship profiles (image insert) | 39-78 | fleet list | Fleet list format, ratios, Imperial Navy Leadership (39-41); profiles of every Imperial Navy ship from the Apocalypse and Emperor battleships to the Viper and Cobra destroyers and the transport (42-75); and three fleet lists: Segmentum Obscurus Gothic Sector (76), Bastion Fleets (77) and Segmentum Solar Armageddon Sector (78). |
 
 ### Warp Rift 47 (October 2025): `WarpRift47.pdf`, 40 PDF pages
 
