@@ -80,20 +80,20 @@ Text PDF. Printed page = PDF page - 2.
 | Additional rules: Tau appeal chart, Dark Eldar refits, Necron refits and appeal chart | 32-35 | 30-33 | campaign | Campaign tables for races without them. |
 | Sub-sector maps | 36-37 | 34-35 | campaign | Maps of the Nemesis sub-sectors. |
 | Gehenna System Campaign | 38-41 | 36-39 | campaign | Tree campaign rules, Gehenna's celestial phenomena generator, campaign stages. |
-| Death of the Governor | 42 | 40 | scenario | Gehenna campaign special scenario: attack on the planetary governor's world (Chaos attackers, Imperial defenders). |
-| Guns of Naravona | 43 | 41 | scenario | Gehenna campaign special scenario: assault on the Naravona battlestation. |
-| Shadow of the Comet | 44 | 42 | scenario | Gehenna campaign special scenario: attack on a Mechanicus base on a comet. |
-| Line of Gehenna | 45 | 43 | scenario | Gehenna campaign special scenario: a Chaos space hulk brought into low orbit. |
+| Death of the Governor | 42 | 40 | scenario | Gehenna campaign special scenario: 500pt attackers must hit-and-run the Governor's palace on Gehenna II past 1000pts of defenders and ground defences. |
+| Guns of Naravona | 43 | 41 | scenario | Gehenna campaign special scenario: 1000pt fleets; the attacker must destroy the Naravona Battlestation in the defender's zone. |
+| Shadow of the Comet | 44 | 42 | scenario | Gehenna campaign special scenario: 500pt fleets; a hidden attack on a Mechanicus base on a moon, with orbital defences and detection rolls. |
+| Line of Gehenna | 45 | 43 | scenario | Gehenna campaign special scenario: the attackers (1000pts and a Chaos Space Hulk) win if the hulk reaches low orbit; two defending fleets and orbital defences. |
 | Scenarios (introduction) | 46 | 44 | other | Nine scenarios in three groups: tournament, historical, special. |
-| Incident at Kravertus II | 48-49 | 46-47 | scenario | Historical: the Event Horizon against Imperial patrol groups Thames and Rhein. |
+| Incident at Kravertus II | 48-49 | 46-47 | scenario | Historical: the Chaos grand cruiser Event Horizon (Repulsive class) against Imperial patrol groups Thames and Rhein. |
 | The Fall of Great Armada | 50-51 | 48-49 | scenario | Historical: Admiral Sedina Nidonia's Imperial invasion against the Warhost Nemesis. |
-| The Longest Travel | 52-53 | 50-51 | scenario | Historical convoy-run variant: Tau Ambassador battleship escaping the sector. |
-| Recon in Force | 54 | 52 | scenario | Tournament, any vs any: reinforcements arrive from random edges. |
-| Tearing the Flanks | 55 | 53 | scenario | Tournament, any vs any: flank attack. |
-| Titan Clash | 56 | 54 | scenario | Tournament, any vs any: pitched battle with alternatives (kill the admiral). |
-| Capture the Hulk | 57 | 55 | scenario | Tournament, any vs any: a hulk to be captured by boarding. |
-| Ambush | 58 | 56 | scenario | Special: two small allied fleets ambush a heavier one. Same name as the booklet's Ambush, different scenario. |
-| Gunnery Practice | 59 | 57 | scenario | Special: green Imperial crews' gunnery practice on asteroids interrupted by an enemy. |
+| The Longest Travel | 52-53 | 50-51 | scenario | Historical convoy-run variant: 1200pts of Tau escorting the Ambassador-class Fynd'yon against Eldar raiders from contact counters. |
+| Recon in Force | 54 | 52 | scenario | Tournament, any vs any: each fleet in three battlegroups, with reinforcements arriving from random edges. |
+| Tearing the Flanks | 55 | 53 | scenario | Tournament, any vs any: equal fleets deployed side-on to each other. |
+| Titan Clash | 56 | 54 | scenario | Tournament, any vs any: equal-points pitched battle, with alternative objectives such as killing the enemy admiral. |
+| Capture the Hulk | 57 | 55 | scenario | Tournament, any vs any: an ancient hulk thrown out of the warp is the prize; play until one fleet disengages or is destroyed. |
+| Ambush | 58 | 56 | scenario | Special: two allied 500-750pt fleets (independent for composition and re-rolls) ambush one fleet twice the size. Same name as the booklet's Ambush, different scenario. |
+| Gunnery Practice | 59 | 57 | scenario | Special solo/minigame: one low-Ld cruiser shoots asteroids for six turns and must survive undamaged. |
 | Authors | 60 | 58 | other | Credits. |
 
 ### Starblade (Roy "Horizon" Amkreutz) — `Starblade.pdf`, 32 PDF pages
