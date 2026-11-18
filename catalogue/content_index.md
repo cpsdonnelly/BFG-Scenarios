@@ -34,22 +34,22 @@ Text PDF, except PDF pages 9-11 (A6, B1, B2), which have **no text** layer. The 
 | The Scenario | 3 | rules variant | D3 for the roster (A, B or C), then D6 for the mission. |
 | A1 Manna from the Heaven (AdeptiCon 2007) | 4 | scenario | High-speed pass by a central planet launching supply shuttles; D6 secondary objectives (Headhunters etc). |
 | A2 The Road to Hell (AdeptiCon 2007) | 5 | scenario | Original of the Advanced Scenarios version: warp rifts and stabilizers. |
-| A3 The Influence of Space Power (AdeptiCon 2007) | 6 | scenario | Control of space round planets; secondary objectives. |
-| A4 Battle on the Edge of the Warp (AdeptiCon 2009) | 7 | scenario | Battle beside the warp, primary and secondary objectives. |
-| A5 Scavenger Hunt (AdeptiCon 2009) | 8 | scenario | Retrieve salvage and stolen plans from the table. |
+| A3 The Influence of Space Power (AdeptiCon 2007) | 6 | scenario | Pitched battle with a choice of stratagems, one of which holds a reserve element back to enter from table-edge markers on turn 3. |
+| A4 Battle on the Edge of the Warp (AdeptiCon 2009) | 7 | scenario | Fixed terrain with a warp rift at the centre; secondary objectives such as navigating the rift. |
+| A5 Scavenger Hunt (AdeptiCon 2009) | 8 | scenario | Salvage tokens in an old battle zone; one secretly holds jettisoned plans worth 300 VP to whoever controls it. |
 | A6 The Black Hole (AdeptiCon 2010) | 9 | scenario | No text. Original of the Advanced Scenarios version: ships pulled towards a black hole edge each turn. |
 | B1 Sink the Bismark (AdeptiCon 2010) | 10 | scenario | No text. Each player's most expensive capital ship is its "Bismark"; VP for it and objectives such as navigating a warp rift. |
 | B2 Supply Run (AdeptiCon 2010) | 11 | scenario | No text. Ships ending turns in a medium planet's gravity well score bonus VP; secondary objectives. |
 | B3 An Unexpected Encounter | 12 | scenario | Original of the Advanced Scenarios version: detachments arriving as reinforcements. |
-| B4 Battle in the Derelict Base | 13 | scenario | Fight round a derelict base; objectives. |
+| B4 Battle in the Derelict Base | 13 | scenario | Abandoned fleet base among fixed terrain; some defence satellites are still live and drift at random. |
 | B5 Capture the Research Platform | 14 | scenario | Original of Capture the Station: an armed platform taken by boarding. |
-| B6 Retrieve the Salvage | 15 | scenario | Salvage tokens collected by ships. |
-| C1 Protect the Salvage | 16 | scenario | Salvage defended against the opponent. |
+| B6 Retrieve the Salvage | 15 | scenario | Ten face-down salvage markers in a graveyard of hulks; a transport flotilla salvages best. |
+| C1 Protect the Salvage | 16 | scenario | Follow-on to B6: both fleets trapped in a warp arena; the flagship carries the salvage and must survive. |
 | C2 Brace for Impact | 17 | scenario | Original of the Advanced Scenarios version: hurtling asteroids. |
 | C3 Wrecks O' Plenty | 18 | scenario | Original of the Advanced Scenarios version: salvaging wrecks. |
-| C4 Neutron Star | 19 | scenario | Battle near a neutron star with its own effects. |
-| C5 Shepard Moon | 20 | scenario | Battle round a shepherd moon. |
-| C6 Hide n' Seek | 21 | scenario | Hidden ships and a Leadership chart for detection. |
+| C4 Neutron Star | 19 | scenario | Fleets drop out of FTL near a neutron star whose gravity affects movement and special orders; a drifting ship's signal. |
+| C5 Shepard Moon | 20 | scenario | Large rings cross the table from a gas giant; an unstable shepherd moon (a small planetoid) with its own effects. |
+| C6 Hide n' Seek | 21 | scenario | A dense asteroid field round an anomaly that sends radiation spikes affecting ships, with a Leadership chart. |
 | Credits | 22 | other | Baba Yaga Dungeon Club; Game Kastle Store's anti-disengage tournament rules. |
 
 ### Book of Nemesis (Cypra Probatii; ed. Marcin "MKG" Gerkowicz) — `Book of Nemesis.pdf`, 62 PDF pages
