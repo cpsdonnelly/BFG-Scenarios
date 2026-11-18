@@ -1177,3 +1177,74 @@ No scenarios.
 | Double's Hobby Insights: The Starter Kit Advanced | 33-42 | other | |
 | Showcase | 43 | other | |
 | Moose Musings: Reload Ordnance!; Revisiting WR38 low orbit; Tyranids | 44-46 | rules variant | |
+
+### Warp Rift 40 (July 2023) — `WarpRift40.pdf`, 61 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| The Mourningstar | 5-6 | ship design | 60pts. |
+| The Solblades of Terra | 7-14 | fleet list | Solblade fleets (Imperial, Indomitus era) against swarming Tyranids: Solblade special rules, silent running, command and upgrades; Tyranid swarm bases; example fleets. |
+| Scenario: The Master Node | 15 | scenario | Solblades vs a Tyranid fleet feeding on a planet; destroy the master node. |
+| Scenario: Let them Burn! | 16 | scenario | Solblades vs Tyranids with a supernova shockwave; campaign ideas. |
+| Character Ship Competition: The Auct (BleachHawk) | 17-19 | ship design | 230pts. |
+| Battle report: Tyranids vs Imperial Navy | 20-25 | battle report | |
+| Tau Empire campaign tables | 26-30 | campaign | Tau engine, ship and weapon refits, crew skills, appeal charts (Tau and Tau auxiliaries). |
+| Character Ship Competition overall winner: The Ascending/Descending (horizon) | 31-33 | ship design | 350pts. |
+| Sector capital: Meroe | 34-35 | fiction | |
+| Double's Hobby Insights: Starter Kit Advanced (Orks) | 36-44 | other | |
+| Showcase | 45 | other | |
+| Moose Musings: Avenger, torpedo bombers, update to Commerce Raiders | 46-47 | rules variant | Includes changes to the Commerce Raiders scenario (Warp Rift 38). |
+| Solblade and Tyranid paper cut-outs, markers | 48-60 | other | |
+
+### Warp Rift 41 (October 2023, "Mind Hive") — `WarpRift41.pdf`, 41 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Francois le Dragon (Indomitus Crusade) | 5-6 | fiction | |
+| Solblades introduction; The Hunters of Zan-Salak (Harkovast) | 7-9 | ship design | Zan-Salak cruiser with designer notes. |
+| The Ketos and other Tyranid character bio-ships (McCoy, Dread...) | 10-15 | ship design | |
+| Solblade Drakht special rules | 16 | rules variant | |
+| Scenario: Kill the Hive | 17 | scenario | Solblades vs Tyranids: board the hive ship. |
+| Scenario: Asteroids? | 18 | scenario | An Imperial planet under Tyranid attack; asteroids. |
+| Battle report: Tyranids vs Renegade Marines | 19-24 | battle report | |
+| Space Marine campaign tables | 25-30 | campaign | Space Marine refits, crew skills; Ecclesiarchy, Inquisition and Space Marine appeal charts. |
+| BFG Oxitanium | 31 | campaign | Multi-platform narrative campaign advert/summary. |
+| Double's Hobby Insights: The Behemoth Arrives | 32-37 | other | |
+| Showcase; Moose Musings: The D12 | 38-40 | rules variant | Using a D12 for some rolls. |
+
+### Warp Rift 42 (December 2023) — `WarpRift42.pdf`, 53 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Torpedoes launch (song) | 5-6 | other | Humour. |
+| Adeptus Custodes | 7-8 | fleet list | Custodes special rules, light cruiser (140pts), frigate. |
+| Solblade Agemman | 9 | rules variant | Character rules. |
+| Scenario: Rescue (Solblades) | 10 | scenario | Solblade Agemman (up to 250pts) must reach a besieged world past 500pts of Tyranids to open an escape route; campaign ideas. Different from the booklet's Rescue. |
+| Scenario: Do Not Falter! (Solblades) | 11-12 | scenario | Solblades vs Tyranids. |
+| Tyranid conversions | 13-17 | other | |
+| Scholar Tacticus Gothic: Imperial cruisers | 19-22 | tactics | |
+| Ork campaign tables | 24-29 | campaign | Ork promotions, refits, crew skills, appeals, Krooza tinkering table. |
+| Maelstrom Zone fleets (Badab War) | 31-36 | fleet list | Loyalist fleet, Space Marine Vanguard cruiser, High Conveyor, character ships (Night Hag, Nicor, Raptorus Rex), Red Corsairs and their defences. |
+| Scenario: The Trap | 38 | scenario | A small raiding fleet attacks an isolated, seemingly vulnerable outpost (space station and defences) that is a trap; 180 x 120cm. |
+| Interview with Che Webster (Matt Gilson) | 39-42 | other | |
+| Double's Hobby Insights: rotating Blackstone Fortress | 43-50 | other | |
+| Moose Musings: Ships pushing blast markers | 52 | rules variant | |
+
+### Warp Rift 43 (March 2024, 20th anniversary) — `WarpRift43.pdf`, 88 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Anniversary messages (Andy Chambers, Bob Henderson, Iain Werry, Aron Dickey, Roy Amkreutz) | 5-11 | other | |
+| Imperial Navy and Black Templar character ship | 12-14 | ship design | |
+| Fleet-by-fleet tactics (Tom and Roy) | 16-29 | tactics | Every fleet from Chaos to the Inquisition. |
+| Facebook painting awards | 31-37 | other | |
+| The Tobari (Khareshi Expanse) | 39-41 | fleet list | Tobari special rules (advanced teleport attack), destroyer, light cruiser. |
+| Scholar Tacticus Gothic: traitor light cruisers, the Slaughter | 43-45 | tactics | |
+| Tyranid campaign rules | 47-51 | campaign | Hive fleet campaign: scenario adaptations (e.g. Surprise Attack round a hive ship), fleet size, evolutions, appeals. |
+| The Tyrant Challenge, episodes 1-2 | 53-54 | battle report | |
+| Scenario: The Eisner Incident | 56-58 | scenario | Deep space, M42: both fleets try to board the drifting Event Horizon (warp drive project) near a large planet. |
+| Arch Magos Larsik's fleet | 60-61 | ship design | Dark Mechanicus ships. |
+| Mandeville points | 63-64 | rules variant | New celestial phenomenon: Mandeville points and their effects (Tyranids, hive ships). |
+| Double's Hobby Insights: terrain | 65-80 | other | |
+| Moose Musings: Suppression cruiser | 82-83 | ship design | 160pts. |
+| James Woodford gallery | 84-87 | other | |
