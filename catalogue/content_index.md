@@ -1093,3 +1093,87 @@ No scenarios.
 | Eldar ships in Battlefleet Gothic (Tom Moseley) | 6-7 | ship design | |
 | Advanced Ordnance Rules (Graham Wilson) | 8-11 | rules variant | Named attack craft types per race (fighters, bombers, torpedo bombers with their own profiles). |
 | GothiComp 2011 finalists | 12-13 | other | |
+
+### Warp Rift 34 (February 2022, the revival) — `WarpRift34.pdf`, 50 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Welcome back | 2-3 | other | |
+| Ships of Legend: Green Hill Rogue Trader cruiser, Tau Research class vessel, Craftworld Eldar Wyrm battleship, Silenzio Deep Void class (preview of Book of the Void 2) | 4-10 | ship design | |
+| Fleet Communique: Marauders from the Koronus Expanse | 11-17 | fleet list | Rak'gol special rules, weapons, Mangler, Mauler, Marauder, Butcher and the Rak'gol Marauder fleet list. |
+| Tales from the Past of BFG (Nate Montes) | 18-25 | other | Design history (Demiurg, Tau, Kroot, Armageddon, Voss). |
+| Painting competition review (Turbidious Tom) | 26-34 | other | Award winners. |
+| BFG: Commander (YetiFiasco) | 35-38 | campaign | First draft of narrative rules: commanders, a GM's guide to running a campaign. |
+| BFG starter kit (DoublebaseFanatic) | 39-42 | other | |
+| Jeremiah Crowe: The Diasporex Gambit (Tales from the Book of the Void) | 43-49 | scenario | Story with two linked scenarios (Scenario One: The Hammer Needs an Anvil; Scenario Two: Diversions) around the Damnation's Fear; Inquisitorial operations vessel and Metis light combat cruiser profiles. |
+
+### Warp Rift 35 (May 2022) — `WarpRift35.pdf`, 40 PDF pages
+
+No scenarios.
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Ships of Legend: HMS Amberfall (Thor battlecruiser) | 4-5 | ship design | |
+| Modular Rogue Traders | 6-10 | ship design | Rogue Trader cruiser and grand cruiser with options, gunboat carriers and gunboats, archeotech. |
+| Merchantmen (preview of Book of the Void 2) | 11-14 | ship design | Novan-pattern transports and raider brig. |
+| A School Project (Nino) | 15-18 | other | Painting. |
+| Tales from the Past of BFG (Nate Montes) | 19-21 | other | Space Fleet ships, Tyranids. |
+| Basing Time (DoublebaseFanatic) | 22-27 | other | |
+| Galleries (Craftworld Lodálach-Mús, Eldar sketches, flotillas) | 28-31 | other | |
+| Invincible fast battleship build | 32-36 | other | |
+| Jokaero (Nate Montes) | 37-39 | ship design | Jokaero star-frame, 270pts. |
+
+### Warp Rift 36 (October 2022) — `WarpRift36.pdf`, 66 PDF pages
+
+No scenarios.
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Ships of Legend: Sleepy Hollow Inquisitorial cruiser | 4-5 | ship design | |
+| Renegade Marines | 6-14 | fleet list | Renegade Space Marine special rules, fleet list, reserves and allies, battle barges, strike cruiser, escorts, designer notes. |
+| Battle Reports: Imperial Navy vs Chaos (Hexagrammaton); The Red God and Da Red Gobbo (QueenofBithynia) | 15-23 | battle report | A Fleet Engagement (Cross deployment) and Khorne Chaos vs a Grot Rev'looshun Ork fleet. |
+| The Lunar class cruiser: all different yet the same | 24-30 | other | Lunar variants in art and models. |
+| Character Ship Creation community event | 31-32 | other | |
+| Dark Eldar / Drukhari Tactica (Zhai Morenn) | 33-58 | tactics | Ship-by-ship advice and play against each fleet. |
+| Tau painting guide; nebula bases (DoublebaseFanatic, horizon) | 59-65 | other | |
+
+### Warp Rift 37 (January 2023) — `WarpRift37.pdf`, 51 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| BFG Academy painting winners | 4-8 | other | |
+| Top Gun (Rin, Hexagrammaton) | 9-10 | rules variant | Ace attack craft crews (the Sumus Ballistae programme) as refits. |
+| Book of the Void 2 release note | 11 | other | |
+| Battlefleet Gothic Solitaire Campaign (Italianmoose) | 12-17 | campaign | Solo campaign against an AI Tyranid hive fleet attacking a system, with modified instinctive behaviour and linked BFG and Space Hulk missions (BFG-1 to BFG-4 and SH missions), e.g. BFG-1: 500pts of elites teleport-attack an outpost among 1000pts of Tyranids and escape. |
+| 2022 Facebook painting competition winners | 18-24 | other | |
+| Adeptus Mechanicus Overview (HuvalC, Hexagrammaton) | 25-36 | tactics | Mechanicus ships, reserves, tactics, example lists. |
+| Arks of Omen: the Balefleets (Grifftofer, Italianmoose, horizon) | 37-47 | fleet list | Dark Mechanicum Ark of Omen in two sizes (750 and 2500pts) with movement, damage, critical and catastrophic tables, campaign use and fleet list. |
+| Planet guide (DoublebaseFanatic) | 48-50 | other | |
+
+### Warp Rift 38 (March 2023) — `WarpRift38.pdf`, 49 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Ships of Legend: The Bogdanovich (Emperor class) and "Incident over Senuy-B" | 4-13 | fiction | Character ship and story. |
+| Character Ship Competition winners: Port Harat (Warcaster Celtae), Ork Whaling Ship (Turbidious Tom), The Erzherzog (LittleBlueMan) | 14-23 | ship design | |
+| Pirates and Wolfpacks Revised (Francis) | 24-28 | fleet list | Update of the Wolf Packs pirate list: Pirate Lord upgrades, capital ships, escorts, xenos freebooters and corsairs. |
+| Commerce Raiders (Italianmoose) | 29-31 | scenario | Convoy variant where roving capital ship squadrons raid commercial traffic; the defender may upgrade its transports; two convoy deployment zones. |
+| Starter Kit Advanced: Corsair Eldar | 32-33 | other | |
+| Facebook painting competition Jan-Feb 2023 | 34-36 | other | |
+| Double's Hobby Insights: Hive Fleet "Charlemagne" | 37-45 | other | |
+| Showcase | 46 | other | |
+| Moose Musings (Italianmoose) | 47-49 | rules variant | Proposed alternative rules for playtesting: deploying troops from high orbit / low orbit. |
+
+### Warp Rift 39 (May 2023) — `WarpRift39.pdf`, 47 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Ships of Legend: The Snail of Horrors | 4-6 | ship design | |
+| Battle report: The Battle for Cold Passage (horizon and another) | 7-14 | battle report | A refight of the BFG Magazine 13 scenario. |
+| Character Ship Competition: Gal'Leath scientific Mo'Truong'Song (DoublebaseFanatic) | 15-17 | ship design | |
+| Battle report Spacefleet!: Imperial Convoy vs Eldar Raiders (Secondeditionwargaming) | 18-23 | battle report | Space Fleet convoy mission from White Dwarf 141. |
+| Character Ship Competition: Scion of Argo, Akrasia grand cruiser (Brent Pritchard); Boss Zagdrubb Gitfista's ships (Tilo) | 24-29 | ship design | |
+| Summus Ballistae (Hexagrammaton) | 30-32 | fiction | |
+| Double's Hobby Insights: The Starter Kit Advanced | 33-42 | other | |
+| Showcase | 43 | other | |
+| Moose Musings: Reload Ordnance!; Revisiting WR38 low orbit; Tyranids | 44-46 | rules variant | |
