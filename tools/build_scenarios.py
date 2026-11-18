@@ -64,9 +64,11 @@ def render_conflict(c):
     parts = [f"**{c['topic']}.**"]
     if c.get("source_text"):
         parts.append(f"Source: “{c['source_text']}”")
-    if c.get("xr_text"):
-        sec = f" ({c['xr_section']})" if c.get("xr_section") else ""
-        parts.append(f"XR{sec}: “{c['xr_text']}”")
+    sec = f" ({c['xr_section']})" if c.get("xr_section") else ""
+    if c.get("xr_text") and len(c["xr_text"]) >= 30:
+        parts.append(f"XR{sec}: \u201c{c['xr_text']}\u201d")
+    elif c.get("xr_section") and c["xr_section"] != "n/a":
+        parts.append(f"XR section: {c['xr_section']}.")
     if c.get("effect"):
         parts.append(f"Effect: {c['effect']}")
     return " ".join(parts)

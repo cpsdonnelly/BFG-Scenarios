@@ -1,0 +1,660 @@
+[
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "any (Imperial defender)",
+  "generic": "no",
+  "id": "nem-death-governor",
+  "title": "Death of the Governor",
+  "pages": "printed p.40 (PDF p.42)",
+  "type": "campaign-linked",
+  "forces": "Defender 1000 points plus planetary installations (governor's palace, airfield, laser battery, missile battery). Attacker 500 points.",
+  "summary": "A small fast force must land strike squads on the Governor's palace. The attack is a hit-and-run on the palace (0 hits, no shields, 2 turrets, cannot be destroyed) that succeeds on a 4+. The defender wins if the Governor lives at the end of turn 6 or the attacker is destroyed or disengaged.",
+  "special_rules": [
+   "D3 defending units on full alert, the rest on standby in orbit",
+   "Attackers enter from any edge(s) in turn 1",
+   "Hit-and-run on the palace succeeds on 4+"
+  ],
+  "xr_dependencies": [
+   "s.31 Hit-and-Run Raids",
+   "s.41 Low Orbit",
+   "Scenarios: Surprise Attack (full alert and standby)",
+   "s.39 Planets"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Hit-and-run on a planetary target",
+    "source_text": "This attack is succesfull on a D6 roll of a 4+ (the Governor is well guarded).",
+    "xr_section": "s.31 Hit-and-Run Raids",
+    "xr_text": "Against small units which do not use the Critical Hits table, a hit-and-run attack causes one point of damage on a D6 roll of 4+",
+    "effect": "Compatible in odds. XR raids are made by assault boats, boarding torpedoes and teleports against ships; the source says the raid is 'a hit-and-run attack' without naming the craft or saying the palace's 2 turrets apply to the raiders (XR s.31 step 1)."
+   },
+   {
+    "topic": "Standby and full alert",
+    "source_text": "D3 Defending ships/squadrons are on full alert, and placed anythere on the table no closer than 20cm to table edge. The rest of the Defending forces are on standby in orbit.",
+    "xr_section": "Scenarios, Surprise Attack (booklet)",
+    "xr_text": "the defender must choose D3 ships or squadrons in their fleet to be on full alert. These ships may be deployed anywhere on the table at least 30cm from a table edge.",
+    "effect": "Same mechanism with 20cm instead of 30cm; no standby wake-up test is given in the source."
+   },
+   "Checked: attack rating not used; no special orders restrictions; terrain by standard generator (s.39)."
+  ],
+  "missing_or_unclear": [
+   "Profiles of the airfield, laser battery and missile battery (not in the book's defences pages or in Support Assets).",
+   "How the 'Governor's palace' is targeted from space and whether the palace needs to be inside low orbit range.",
+   "How standby units become active.",
+   "Table size ('a square 120-140cm long table').",
+   "Whether the low orbit table is used for the hit-and-run (the source asks for one)."
+  ],
+  "diagram": "none",
+  "length": "about 0.5 page",
+  "notes": "Gehenna campaign special scenario. Needs the Book of Nemesis campaign (tree campaign, pp.36-39) and its defence profiles (pp.24-27). Effect on campaign: D3 random units gain or lose 1 Ld."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "any",
+  "generic": "no",
+  "id": "nem-guns-naravona",
+  "title": "Guns of Naravona",
+  "pages": "printed p.41 (PDF p.43)",
+  "type": "campaign-linked",
+  "forces": "1000 points each. The Defender also has the Naravona Battlestation (250pts) in the middle of the defender's deployment zone.",
+  "summary": "The attacker must destroy the Naravona Battlestation, which guards a passage; no terrain in the middle of the table. On a 4+ the attacker deploys one of the defender's ships or squadrons.",
+  "special_rules": [
+   "Naravona Passage terrain restriction",
+   "Attacker may deploy defender units on a 4+"
+  ],
+  "xr_dependencies": [
+   "s.38 Victory Points",
+   "Book of Nemesis defences (Naravona class battlestation p.25)",
+   "s.7 Reload Ordnance"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Reload Ordnance re-roll",
+    "source_text": "The controlling fleet, until the end of the campaign, may re-roll failed Reload Ordnance tests once per battle.",
+    "xr_section": "s.7 Special Orders; s.5 Fleet Commanders",
+    "xr_text": "Reload Ordnance: If the ship passes its command check, all of its ordnance is successfully reloaded",
+    "effect": "A campaign benefit that adds a free re-roll outside fleet commander re-rolls (s.5)."
+   },
+   "Checked: standard deployment, VP and game length (until Naravona destroyed or fleet destroyed/disengaged). No attack rating roll."
+  ],
+  "missing_or_unclear": [
+   "Who is the attacker (not stated; the campaign decides).",
+   "Naravona's profile and Van Holderman cannon (nova cannon rules): the book gives them on pp.25-26.",
+   "Whether the attacker deploying a defender ship counts against either fleet's points.",
+   "Table size and which edges."
+  ],
+  "diagram": "none",
+  "length": "about 0.4 page",
+  "notes": "Gehenna campaign special scenario. Needs the Book of Nemesis campaign (tree campaign, pp.36-39) and its defence profiles (pp.24-27)."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "any",
+  "generic": "no",
+  "id": "nem-shadow-comet",
+  "title": "Shadow of the Comet",
+  "pages": "printed p.42 (PDF p.44)",
+  "type": "campaign-linked",
+  "forces": "500 points each. Defender also has an Orbital Command Center, 2 Orbital Weapon Platforms, 1 Orbital Flak Platform and 2 Orbital Torpedo Launchers in high orbit round the second moon.",
+  "summary": "The attackers use a comet as cover to approach a Mechanicus base. While every attacking ship is within 10cm of the comet and has not opened fire or gone on special orders, the defenders cannot attack them. Detection on a D6 of 6 (+1 if a defender is within 10cm of an attacker) at the start of each defender turn. The attacker wins by boarding the Orbital Command Center and disengaging one ship.",
+  "special_rules": [
+   "Comet cover (stealth)",
+   "Detection roll each defender turn",
+   "Defenders on patrol until detected; attacker moves defenders on a 4+ in movement"
+  ],
+  "xr_dependencies": [
+   "s.32 Boarding Actions",
+   "s.37 Disengaging",
+   "Support Assets: Orbital Weapons Platform, Orbital Torpedo Launcher"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Defence installations",
+    "source_text": "an Orbital Command Center, 2 Orbital Weapon Platforms, 1 Orbital Flak Platform and 2 Orbital Torpedo Launchers",
+    "xr_section": "06_support-assets.md",
+    "xr_text": "Orbital Weapons Platform Defence | 30 | 2 | ... Macrobatteries 60cm FP6 (All Round) | Immobile",
+    "effect": "The weapons platform and torpedo launcher exist in Support Assets with their own profiles; the Command Center and Flak platform are Book of Nemesis profiles (p.26) and are not in the booklet."
+   },
+   {
+    "topic": "Moving enemy ships",
+    "source_text": "Roll a D6 in the movement phase for each ship/squadron - on a 4+ the attacker may move the Defender's ship or squadron.",
+    "xr_section": "s.2 The Turn",
+    "xr_text": "During his or her turn, a player can move and fight with all of his or her ships.",
+    "effect": "The attacker moves enemy patrol ships; the source gives no limits (speed, turns)."
+   },
+   "Checked: boarding (s.32) is used by the attacker to win; standard deployment with the 4+ attacker-deploys-defender option as in Naravona."
+  ],
+  "missing_or_unclear": [
+   "Comet 'cover' radius beyond 10cm and its movement.",
+   "Whether the comet is a phenomenon with its own effects (rules 'path of the comet').",
+   "Orbital Command Center troop rating.",
+   "'Disengage at least one of his ships': any disengage route."
+  ],
+  "diagram": "none",
+  "length": "about 0.5 page",
+  "notes": "Gehenna campaign special scenario. Needs the Book of Nemesis campaign (tree campaign, pp.36-39) and its defence profiles (pp.24-27). Effect on campaign: D3 refits for each fleet of the winning side."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "Chaos attacker with a Chaos Space Hulk; Imperial defender",
+  "generic": "no",
+  "id": "nem-line-gehenna",
+  "title": "Line of Gehenna",
+  "pages": "printed p.43 (PDF p.45)",
+  "type": "campaign-linked",
+  "forces": "Attacker 1000 points plus a Chaos Space Hulk. Defender two fleets (500 and 1000 points), two Orbital Weapons Batteries, two Orbital Torpedo Launchers, an Orbital Command Center and D6 Phoenix Launchers per deployment zone.",
+  "summary": "A Chaos Space Hulk must reach low orbit of the medium planet Gehenna II. The defender sets up first in two defence lines; the attacker deploys at least 65cm from planetary orbit. The attacker wins if the Hulk enters low orbit.",
+  "special_rules": [
+   "Two defence lines",
+   "Phoenix Launchers"
+  ],
+  "xr_dependencies": [
+   "s.41 Low Orbit",
+   "Chaos Space Hulk (Imperium p.44-45)",
+   "s.39 Planets"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Chaos Space Hulk",
+    "source_text": "bring their ultimate weapon into low orbit - a Chaos Space Hulk!",
+    "xr_section": "s.12 Ramming (Faction ramming rules)",
+    "xr_text": "Space hulks count as defences for ramming (Chaos Space Hulk, Imperium p.44-45; Ork Space Hulk, Xenos p.69-70).",
+    "effect": "The Chaos Space Hulk is in the booklet. Its 'low orbit' entry here is a scenario win condition, not the booklet's low orbit table entry (s.41)."
+   },
+   {
+    "topic": "Phoenix Launchers and other defences",
+    "source_text": "he may put D6 Phoenix Lauchers in each deployment zone",
+    "xr_section": "06_support-assets.md",
+    "xr_text": "Orbital Weapons Platform / Orbital Torpedo Launcher",
+    "effect": "Phoenix Launcher is a Book of Nemesis profile (not in Support Assets)."
+   },
+   {
+    "topic": "First turn by roll",
+    "source_text": "Use an Attack Rating roll to determine who starts the battle.",
+    "xr_section": "s.2 The Turn; Scenarios, Using Attack Ratings (XR p.78)",
+    "xr_text": "Normally both players roll a D6 and the player with the highest score can decide to move either first or second. Sometimes the scenario you are fighting will decide it for you.",
+    "effect": "The scenario may decide the first turn (s.2), so this is allowed. XR uses the attack rating for attacker/defender and scenario choice, not first turn."
+   },
+   "Checked: planet table (medium), deployment order (defender first), game end."
+  ],
+  "missing_or_unclear": [
+   "Phoenix Launcher stats (the book's p.26 defences pages)",
+   "Roll for first turn: 'The player(s) who win the roll' implies more than two players.",
+   "Hulk's movement and speed.",
+   "Whether the planet's low orbit table is used or the Hulk need only be in the gravity well (the text says 'enters low orbit')."
+  ],
+  "diagram": "none",
+  "length": "about 0.5 page",
+  "notes": "Gehenna campaign special scenario. Needs the Book of Nemesis campaign (tree campaign, pp.36-39) and its defence profiles (pp.24-27)."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "Imperial vs Chaos (traitor grand cruiser)",
+  "generic": "no",
+  "id": "nem-kravertus",
+  "title": "Incident at Kravertus II",
+  "pages": "printed p.46-47 (PDF p.48-49)",
+  "type": "narrative",
+  "forces": "Chaos: Event Horizon (Repulsive class grand cruiser, Ld8, special torpedoes, overload shield capacitors). Imperial: Arbitrum (Vengeance class grand cruiser, Ld8, adept trimsman, navigational shield), LCV-67 orbital station, and patrol groups Thames (2 Firestorms, 1 Sword) and Rhein (1 Firestorm, 2 Swords) as reinforcements.",
+  "summary": "Historical 895.M34: the Event Horizon turns on the Arbitrum near Kravertus II (medium planet, no moons, one asteroid belt). The Chaos player places the Event Horizon by scatter dice and 4D6 from a chosen point. Reinforcement patrol groups arrive from turn 3 on a 4+. Victory is by a points sum from -1/-3/+1/+3/+3 events.",
+  "special_rules": [
+   "No special orders except Brace for Impact in turn 1",
+   "Low supplies: orbital station launches only Fury interceptors, 2 squadrons",
+   "Disengaging: Imperial ships only into Kravertus II's low orbit; the Chaos vessel only by the assigned edge; other exits count as destroyed",
+   "Reinforcements on a 4+ from turn 3"
+  ],
+  "xr_dependencies": [
+   "s.7 Brace for Impact",
+   "s.37 Disengaging",
+   "s.38 Victory Points",
+   "Imperial Navy list (Vengeance, Firestorm, Sword)",
+   "Chaos list (Repulsive)"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Disengaging",
+    "source_text": "Imperial ships may only disengage by moving into the low orbit of Kravertus II (there is no separate low orbit table - ships just disengage by hiding in the higher atmosphere). ... In any other case, ships are counted as being destroyed.",
+    "xr_section": "s.37 Disengaging",
+    "xr_text": "any vessel that moves off of the table edge during play for any reason counts as being disengaged (whether it intended to or not)",
+    "effect": "Replaces the XR disengage by Leadership test and table edge. Leaving by an unassigned edge counts as destroyed instead of disengaged."
+   },
+   {
+    "topic": "Victory by points",
+    "source_text": "To determine the winner, add the following points and compare it with the table.",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "Victory points are earned as follows: Enemies Destroyed ... Enemies Crippled ...",
+    "effect": "Replaces the VP system with a points sum (Event Horizon crippled -1, destroyed -3, escapes +3 ...). VP are not used."
+   },
+   {
+    "topic": "Refits and gifts",
+    "source_text": "adept trimsman; navigational shield",
+    "xr_section": "17_appendix-2-refits-and-crew-skills.md",
+    "xr_text": "Refits",
+    "effect": "'Navigational shield', 'adept trimsman' and 'overload shield capacitors' are not Appendix 2 refits by those names; each needs a ruling."
+   },
+   {
+    "topic": "Special torpedoes",
+    "source_text": "special torpedoes (roll D6 as normal)",
+    "xr_section": "s.16 Torpedo Types; Chaos Anointed Munitions",
+    "xr_text": "Torpedo Types",
+    "effect": "Presumed Chaos 'Anointed Munitions'-style D3/D6 roll; the source gives no rule."
+   },
+   "Checked: asteroid belt and outer reaches (s.39); first turn set by the scenario; Fury interceptors exist as Fury Fighters in the booklet."
+  ],
+  "missing_or_unclear": [
+   "Event Horizon's 'Venerable' status and profile (the Repulsive grand cruiser is in the Chaos list).",
+   "Navigational shield, adept trimsman, overload capacitors.",
+   "Where the Chaos player may choose the Event Horizon's deployment point within 20cm of the Arbitrum (the diagram).",
+   "Orbital station LCV-67 profile.",
+   "Heading of the reinforcements."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Two-ship duel with reinforcements; a small-game. Re-fight forces on the following page."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "Imperial vs Chaos",
+  "generic": "no",
+  "id": "nem-great-armada",
+  "title": "The Fall of Great Armada",
+  "pages": "printed p.48-49 (PDF p.50-51)",
+  "type": "narrative",
+  "forces": "Chaos 1500 points plus 8 free Fireships. Imperial 2500 points. Historical re-fight: Warhost Nemesis list with Sir Francis Gherkov aboard the Blasphemer class Revenge; Imperial Admiral Sedina Nidonia (Ld9, 1 extra re-roll) aboard an Apocalypse battleship.",
+  "summary": "An Imperial fleet loading regiments is attacked by Chaos fireships. Imperial forces start on stand-by except D3 escort squadrons or light cruisers. VP as normal plus 50% (10% if crippled) of the ship's value for every Imperial vessel that leaves by the Chaos table edge. Eight turns.",
+  "special_rules": [
+   "Fireships (free)",
+   "Imperial on stand-by",
+   "Imperial cannot use special orders for D3 turns and has -1 Ld in turn 1",
+   "Fireships deploy D6x10cm closer"
+  ],
+  "xr_dependencies": [
+   "s.38 Victory Points",
+   "Scenarios: Surprise Attack (standby)",
+   "Book of Nemesis: Warhost Nemesis fleet list (pp.26-27)"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Fireships",
+    "source_text": "The Chaos forces have 1500 points and 8 free Fireships at their disposal.",
+    "xr_section": "07_chaos.md",
+    "xr_text": "Chaos fleet list",
+    "effect": "Fireships are not in the booklet; the source gives no profile in this scenario."
+   },
+   {
+    "topic": "VP for ships leaving by the Chaos edge",
+    "source_text": "the player gains a number of points equal to 50% (10% if crippled) of the ship's value for every Imperial vessel which leaves the table by the Chaos table edge.",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship ... that has disengaged before the end of the game awards the opposing player ... 10%",
+    "effect": "Replaces the 10% disengage value for that edge with 50% (10% crippled)."
+   },
+   {
+    "topic": "Special orders lockout",
+    "source_text": "Imperial forces cannot go on Special Orders in the first D3 turns, and have a -1 Ld modifier for activating ships in the first turn.",
+    "xr_section": "Scenarios, The Raiders (booklet)",
+    "xr_text": "the defender at -1 Ld for the first D6 game turns",
+    "effect": "Similar to XR's Raiders and Surprise Attack timings (D3 turns). Compatible; 'activating ships' is read as command checks."
+   },
+   "Checked: deployment, first turn, game length."
+  ],
+  "missing_or_unclear": [
+   "Fireship profile and rules.",
+   "Ld of Warhost Nemesis ships (list-dependent).",
+   "Who is the attacker (Chaos moves first).",
+   "Admiral rules ('profile and points cost of an Imperial Admiral' in the booklet is a Vice Admiral or Fleet Admiral)."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Needs the Warhost Nemesis fleet list for the re-fight but runs with any Chaos fleet."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "Tau (with Ambassador class Fynd'yon) vs Eldar",
+  "generic": "no",
+  "id": "nem-longest-travel",
+  "title": "The Longest Travel",
+  "pages": "printed p.50-51 (PDF p.52-53)",
+  "type": "narrative",
+  "forces": "Tau 1200 points including the Ambassador battleship Fynd'yon (use an Explorer with Additional Shield Generator and a random refit, or the Custodian). Eldar 700 points, up to 200 points of Imperial or Chaos escorts.",
+  "summary": "A convoy variant. The Eldar place face-down contact markers (one per capital ship or squadron plus D6 dummies, 30cm apart, 30cm from the edges). The Tau enter from a random short edge, 45cm from the long edges. A marker activates when a Tau vessel comes within 30cm. The Tau win if Fynd'yon exits uncrippled by the far short edge.",
+  "special_rules": [
+   "Contact markers",
+   "Eldar may activate one marker voluntarily each turn (two if Tau use special orders)",
+   "Eldar victories: marginal if Fynd'yon exits crippled, total if destroyed"
+  ],
+  "xr_dependencies": [
+   "Scenarios: Convoy (narrative) (contact markers)",
+   "Tau list: Explorer, Custodian",
+   "09_eldar.md (MMS v2.0)",
+   "s.37 Disengaging"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Eldar rules",
+    "xr_section": "09_eldar.md (MMS v2.0)",
+    "xr_text": "the booklet uses the fan Eldar MMS v2.0 rules, which take priority over XR's Eldar",
+    "effect": "Written for the older Eldar (Armada-era profiles and movement). Any Eldar fleet here plays under MMS v2.0 in the booklet."
+   },
+   {
+    "topic": "Contact marker activation",
+    "source_text": "The Eldar's face down counters are activated by a Tau vessel moving within 30cm of them.",
+    "xr_section": "Scenarios, Convoy (narrative)",
+    "xr_text": "contact markers",
+    "effect": "Close to the narrative Convoy's contact markers; reading is consistent, but the source does not give the activated deployment table (see missing)."
+   },
+   "Checked: terrain by Deep Space generator (s.39); first turn Tau; victory by the Fynd'yon leaving."
+  ],
+  "missing_or_unclear": [
+   "Ambassador battleship profile (the source says no rules exist).",
+   "What each activated marker deploys and where.",
+   "Whether a deployed attacker is placed facing any way.",
+   "Whether human pirate escorts for the Eldar are legal under the booklet's Eldar list."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Convoy Run variant with a single VIP ship."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "any",
+  "generic": "yes",
+  "id": "nem-recon-force",
+  "title": "Recon in Force",
+  "pages": "printed p.52 (PDF p.54)",
+  "type": "tournament/matched",
+  "forces": "Equal points; each player splits the fleet into 3 Battlegroups (at least 1 capital ship or 3 escorts each).",
+  "summary": "Each player deploys one random Battlegroup in a 90 x 60cm corner; the rest arrive from reserve: at the start of each player turn roll a D6 per battlegroup (+1 after turn 2) against 5+/4+/3+ by the slowest ship's speed (20cm or less/25cm/30cm or more) and enter from a random edge.",
+  "special_rules": [
+   "Reserve battlegroup arrival table",
+   "Random arrival edge"
+  ],
+  "xr_dependencies": [
+   "s.4 Reserves",
+   "s.38 Victory Points",
+   "Scenarios: Destroy the Docks (reinforcement rolls)"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "First turn by attack rating",
+    "source_text": "Use an Attack Rating roll to determine who starts the battle.",
+    "xr_section": "s.2 The Turn; Scenarios, Using Attack Ratings (XR p.78)",
+    "xr_text": "Normally both players roll a D6 and the player with the highest score can decide to move either first or second. Sometimes the scenario you are fighting will decide it for you.",
+    "effect": "The scenario may decide the first turn (s.2), so this is allowed. XR uses the attack rating for attacker/defender and scenario choice, not first turn."
+   },
+   {
+    "topic": "Reserves",
+    "source_text": "Reserve Battlegroups come into the table from random table edge",
+    "xr_section": "s.4 Reserves",
+    "xr_text": "Reserves",
+    "effect": "Scenario reinforcements, not fleet-list reserves; compatible. XR's Destroy the Docks uses a similar speed-based arrival table."
+   },
+   "Checked: VP system, 8 turns, deployment in opposite corners."
+  ],
+  "missing_or_unclear": [
+   "Which corners ('selected table corner' and 'opposite corner').",
+   "Terrain method ('mutually agreed fashion or use tables prepared by organisers').",
+   "Table size."
+  ],
+  "diagram": "none",
+  "length": "about 0.4 page",
+  "notes": "Equal points, any factions."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "any",
+  "generic": "yes",
+  "id": "nem-tearing-flanks",
+  "title": "Tearing the Flanks",
+  "pages": "printed p.53 (PDF p.55)",
+  "type": "tournament/matched",
+  "forces": "Equal points.",
+  "summary": "Both fleets deploy in 30cm zones on the long edges, parallel to the long edge and facing the same way (direction rolled), with at least one capital ship or escort squadron in each of three sectors (A/B/C) of the zone. The long edges are 60cm apart. Standard VP.",
+  "special_rules": [
+   "Deployment parallel to the long edge, direction by D6",
+   "At least one unit in every sector"
+  ],
+  "xr_dependencies": [
+   "s.38 Victory Points",
+   "s.8 Squadrons"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "First turn by attack rating",
+    "source_text": "Use an Attack Rating roll to determine who starts the battle.",
+    "xr_section": "s.2 The Turn; Scenarios, Using Attack Ratings (XR p.78)",
+    "xr_text": "Normally both players roll a D6 and the player with the highest score can decide to move either first or second. Sometimes the scenario you are fighting will decide it for you.",
+    "effect": "The scenario may decide the first turn (s.2), so this is allowed. XR uses the attack rating for attacker/defender and scenario choice, not first turn."
+   },
+   "Checked: standard VP, game length until one fleet disengages or is destroyed, free celestial phenomena."
+  ],
+  "missing_or_unclear": [
+   "Table size (diagram shows 30cm zones and a 60cm gap, so 120cm wide).",
+   "The diagram's sectors A/B/C widths."
+  ],
+  "diagram": "simple",
+  "length": "about 0.3 page",
+  "notes": "Diagram checked at 110 dpi: 30cm zones, 60cm between them, three sectors."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "any",
+  "generic": "yes",
+  "id": "nem-titan-clash",
+  "title": "Titan Clash",
+  "pages": "printed p.54 (PDF p.56)",
+  "type": "tournament/matched",
+  "forces": "Equal points.",
+  "summary": "A plain fleet battle with two 30cm deployment zones 60cm apart. Optional Intelligence Service: the first player to perform a successful boarding action or hit-and-run on the enemy flagship gains 200 VP.",
+  "special_rules": [
+   "Intelligence Service alternative (+200 VP)"
+  ],
+  "xr_dependencies": [
+   "s.38 Victory Points",
+   "s.31 and s.32"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "First turn by attack rating",
+    "source_text": "Use an Attack Rating roll to determine who starts the battle.",
+    "xr_section": "s.2 The Turn; Scenarios, Using Attack Ratings (XR p.78)",
+    "xr_text": "Normally both players roll a D6 and the player with the highest score can decide to move either first or second. Sometimes the scenario you are fighting will decide it for you.",
+    "effect": "The scenario may decide the first turn (s.2), so this is allowed. XR uses the attack rating for attacker/defender and scenario choice, not first turn."
+   },
+   "Checked: victory by standard VP, game length."
+  ],
+  "missing_or_unclear": [
+   "'Flag ship' with a character or without one (the booklet defines a fleet commander's ship)."
+  ],
+  "diagram": "simple",
+  "length": "about 0.3 page",
+  "notes": "Very close to Cruiser Clash."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "any",
+  "generic": "yes",
+  "id": "nem-capture-hulk",
+  "title": "Capture the Hulk",
+  "pages": "printed p.55 (PDF p.57)",
+  "type": "tournament/matched",
+  "forces": "Equal points.",
+  "summary": "A hulk with 3 hit points and no defences sits in the table centre. A capital ship that boards it, retreats and disengages scores 500 VP; a ship that loses its boarding action against it finds nothing. If the booty is destroyed the destroyer loses 400 VP.",
+  "special_rules": [
+   "The Hulk (3 hits, no defences, boarded one ship at a time)",
+   "The Booty (lost when its carrier is boarded or destroyed)"
+  ],
+  "xr_dependencies": [
+   "s.32 Boarding Actions",
+   "s.34 Hulks",
+   "s.38 Holding the Field"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Boarding a hulk",
+    "source_text": "To capture the booty and win the battle, you have to board the Hulk with one of your Capital ships",
+    "xr_section": "s.34 Hulks in combat",
+    "xr_text": "Drifting and blazing hulks cannot be fired upon, boarded, or have torpedoes deliberately launched at them by friendly vessels or ordnance for any reason, although enemies may still do so normally.",
+    "effect": "The source lets either side board the hulk; under XR a friendly hulk cannot be boarded, and the hulk here belongs to neither side. 'Hulk' is used loosely for a derelict."
+   },
+   {
+    "topic": "Disengaging with the booty",
+    "source_text": "Then you must disengage with this ship. ... You gain a extra 500VP points if you manage to escape with the booty.",
+    "xr_section": "s.37 Disengaging",
+    "xr_text": "a ship or escort squadron may take a leadership test at the end of its movement phase",
+    "effect": "Requires a disengage test or a table edge exit. Ships can disengage normally."
+   },
+   {
+    "topic": "First turn by attack rating",
+    "source_text": "Use an Attack Rating roll to determine who starts the battle.",
+    "xr_section": "s.2 The Turn; Scenarios, Using Attack Ratings (XR p.78)",
+    "xr_text": "Normally both players roll a D6 and the player with the highest score can decide to move either first or second. Sometimes the scenario you are fighting will decide it for you.",
+    "effect": "The scenario may decide the first turn (s.2), so this is allowed. XR uses the attack rating for attacker/defender and scenario choice, not first turn."
+   },
+   "Checked: standard VP; first turn."
+  ],
+  "missing_or_unclear": [
+   "Hulk Armour, movement (drifts?) and size.",
+   "Rule for 'successfully boarded by the enemy' while carrying the booty (uses the normal boarding contest).",
+   "Whether the 3-hit hulk may be shot (it appears to cause 400 VP loss if destroyed)."
+  ],
+  "diagram": "simple",
+  "length": "about 0.5 page",
+  "notes": ""
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "any",
+  "generic": "yes",
+  "id": "nem-ambush",
+  "title": "Ambush (Book of Nemesis version)",
+  "pages": "printed p.56 (PDF p.58)",
+  "type": "small-game",
+  "forces": "Two allied fleets of 500-750 points each attack one fleet of twice the size (1000-1500). Three players.",
+  "summary": "An event scenario with three players. The attackers' fleets count as independent fleets for composition and re-rolls. Battlezone phenomena are generated by rolling two dice and the attackers pick the better. The attackers roll a D6 and add 1 for the first turn choice.",
+  "special_rules": [
+   "Two allied attackers are independent fleets",
+   "Attackers choose between two terrain rolls",
+   "Attackers +1 for the first-turn roll"
+  ],
+  "xr_dependencies": [
+   "Scenarios: Ambush (matched play)",
+   "s.39",
+   "s.38 Victory Points"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Name clash with the booklet's Ambush",
+    "source_text": "Two small (500-750 each), allied fleets form the Attackers' force.",
+    "xr_section": "Scenarios, Ambush (XR p.119)",
+    "xr_text": "defender more than 30cm from every edge, every defending ship / squadron facing one way and 20cm from the others (XR matched-play Ambush)",
+    "effect": "A different scenario with the same title."
+   },
+   "Checked: attack rating for deployment order (uses the lower rating, re-roll ties); VP as normal."
+  ],
+  "missing_or_unclear": [
+   "Deployment area sizes (diagram shows Deployment zone A, B and a defender zone).",
+   "How the two attackers act in alternate activation: not stated under IGOUGO either (they move as one side)."
+  ],
+  "diagram": "simple",
+  "length": "about 0.4 page",
+  "notes": "Designer note: made for three-player events."
+ },
+ {
+  "group": "Book of Nemesis (Cypra Probatii)",
+  "source": "Book of Nemesis",
+  "author": "Cypra Probatii; ed. Marcin 'MKG' Gerkowicz",
+  "in_booklet": "no",
+  "ocr": "no",
+  "factions_required": "any",
+  "generic": "yes",
+  "id": "nem-gunnery-practice",
+  "title": "Gunnery Practice",
+  "pages": "printed p.57 (PDF p.59)",
+  "type": "small-game",
+  "forces": "One cruiser with the lowest Ld possible in the fleet; a player's own asteroids.",
+  "summary": "A solo exercise on a 120 x 120cm table. Each turn 2D6 asteroids enter from a chosen edge (10 entry zones, D10), move 4D6cm each turn and have 1-6 hits (D6). The cruiser must avoid them as in an asteroid field at -1 Ld and shoot them (Armour 6, D3 blast markers when destroyed). It wins if it survives six turns undamaged and destroys at least one asteroid.",
+  "special_rules": [
+   "Moving asteroid targets",
+   "-1 Ld to avoid asteroids",
+   "Renown penalties if played in a campaign"
+  ],
+  "xr_dependencies": [
+   "s.39 Asteroid Fields",
+   "s.13 Direct Fire",
+   "s.11 Blast markers"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Asteroid navigation",
+    "source_text": "If an asteroid passes your ship, you must avoid it as in a normal asteroid field, but you suffer a -1 to Ld due to the speed of the stone!",
+    "xr_section": "s.39 Asteroid Fields",
+    "xr_text": "ships moving through an asteroid field, or coming into base contact with the edge of one, must first pass a leadership test to navigate it successfully. ... A ship that fails this test suffers D6 damage",
+    "effect": "Consistent with XR; the -1 is a scenario modifier. Moving asteroids are not XR asteroid fields."
+   },
+   {
+    "topic": "Shooting asteroids",
+    "source_text": "Asteroids have an armour value of 6 and of course no turrets or shields. Place D3 blast markers when you destroy an asteroid.",
+    "xr_section": "s.39 Firing on Asteroid Fields",
+    "xr_text": "For each hit inflicted, place a blast marker in contact with the edge of the field",
+    "effect": "XR shoots at fields as ordnance and needs a Leadership test; the source targets individual asteroids with Armour 6."
+   },
+   "Checked: no celestial phenomena; one-player exercise; renown loss is campaign-only."
+  ],
+  "missing_or_unclear": [
+   "Asteroid base size.",
+   "Whether Lock On or other special orders are allowed (not restricted).",
+   "Cruiser class (any with the lowest Ld)."
+  ],
+  "diagram": "simple",
+  "length": "about 0.7 page",
+  "notes": "Solo game; for green crews in a campaign."
+ }
+]
