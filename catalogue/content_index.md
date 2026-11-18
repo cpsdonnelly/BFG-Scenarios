@@ -113,3 +113,68 @@ Text PDF. A narrative Eldar campaign of nine linked scenarios; each scenario is 
 | Scenario VII: A Prophecy Untold | 28 | scenario | Eldar vs Dark Eldar in an asteroid field. |
 | Scenario VIII: Tears in Motion | 29 | scenario | Eldar Corsairs in the Eye of Terror, round a rogue planet (Chaos). |
 | Scenario IX: Starblade | 30 | scenario | Duel of the Spirit of Arina and the Chaos ship Mortarion's Blight in the Eye of Terror. |
+
+---
+
+## Annual_2002_Invasion
+
+### Battlefleet Gothic 2002 Annual (ed. Warwick Kinrade) — `Battlefleet Gothic - 2002 Annual.pdf`, 92 PDF pages, OCR
+
+Printed page = PDF page - 2. The Annual sorts its rules into New Rules (official), Experimental Rules and Unofficial House Rules; the status of each article is given in its heading.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Introduction, contents | 3 | 1 | other | Explains the High Admirals' rules review and rule statuses. |
+| Necron Reapers (Pete Haines) | 4-17 | 2-15 | fleet list | Fiction, then the Necron fleet list: Tombship, Scythe Harvest ship, Shroud, Jackal and Dirge raiders, Necron special rules and ship systems. |
+| Ramilies class Star Fort | 18-23 | 16-21 | ship design | 875pt star fort: four quadrants, docking, deployment in scenarios, relocation in campaigns, catastrophic damage table. |
+| Vengeance class Grand Cruisers | 24-30 | 22-28 | ship design | Imperial Vengeance, Avenger, Exorcist; Chaos Retaliator, Executor variants. |
+| Space Marine Rapid Strike Vessels | 31-33 | 29-31 | ship design | Hunter destroyer and Nova frigate, with fleet list entries. |
+| Ork crew skills and refits (Mark Humphries) | 34-36 | 32-34 | campaign | Ork refit and crew skill tables. |
+| Eldar refits | 37-38 | 35-36 | campaign | Eldar engine, ship and weapon refit tables. |
+| Minefields (Andy Chambers) | 39 | 37 | rules variant | Minefield rules. |
+| Solar Flares (Andy Chambers) | 40 | 38 | rules variant | When solar flares are rolled for and their effects, incl. Eldar. |
+| Questions & Answers | 41-43 | 39-41 | Q&A/FAQ | Numbered rules Q&A (grand cruisers, asteroids, hulks, squadrons, Exterminatus). |
+| Forge World kits | 44-45 | 42-43 | other | Advertisement. |
+| Ordnance Launch Limits (Andy Chambers) | 46 | 44 | rules variant | Experimental limit on ordnance launched. |
+| Nova Cannon Fire! (Pete Haines) | 47 | 45 | rules variant | Experimental nova cannon changes. |
+| Battlefleet Bakka (John Lambshead) | 48-58 | 46-56 | fleet list | History, Lord Admiral Rath, the Bakka fleet list and its ships (Emperor, Victory?, Enforcer, Endeavour, Viper). |
+| Hellfire (Duncan Sargent) | 59-62 | 57-60 | ship design | Converting a Chaos Hellfire heavy cruiser, with its profile. |
+| Tactica Imperialis (Andy Hall) | 63-64 | 61-62 | tactics | Imperial tactics against Necrons. |
+| Advanced Rules (Andy Chambers) | 66-68 | 64-66 | rules variant | Torpedo bombers, orbital mines, fighters, bomber waves, ordnance Q&A. |
+| Brace for Impact! (Andy Chambers) | 69 | 67 | Q&A/FAQ | Rules clarifications (special orders, Eldar, celestial phenomena). |
+| Convoy Run Variants (Andy Chambers, Pavel Stafa, Michael Powers) | 70-71 | 68-69 | scenario | Alternative attacker tables for the Convoy Run (The Cruiser Trap, The Wolf Packs, The Old Minefield), Eldar as convoy attackers, Eldar in Planetary Assault, variant convoy ships. |
+| Stalking the Void | 72 | 70 | ship design | Eldar Void Stalker battleship. |
+| To Cleanse the Stars (Gav Thorpe, Andy Chambers) | 73-77 | 71-75 | fleet list | Space Marine fleet list, Terminators, and Space Marine variants of the rulebook scenarios. |
+| Space is Green! (Andy Chambers) | 78-82 | 76-80 | ship design | Ork space hulks and roks, hulks in campaigns and scenarios, Ork Waaagh! fleet list. |
+| The Slayer of Worlds | 83-89 | 81-87 | ship design | Planet Killer background, Abaddon, Armageddon gun rules and Chaos fleet list additions. |
+| Heavy Transports (Gav Thorpe) | 90 | 88 | ship design | Heavy transports for Planetary Assault and Convoy scenarios (from Warp Storm). |
+| Back cover | 91-92 | | other | |
+
+### Battlefleet Gothic Invasion — `Battlefleet Gothic Invasion.pdf`, 36 PDF pages, OCR
+
+US booklet of new scenarios and hobby articles. Printed page = PDF page - 2.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Introduction | 3 | 1 | other | Welcome to Invasion. |
+| The Chart | 4 | 2 | scenario | Any vs any: an ambush in a charted asteroid field on a trade route; the attacker goes first. |
+| Conquest | 5 | 3 | scenario | Any vs any: two fleets race for archeotech archives on a planet; with rules for making planets. |
+| Breakthrough | 6 | 4 | scenario | Any vs any: Convoy Runners try to get past attackers sent to stall them. |
+| Head of the Snake | 6 | 4 | scenario | Any vs any: +1 Ld for each flagship; if a flagship is crippled or destroyed, its fleet suffers -2 Ld. |
+| Painting tips | 7 | 5 | other | Hobby. |
+| Retrieval | 8 | 6 | scenario | Any vs any: half a dozen derelict transports, one of which (rolled secretly) holds an artifact. |
+| Defensive Ring | 9 | 7 | scenario | Any vs any: a sudden attack on the enemy's heavily defended refuelling station. |
+| Port Maw | 10-11 | 8-9 | scenario | Chaos vs Imperial: the attacker comes out of a warp rift against an Imperial fleet docked at a damaged Port Maw. |
+| Showcase | 12-13 | 10-11 | other | Conversions. |
+| Boarding Actions | 14-17 | 12-15 | rules variant | Playing BFG boarding actions as Warhammer 40,000 games: forces, battlezone, missions. |
+| Boarding Party | 18-19 | 16-17 | scenario | Linked BFG and 40K scenarios: a 500pt outnumbered fleet sends a suicide squad to blow up the enemy flagship's torpedo bay. |
+| Deadline | 20-21 | 18-19 | scenario | Linked 40K and BFG scenarios: destroy three generator bunkers to stop a macro cannon, then the fleet battle (rulebook Scenario Seven set-up). |
+| Product catalogue | 22-34 | 20-32 | other | Miniatures range. |
+
+### Imperium Tactica: Lord Rhamirez's Masterclass — `Imperium Tactica Rhamirez.pdf`, 5 PDF pages
+
+Text PDF (a web print of a Fanatic article; printed pages 2-6).
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Lord Rhamirez's Masterclass | 1-5 | 2-6 | tactics | Imperial Navy fleet building and tactics: escorts, pack hunting, formations, ramming. |
