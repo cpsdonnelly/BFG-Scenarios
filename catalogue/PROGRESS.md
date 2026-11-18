@@ -6,7 +6,7 @@
 |---|---|---|
 | Advanced_Tournament_Nemesis_Starblade | 4 | done |
 | Annual_2002_Invasion | 3 | done |
-| BFG_Magazine | 21 (19 issues, Old 12, Scenario Listing; xlsx index) | |
+| BFG_Magazine | 22 (19 issues, Old 12, Scenario Listing, xlsx index) | done |
 | Fanatic_Magazine | 17 | |
 | Fanatic_Online | 34 | |
 | Project_Distant_Darkness | 3 | |

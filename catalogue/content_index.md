@@ -346,3 +346,152 @@ All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated
 | Tyranid Hive Fleets (Andy Chambers, Nate Montes) | 12-24 | 10-22 | fleet list | Second experimental Tyranid rules: synaptic control, fleet list, profiles, critical and catastrophic tables. |
 | Tyranids in the rulebook scenarios | 25 | 23 | scenario | Notes on playing each rulebook scenario with a hive fleet. |
 | Contacts, Dark Eldar recognition guide | 26-27 | 24-25 | other | |
+
+### Battlefleet Gothic Magazine 12 — `Battlefleet Gothic Magazine 12.pdf`, 36 PDF pages
+
+Printed page = PDF page - 2. A second scan of this issue is `Old Battlefleet Gothic Magazine 12.pdf` (below).
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial, Incoming! news | 3-5 | 1-3 | other | Battlefleet Armageddon mobilised; the Falchion class. |
+| Endeavour, Endure, Defy! (Warwick Kinrade) | 6-11 | 4-9 | ship design | Imperial light cruisers of Battlefleet Armageddon: Endeavour, Endurance, Defiant, and the Falchion escort. |
+| Mailbag | 12-13 | 10-11 | Q&A/FAQ | Ordnance, Dark Eldar. |
+| The Battle of Numitor (Warwick Kinrade) | 14-19 | 12-17 | scenario | Gothic War history (Imperial vs Chaos raiders in the Cyclops Cluster) and "Refighting the Battle": map of entry points, forces from the account, or your own fleets. |
+| Overlord (Bob DeAngelis) | 20-23 | 18-21 | other | Conversion of an Overlord from the Endeavour kit. |
+| Threat Index: Vessels of Hive Fleet Leviathan | 24-27 | 22-25 | ship design | Tyranid ship profiles for Leviathan. |
+| A Call for Aid, a Plea for Mercy! (Roderick Easton) | 28-33 | 26-31 | campaign | House-rule appeals charts per faction (Chaos powers, Eldar craftworld / Commorragh, Ork pirates / Waaagh!). |
+| Contacts | 34 | 32 | other | |
+| Battlefleet Armageddon: The Chosin Line | 35 | 33 | other | Background on the Chosin Line orbital defence perimeter round Armageddon. |
+
+### Old Battlefleet Gothic Magazine 12 — `Old Battlefleet Gothic Magazine 12.pdf`, 34 PDF pages
+
+An older scan of issue 12 with the same articles; the Overlord conversion and the Leviathan pages are shorter by two pages. Nothing in it is missing from the newer scan (checked page by page against the outline above). Pages: editorial 3-5, light cruisers 6-11, mailbag 12-13, Numitor 14-19, Overlord 20-21, Leviathan 22-25, appeals charts 26-31, contacts 32, Chosin Line 33.
+
+### Battlefleet Gothic Magazine 13 — `Battlefleet Gothic Magazine 13.pdf`, 36 PDF pages
+
+Printed page = PDF page - 2.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial, Incoming! | 3-5 | 1-3 | other | Ork battleship releases. |
+| Return of the Beast! (Andy Chambers, Pete Haines, Matt Keefe) | 6-13 | 4-11 | fleet list | Ork battleships (Slamblasta, Gorbag's Revenge and others) and Ghazghkull's Third Armageddon War fleet list. |
+| The Battle of the Cold Passage (John Lambshead) | 14-15 | 12-13 | scenario | Battlefleet Bakka vs Chaos raiders: the history and a refight, with Imperial deployment within 5cm of a line. |
+| Imperial Invincible class fast battleship (John Lambshead) | 16-17 | 14-15 | ship design | 290pt fast battleship, and the Chaos Soul of Hate's special rules for the refight. |
+| Mailbag | 18-19 | 16-17 | Q&A/FAQ | Vanguard, Dark Eldar. |
+| They Come Only to Murder (Matt Keefe) | 21 | 19 | scenario | Dark Eldar (75% of the defender's points) raid a poorly defended planet for captives; defender may spend a quarter on planetary defences. |
+| The Cerberus War: Endgame (James Parry and friends) | 22-28 | 20-26 | campaign | Background of the Cerberus War's end and a four-scenario mini-campaign (rules for Leadership and experience). Scenarios 2-4 are in issue 14. |
+| Cerberus Scenario 1: Into the Nebula | 29-33 | 27-31 | scenario | Imperial vs Ork: the exploration cruiser Venturer (Captain Lysander) must escape an Ork blockade of the Shroud Nebula; Blockade Run set-up, sub-plots, historical results. |
+| Contacts, Battlefleet Armageddon: Voss' Steel (the Falchion) | 34-35 | 32-33 | other | |
+
+### Battlefleet Gothic Magazine 14 — `Battlefleet Gothic Magazine 14.pdf`, 36 PDF pages
+
+Printed page = PDF page - 2. The three Armageddon scenarios are already in the booklet; the Cerberus War scenarios are not.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| His Will, editorial, Incoming! | 2-4 | 1-2 | other | Apocalypse class battleship His Will, Lord Damaskine. |
+| Battlefleet Armageddon introduction | 5 | 3 | campaign | Third Armageddon War coverage. |
+| Battlezones | 6-8 | 4-6 | rules variant | Armageddon battlezone generator, system map, wreckage, debris fields, hulks (worth VP to the side holding the field). |
+| Scenario 1: The Gauntlet | 9 | 7 | scenario | In the booklet (The Gauntlet, variant of Convoy). Imperial convoy vs Orks, with optional Running Battles. |
+| Scenario 2: Parol's Bait | 10 | 8 | scenario | In the booklet (Parol's Bait, variant of The Bait). |
+| Scenario 3: Pelucidar | 11 | 9 | scenario | In the booklet (The Defence of Pelucidar). |
+| Armageddon sub-plots | 12-14 | 10-12 | rules variant | Imperial and Ork sub-plot tables for Third Armageddon War fleets (Admiral Parol, Fighta-Bomma Shortage...). |
+| Armageddon class battlecruiser | 17 | 15 | ship design | 235pts. |
+| Segmentum Solar Third Armageddon War fleet list | 18-19 | 16-17 | fleet list | Imperial fleet list with battlecruisers and reserves. |
+| The Armageddon Sector | 20-21 | 18-19 | campaign | Sector map and sub-sectors. |
+| The Cerberus War Part II (James Parry and friends) | 22 | 20 | campaign | Final three scenarios of the Cerberus mini-campaign. |
+| Cerberus Scenario 2: Warp Space | 22-24 | 20-22 | scenario | Battle inside warp space, where gas/dust clouds and asteroid fields have warp effects. |
+| Cerberus Scenario 3: Hold the Line | 25-28 | 23-26 | scenario | Outnumbered rearguard holds off a pursuing armada; attacker set-up area grows each turn; Warmaster Umbros, Inquisitor Marek; historical results. |
+| Cerberus Scenario 4: Apotheosis | 29-33 | 27-31 | scenario | Ahriman's Chaos fleet assaults the Eldar craftworld Alurmen: low orbit table, assault points, Eldar defence stations, historical forces, Ahriman's rules (200pts). PDF pages 32-33 continue the scenario after the forces page. |
+| Contacts, cover art | 34-36 | 32-34 | other | |
+
+### Battlefleet Gothic Magazine 15 — `Battlefleet Gothic Magazine 15.pdf`, 36 PDF pages
+
+Printed page = PDF page - 2. No scenarios.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Pleasurefleet Drane (inside cover), editorial, Incoming! | 2-5 | 1-3 | other | |
+| Chaos Space Marine Fleets (Pete Haines) | 6-13 | 4-11 | fleet list | Abaddon's 13th Black Crusade fleet list: Chaos Lords, Chaos Space Marine special rules, Abaddon, the Planet Killer's Armageddon gun. |
+| Daemonships | 14-17 | 12-15 | rules variant | Daemonship rules, warp translation deployment, conversions. |
+| The Ultramarines (John Lambshead) | 18-25 | 16-23 | fleet list | Ultramarines history, Macragge, Codex Space Marine fleet organisation and tactics, ships of the Ultramarines, Tyranid incursions. |
+| Strength in Numbers (Alex Aimette) | 26-33 | 24-31 | tactics | Cruiser squadron tactics and formations, with example squadrons. |
+| Contacts, Cacophony Rex | 34-35 | 32-33 | other | |
+
+### Battlefleet Gothic Magazine 16 — `Battlefleet Gothic Magazine 16.pdf`, 36 PDF pages
+
+Printed page = PDF page - 2.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Space Marine escorts (inside cover), editorial | 2-3 | 1 | other | |
+| The Growing Storm | 4-7 | 2-5 | campaign | The 13th Black Crusade's opening raids and the Ilithrium Belt; suggests rulebook scenarios (The Raiders, Surprise Attack, Convoy) for the raids. |
+| Blood Vengeance | 8-9 | 6-7 | fiction | Ships' souls and sailors' traditions. |
+| Return to the Gothic Sector | 10-11 | 8-9 | campaign | Refits after the Gothic War and campaign advice for the Black Crusade. |
+| Daemonhunters: Grey Knights in Battlefleet Gothic | 12-13 | 10-11 | fleet list | Grey Knights and Inquisitors in Imperial Navy fleets. |
+| Pleasurefleet Rex (Dan Drane) | 14-19 | 12-17 | tactics | A Slaanesh raiding fleet and how it plays. |
+| The War of Belis Corona (Nate Montes) | 20-21 | 18-19 | fiction | Background to the mini-campaign. |
+| The Belis Corona Mini-Campaign | 22 | 20 | campaign | Chaos vs Imperial, 2000pt campaign fleets; four battles played in order, Space Marine reinforcement rolls. |
+| Battle 1: The Crown Belt | 23-24 | 21-22 | scenario | Equal fleets round a mining station in an asteroid belt; historical forces. |
+| Battle 2: Bairsten Prime | 25-27 | 23-25 | scenario | Planetary attack with a low orbit table; the defender may spend 50% more points; historical fleet list. |
+| Battle 3: Laurentix | 28-30 | 26-28 | scenario | Planetary invasion with transports and planetary defences; historical fleet lists. |
+| Battle 4: Belis Corona | 31-33 | 29-31 | scenario | Grand finale: every ship on both fleet lists; historical notes and fleet lists. The booklet's Above Belis Corona (Armada) is a different scenario. |
+| Chaos Space Hulk | 34 | 32 | ship design | |
+
+### Battlefleet Gothic Magazine 17 — `Battlefleet Gothic Magazine 17.pdf`, 36 PDF pages
+
+Printed page = PDF page - 2 (approximately; the OCR'd folios are unreliable in the Tau section).
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| For the Greater Good (inside cover), editorial, Incoming!, contacts | 2-7 | 1-5 | other | Tau releases (Explorer, Merchant, Hero). |
+| Tau in Space (Pete Haines) | 8-19 | 6-17 | fleet list | Experimental Tau rules: background, special rules, ordnance, profiles, Tau fleet list, Lar'shi (Hero) starship. |
+| Special Celestial Phenomena (Pierre A. Dahl) | 20-26 | 18-24 | rules variant | Alternative phenomena: double planet, asteroid belt, binary star, valuables, debris field, black hole, alien raider, meteor shower, old battlefield, rogue asteroid, derelict minefield, warp beast. |
+| Kroot Warsphere; Tau allies, subjects and mercenaries | 28-29 | 26-27 | ship design | Kroot Warsphere (145pts), Kroot and Nicassar vessels. |
+| The Vagaries of War (Nate Montes, Bob Henderson) | 30-34 | 28-32 | campaign | Map-based alternative campaign rules: fleet registry, orders, fleet movement, deciding scenarios, renown. |
+| Tau colour schemes | 35 | 33 | other | |
+
+### Battlefleet Gothic Magazine 18 — `Battlefleet Gothic Magazine 18.pdf`, 34 PDF pages
+
+Printed page = PDF page - 2.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial, Incoming! | 3-4 | 1-2 | other | |
+| Elaysion Crusade (Nate Montes) | 5 | 3 | campaign | Imperial vs Chaos campaign using the Vagaries of War rules; Warmaster Attalid (125pts, Ld 9, 1 re-roll) and Admiral Paris. |
+| Battle 1: Reconnaissance Run of Antioc | 6-7 | 4-5 | scenario | Replays the Antioc Reconnaissance Run (issue 8) inside the campaign, with the dispersed Imperial fleet (1170pts). |
+| Battle 2: Evacuation of Guidus Prime | 8-9 | 6-7 | scenario | Replays Evacuation (issue 4) inside the campaign, with the dispersed Chaos fleet (2590pts) and historical result. |
+| Battle 3: Liberation of Centris | 10 | 8 | scenario | A quick skirmish between small forces in the campaign. |
+| The Eye of Terror | 11-17 | 9-15 | campaign | Results of the worldwide Eye of Terror campaign (The Slow Reprisal, The Imperium Resurgent) and warzone results tables. |
+| The Hive Fleets: Tyranids in Battlefleet Gothic | 18-32 | 16-30 | fleet list | Tyranid rules: hive mind, synaptic control, navigation, weapons, damage, hive ship, Kraken, escort drones, hive fleet list, evolutions. |
+| Scenario Notes | 33 | 31 | scenario | Using each rulebook scenario (Cruiser Clash ... Planetary Assault) with a hive fleet (updated from issue 11). |
+
+### Battlefleet Gothic Magazine 19 — `Battlefleet Gothic Magazine 19.pdf`, 35 PDF pages
+
+Printed page = PDF page - 2. The last issue.
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial, Incoming! | 3-5 | 1-3 | other | Final issue. |
+| Rogue Traders in Battlefleet Gothic (Matt Keefe) | 6-9 | 4-7 | fleet list | Rogue Trader fleets, xenos allies, sub-plots. |
+| Lithesh War: The Damocles Gulf Crusade (Nate Montes) | 10-11 | 8-9 | campaign | Imperial vs Tau campaign background. |
+| Scenario One: Cruiser Crash at Hydrass | 12-13 | 10-11 | scenario | Imperial vs Tau, equal points; Tau limited to seven capital ships incl. a Bork'an Explorer; Cruiser Clash-based. |
+| Scenario Two: Evacuation of Sy'Lklell | 14-15 | 12-13 | scenario | Imperial vs Tau follow-on: evacuation with transports and assault points; uses up to 750pts set aside after Hydrass. |
+| To Unite the Stars: Tau in Battlefleet Gothic (Pete Haines) | 16-29 | 14-27 | fleet list | Updated Tau rules, systems, Kir'qath (Defender), allies and mercenaries, Dhows. |
+| The Demiurg | 30-32 | 28-30 | ship design | Demiurg vessels as allies for any fleet but Orks, Tyranids and Necrons. |
+| Tau Kor'vattra fleet list | 33 | 31 | fleet list | |
+| Back cover, Rogue Trader vessels | 34-35 | 32-33 | other | |
+
+### BFG Scenario Listing — `BFG Scenario Listing.pdf`, 4 PDF pages
+
+Byte-for-byte the same file as `reference/BFG_Scenario_Listing.pdf`.
+
+| Title | PDF p. | Type | What it is |
+|---|---|---|---|
+| BFG Scenario Listing (compiled by "italianmoose") | 1-4 | other | Community list of 152 scenarios by publication, with authors and a "generic" flag; the source of `reference/scenario_checklist.md`. |
+
+### BFG magazine Index — `BFG magazine Index.xlsx`
+
+| Title | Type | What it is |
+|---|---|---|
+| BFG magazine Index | other | Spreadsheet: one row per article in issues 1-19 (issue, item, author, remark, scenario / campaign flags). Incomplete: it omits, for example, issue 1's Raiders and Pirates, issue 8's Execution Hour and issue 18's Elaysion battles. |
