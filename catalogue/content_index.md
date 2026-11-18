@@ -957,3 +957,139 @@ The contents also lists "Divine Intervention" (printed page 38), which is not in
 | Ashes of the Hellfire / Souleater (Shapeshifter) | 12 | ship design | Experimental Chaos ship class. |
 | WAAAAAGH (Dominic Amlôt) | 13-28 | fiction | |
 | Minor Engagement (Andy "Ruckdog" Rucker) | 29 | scenario | Small pick-up game between small forces, two deployment zones. |
+
+### Warp Rift 23 — `warprift23.pdf`, 34 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Battlefleet Limante; famous vessels and personages of the Limante Sector (Bryan McMahon) | 4-10 | fleet list | Fan Imperial sector fleet. |
+| A Story from the Limante Sector | 11-12 | fiction | |
+| Special Surprise Attack Scenario | 13 | scenario | Limante sector, Imperial vs Orks (Kill Kroozer "WAAAAAAGGGGHHH of Doom"): a variant of Surprise Attack using a solar flare to mask the approach. Near-duplicate of the booklet's Surprise Attack. |
+| A Quick Unauthorized Q&A | 14 | Q&A/FAQ | Answers from the High Admiralty and Sigoroth. |
+| O'Shovah: Tau fleet (Harkon) | 15-24 | other | Showcase. |
+| Target Priority (Admiral Robert de Bertl) | 25-32 | tactics | |
+| Sizes of the Imperial Navy | 33 | other | |
+
+### Warp Rift 24 — `warprift24.pdf`, 38 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Necrons in BFG (Reg Steiner) | 4-5 | rules variant | Necron essay. |
+| WoT's this gotta do with... (Ray Bell) | 6-7 | rules variant | Warp-related rules for standard games. |
+| Rules for Heavy Escorts (Reg Steiner) | 8 | rules variant | |
+| Battlefleet Limante showcase (Bryan McMahon) | 9-13 | other | |
+| Some answers on Simultaneous Movement (Reg Steiner) | 14 | rules variant | |
+| A Tyranid War, Chapter 10 part 1 (Reg Steiner) | 15-31 | fiction | |
+| Falling Down (Zhai Morenn) | 32-35 | scenario | Distant Darkness story and scenario: a Tau raid in an Imperial system (Swords and a transport replaced by Corsair class escorts and a light cruiser). |
+| The Forge: Craftworld Eldar, Dark Eldar (and "Fire Everything") | 36-38 | other | Printable counters/templates. |
+
+### Warp Rift 25 — `warprift25.pdf`, 38 PDF pages
+
+No scenarios.
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Orks! Terror of the Spacelanes! (Reg Steiner) | 4-6 | rules variant | |
+| Naval Upgrades (Davide Ferrari) | 7 | rules variant | |
+| Battlefleet Gothic: Chronicles interview (Maverick) | 8-9 | other | |
+| Darkening Technology (Reg Steiner) | 10-12 | rules variant | |
+| GothiComp 2009: Fleets | 13-15 | other | |
+| Simultaneous Movement and Combat: Eldar (Reg Steiner) | 16 | rules variant | |
+| A Tyranid War, Chapter 10 part 2 (Reg Steiner) | 17-35 | fiction | |
+| The Forge: Imperial Navy, Orks | 36-38 | other | |
+
+### Warp Rift 26 — `warprift26.pdf`, 36 PDF pages
+
+No scenarios.
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| BFG: Relevance and Recognition (Robert Hughes) | 4-5 | other | |
+| Battlefleets of the Imperium (Robert C. M. Passovoy) | 6-9 | other | |
+| Strike Cruisers (Admiral Lord Michael) | 10-11 | tactics | |
+| GothiComp 2009: fleets, ships, conversions | 12-18 | other | |
+| WAAAAAGH part 2, 1 of 2 (Dominic Amlôt) | 19-29 | fiction | |
+| Raiding the Bits Drawer (S.A.N.G.); Tyranid markers; vortex templates; Adeptus Mechanicus Ark | 30-36 | other | |
+
+### Warp Rift 27 — `warprift27.pdf`, 32 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Get the Most out of your Admiral (Reg Steiner) | 4-5 | tactics | |
+| Fighter and Bomber Rules Mod (Solar Admiral Nathan Gul) | 6-9 | rules variant | |
+| Rogue Traders (Roy) | 10-14 | fleet list | |
+| Tau Space Stations and Vessels (Harkon) | 15-17 | other | Showcase. |
+| WAAAAAGH part 2, 2 of 2 (Dominic Amlôt) | 18-28 | fiction | |
+| Battle for the Stygies System (Max Porter Zasada "Moox") | 29-31 | campaign | Tree campaign, Imperial vs Chaos (with Eldar): each battle's result picks the next scenario (Convoy, Planetary Assault and others) with locations and attacker/defender. |
+| Eldar Craftworld | 32 | other | |
+
+### Warp Rift 28 — `warprift28.pdf`, 28 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Optional Ship Destruction Rules (Dan Lee) | 4-5 | rules variant | |
+| Blow the Drives! (Solar Admiral Nathan Gul) | 6-7 | rules variant | Deliberate drive overload. |
+| Campaign Encouragement (Robert Hughes) | 8-9 | campaign | |
+| GothiComp 2010 rules | 10-11 | other | |
+| Sacrifice; Edify (Chuck Raygor) | 12-14 | fiction | |
+| Drifting Hulks (S.A.N.G.) | 15-19 | other | Hulk models. |
+| The Spreading War part 1 (Reg Steiner) | 20-27 | scenario | Narrative with scenarios (Rebellion; second scenario "Death and Glory" / Rear Guard action: renegades must force every Imperial ship off the table). |
+| Chaos Hades class cruiser | 28 | other | Art. |
+
+### Warp Rift 29 — `warprift29.pdf`, 27 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Ork Tactica (Shane McRoberts) | 4-10 | tactics | |
+| Asuryan's Light in the Darkness Rekindled (Hellebore) | 11-13 | rules variant | Eldar rules. |
+| Imperial Vessels: vessel ages (Age) | 14 | rules variant | |
+| GothiComp 2010 fleet finalists | 15-17 | other | |
+| The Spreading War part 2 (Reg Steiner) | 18-27 | scenario | Narrative continued, Imperial vs Orks, with scenarios: Ork forces of 1200 and 1500pts, planetary installations and stations scored and captured by assault boats. |
+
+### Warp Rift 30 — `warprift30.pdf`, 19 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Navis Nobilite; High Admiralty | 3-4 | other | |
+| Using the Vengeance class grand cruiser (David Hiscocks) | 5 | tactics | |
+| Eldar Phoenix battleship (Hellebore) | 6 | ship design | 400pts. |
+| Imperial and Chaos vessel timeline (Dan Lee) | 7-8 | other | |
+| Building the Zeus light cruiser (Mangozac) | 9-12 | other | |
+| GothiComp 2010 fleet winner | 13-14 | other | |
+| Battles in the Warp (Dan Lee) | 15-16 | rules variant | Fighting inside the warp: reduced weapon ranges and hit rolls, Geller field tests, daemons materialising aboard. |
+| A Good Deed part 1 (A. R. Aston) | 17-19 | fiction | |
+
+### Warp Rift 31 — `warprift31.pdf`, 25 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Using the Avenger class grand cruiser (David Hiscocks) | 4 | tactics | |
+| Spacefleet ships in BFG (Tom Moseley) | 5-11 | ship design | Old Space Fleet ships converted to BFG. |
+| Campaign Rules (unknown) | 12 | campaign | Quick campaign system. |
+| Magnetizing grand cruisers (Zelnik) | 13-14 | other | |
+| Showcase | 15-16 | other | |
+| Battlefleet Limante part I (Bryan McMahon) | 17-20 | other | Background: history and famous squadrons and people. No scenario rules. |
+| A Good Deed part II (A. R. Aston) | 21-25 | fiction | |
+
+### Warp Rift 32 — `warprift32.pdf`, 20 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Navis Nobilite, High Admiralty | 3-4 | other | |
+| It's Not So Bad: Using the Tyrant (David Hiscocks) | 5 | tactics | |
+| Spacefleet ships in BFG: Imperial support ships (Tom Moseley) | 6-9 | ship design | |
+| Fleet Engagement Variant (Dan Lee) | 10-11 | scenario | Alternative formations and results for Fleet Engagement (e.g. "Guard Down"). Near-duplicate of the booklet's Fleet Engagement. |
+| Black Ship conversion (Mangozac) | 12-14 | other | |
+| Battlefleet Limante part II (Bryan McMahon) | 15-20 | fiction | Background and history (planetary survey, battle for the sector). |
+
+### Warp Rift 33 — `warprift33.pdf`, 13 PDF pages
+
+No scenarios.
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Navis Nobilite, High Admiralty | 3-4 | other | |
+| Tactical Manoeuvres (Dan Lee) | 5 | tactics | |
+| Eldar ships in Battlefleet Gothic (Tom Moseley) | 6-7 | ship design | |
+| Advanced Ordnance Rules (Graham Wilson) | 8-11 | rules variant | Named attack craft types per race (fighters, bombers, torpedo bombers with their own profiles). |
+| GothiComp 2011 finalists | 12-13 | other | |
