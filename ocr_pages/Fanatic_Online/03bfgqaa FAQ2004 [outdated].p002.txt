@@ -1,0 +1,184 @@
+Fan07_66 71
+
+23/8/04 10:16 am Page 67
+
+Q: Does Brace for Impact halve the
+number of turrets a ship has?
+
+A: No. Turrets are completely
+unaffected by Brace for Impact.
+
+Come to New Heading
+
+Q: If a capital ship is under Come to
+New Heading special orders, can it
+make both turns at the same time?
+
+A: No. Capital ships under this special
+order must move their minimum
+distance before turning for BOTH their
+turns. For example, an Imperial
+cruiser must move 10cm, turn, then
+move an additional 10cm before
+turning again.
+
+Standby
+Q: Can a ship on standby shoot/Brace
+for Impact/use its turrets/whatever?
+
+A: Any ship described as being on
+standby may not move, fire weapons
+or launch ordnance. It may however
+attempt to Brace and repair critical
+damage. Turrets and shields work
+normally.
+
+Reload Ordnance
+
+Q: If I roll a double when Reloading
+Ordnance, can I re-roll it using a Fleet
+Commander re-roll? What about if the
+double was a succesful Command
+check?
+
+A: You may use a re-roll (if available)
+to roll the special order again if you
+roll a double, even if the double roll
+passed the Leadership check. The
+second roll stands.
+
+Re-rolls
+Q: If I use a re-roll and don’t like the
+result, can I use another re-roll?
+
+A: Only one re-roll can be spent on a
+vessel per turn. In other words, if a
+vessel fails a Leadership check and
+then fails a re-roll, another re-roll
+cannot be expended on it for the same
+vessel that turn even if more re-rolls
+are available.
+
+—o—
+
+MOVEMENT
+
+Q: If a cruiser moves forwards 10cm in
+a straight line during my Movement
+phase, can the cruiser turn
+immediately at the start of the next
+Movement phase, since the prior move
+
+was 10cm in a straight line?
+
+A: No. A ship can only count forward
+Movement made during a given
+Movement phase before turning. In
+other words, a cruiser that moves
+straight ahead at least 10cm without
+turning in a Movement phase cannot
+count that Movement to immediately
+turn in the next Movement phase.
+
+BLAST MARKERS
+Q: If a ship moves through more than
+one Blast marker, does it suffer -Scm
+for each Blast marker?
+
+A: Movement through Blast markers
+reduces speed by a total of 5cm,
+regardless of how many are moved
+through in each Movement phase.
+
+Q: My ship has a Blast marker on the
+back of its base, and moves forwards,
+away from the Blast marker. I’m not
+moving through it, so is my ship still
+affected?
+
+A: Yes! Blast markers affect
+Leadership, movement, shooting and
+ordnance regardless of where the Blast
+marker actually contacts the ship’s
+base. If a ship has a Blast marker
+anywhere on its base, then it will be
+subject to all the described effects for
+Blast matter, no
+exceptions.
+
+markers no
+
+Q: Can I stack up the blast markers
+when I place them on a ship?
+
+A: No. Blast markers can never be
+stacked for any reason. Spread them
+around the base.
+
+Q: A Blast marker is placed on my
+opponent’s cruiser when I shoot at it,
+but the size of the Blast marker means
+that the marker also lies over a nearby
+ship’s base. Is this ship also affected by
+the Blast marker?
+
+—o—
+
+A: No. You should make sure you
+always place Blast markers so they do
+not touch the bases of ships nearby.
+Ships in base contact, however, can be
+affected (see next question).
+
+Q: My opponent has some of his ships
+in base contact with each other when I
+fire at one of them. Do I place the Blast
+marker so that it touches the bases of
+all these ships? Does the Blast marker
+affect all of the ships?
+
+A: The Blast marker affects all ships in
+base contact with the target vessel.
+Where possible place the Blast marker
+so that it touches the bases of all
+affected ships as a reminder, but where
+this isn’t possible remember that all
+ships in base contact with the target
+vessel are still affected. It’s only
+possible to place a Blast marker in
+base contact with three ships at a time,
+though it is possible that more ships
+than this will be affected, so remember
+which was the original target vessel.
+
+Q: My cruiser has two shields and is in
+contact with two Blast markers,
+meaning it has no functioning shields.
+It moves through these Blast markers,
+does it risk suffering damage?
+
+A: No. A ship only risks damage from
+being in contact with Blast markers if
+it suffers a Shields Collapse critical
+damage or if the vessel does not have
+shields, such as Eldar. Ships with
+shields overloaded by taking fire but
+are otherwise functional do not risk
+taking damage on a D6 roll of 6.
+
+SHOOTING
+
+Q: I want to shoot at my opponent’s
+torpedoes (30cm away) but he also has
+a cruiser (25cm away) within range of
+the same ship. Do I have to take a
+Leadership check to ignore the ship?
+
+A: No. A ship electing to fire at
+ordnance does not have to make a
+Leadership check to ignore closer
+targets, nor does it have to make a
+Leadership check to ignore enemy
+ordnance if it is the closest target. You
+can consider ships and ordnance to be
+

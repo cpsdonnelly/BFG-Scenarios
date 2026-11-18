@@ -1,0 +1,28 @@
+IMPERIAL NAVY
+SILURIA GLASS LIGHT GRUISER HU
+
+Famous Ships: Vanguard, Thebes
+
+TYPE/HITS = SPEEDS sTURNS = SHIELDS ARMOUR TURRETS
+
+AS ET
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Port Weapons battery 30 cm 6 Left
+Starboard Weapons battery 30 cm 6 Right
++ ah
+Prow Lance battery 30 cm 2 Left/front/right
+7
+
+SPECIAL e Improved Thrusters
+
+The Siluria class light cruiser is a much older design than the Endeavour or Dauntless, but a small number continue to serve the spa-
+ce lanes of Segmentum Tempestus. The Siluria is best suited to supporting battle fleets rather than undertaking missions on its own.
+However, a full broadside from one of these ships is more than capable of causing great damage, so these vessels tend to be well
+screened until the time to unleash its weapons arrives. During the Phillipa campaign, the Siluria cruisers Vanguard and Thebes served
+with particular renown.
+
+FACTION KEYWORDS Bakka Sector, Imperial Navy, Imperium
+
+20

@@ -1,0 +1,28 @@
+IMPERIAL NAVY
+
+GOGRA GLASS DESTROYER al) PTS
+
+Famous Squadrons of the Gothic War: 24th Widowmakers
+
+TYPE/AITS = SPEED «Ss TURNS §=©=—s SHIELDS ARMOUR TURRETS
+
+TE
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Prow Torpedoes 30 cm 2 Front
+
+Prow Weapons battery 30 cm l Left/front/right
+
+OPTIONS * If more than half of the ships in an escort squadron are Cobras, all of those Cobras may remove the weapons bat-
+teries from their datasheet in exchange for gaining the Sophisticated Detection special rule (like the 24th Destroyer
+Squadron Widowmakers).
+
+Cobra class escorts form a significant proportion of Battlefleet Obscuras, their versatility making them a favoured vessel for scout-
+ing, patrolling and raiding. The main asset of the Cobra is its great speed, enabling it to catch the light, fast craft favoured by pirates.
+This was most famously illustrated in the Gothic sector by Captain Walker's Skargul patrol, which destroyed seventeen pirate vessels in
+the twelve months prior to the Gothic War.
+
+FACTION KEYWORDS Bastion Fleets, Gothic Sector, Imperial Navy, Imperium
+
+a4

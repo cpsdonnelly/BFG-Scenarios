@@ -1,0 +1,47 @@
+IMPERIAL NAVY
+FIRESTORM GLASS FRIGATE
+
+Famous Squadrons of the Gothic War: Patrol Group Erinyes, Lexus Squadron, Costa
+Barbarus Patrol
+
+-"
+
+a4 : a » Pw -_
+
+@jGoyea :
+
+TURRETS
+
+“
+
+FIRE ARG
+
+Left
+
+TYPE/HITS = SPEED = TURNS = SHIELDS ARMOUR
+
+a
+LOCATION ARMAMENT RANGE/SPEED FIREPOWER/STR
+
+Prow Lance battery
+
+~~
+
+Escort/| 25cm
+
+Left/front/right
+
+Dorsal Weapons battery
+
+Firestorm class frigates are a comparatively recent innovation within Battlefleet Obscuras. The design was created in an effort to ba-
+lance the manoeuvrability of escort class ships with the hitting power of a lance armament. The Firestorm is built around a Sword class
+hull with major reconfiguration of the central laser cores to direct power to a prow-mounted cannon. Only five squadrons of Firestorms
+served in the Gothic War and these were all understrength in most of the engagements they fought, due to a lack of available replace-
+ment ships. The most noteworthy action fought by Firestorms was by Gold Squadron at the Battle of Veras. The two Firestorms
+intercepted a group of Infidel raiders flanking the main fleet to attack the Emperor class battleship /ntolerance. Three of the raiders
+were destroyed for the loss of one Firestorm, enabling the /nto/erance to complete the despatch of twenty four bomber wings against
+the Chaos Desolator class battleship Eternity of Pain.
+
+FACTION KEYWORDS Bastion Fleets, Gothic Sector, Imperial Navy, Imperium
+
+24

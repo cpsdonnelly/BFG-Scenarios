@@ -1,0 +1,94 @@
+IMPERIAL NAVY, SEGMENTUM SOLAR
+
+ARMAGEDDON SEGTOR FLEET LIST
+
+FLEET COMMANDER
+
+-Ratios:
+-Fleet size up to 750 points: 0-1 fleet commander.
+-Fleet size 751 or more points: I fleet commander.
+-1+ Imperial Navy capital ships: 0-1 Admirals.
+-1 Battle barge: | Master of the Fleet (assigned to said Battle
+barge).
+
+-Vice Admiral (Ld 8, fleet 1 re-roll).................cscccseesseeseese 50 pts
+-Fleet Admiral (Ld 9, fleet 1 re-roll).......ceceseeteeneeneees 100 pts
+-Solar Admiral (Ld 10, fleet 1 re-roll).........ccc.cc.cceeeeeeeee 150 pts
+-Master of the Fleet (Ld 10, fleet 1 re-roll)..................0000. 50 pts
+«1 additional fleet re-roll...cc.c.sccccccccccccsiececscseseccdscuacesedeses 25 pts
+--2 additional fleet re-rolls (any Admiral)................00006 75 pts
+--3 additional fleet re-rolls (any Admiral)..................00. 150 pts
+--2 additional fleet re-rolls (Master of the Fleet).............. 50 pts
+--3 additional fleet re-rolls (Master of the Fleet).............. 75 pts
+CAPITAL SHIPS
+Battleships
+
+-Ratio: max 1:3 Cruisers-Battlecruisers.
+-Emperor class battleship (pg. 3).........:..:sssescsssceseeseeeeees 365 pts
+-Retribution class battleship (pg. 4).......ccccscseseereeeeees 345 pts
+-Oberon class battleship (pg. 6)............::.::cesecsseeeeeeeeeeees 335 pts
+-Space Marine Battle barge (pg. ??7?).........:cscseeeereeeees 425 pts
+Battlecruisers
+
+-Ratio: max 1:1 Cruiser.
+-Mars class battlecruiser (pg. 11)........... ee eeeeeeeeeeeeeeeeee 270 pts
+-Armageddon class battlecruiser (pg. 15)... 235 pts
+Cruisers
+
+-Ratio: 0-12 per fleet.
+-Dictator class cruiser (Pg. 17).....sscscseeeeseeeeeererees 220 pts
+-lyrant.classeruiser (pe: 19) .csciasinumnnuncciwake 185 pts
+-Gothie class cruiser (p@.:20) wiissccsicssccscisccsiccssioncscsacsasace 180 pts
+EAI AL C1 GS5 CLUISEN (D2 22 Ui cas crerrasesseerereravanreeenncoammnnneane 180 pts
+-Space Marine strike cruiser* (pg. ???)..........::ssseeeeeee 145 pts
+-Endeavour class light cruiser (pg. 22).........cceeeeeeeeeeeee 110 pts
+-Endurance class light cruiser** (pg. 24)..........eeeeeee 110 pts
+-Defiant class light cruiser** (pg. 26).......cssceseeseesesseeees 120 pts
+
+The Endurance and Defiant class light cruisers are rare va-
+riants of the Endeavour. and with manufacturing and refitting
+capabilities at a premium during the Third Armageddon War,
+the forge world of Voss inevitably produced far more of the En-
+deavour than either of its variants. Endurances and Defiants
+have a shared ratio of : max 2/ 500 points (or portion thereof)
+of fleet size.
+
+ESCORTS
+
+-Squadron size: 2-6.
+
+-Firestorm class frigate (pg. 29)......cccsceesecseeeeneeteeeees 40 pts
+-Sword class frigate (pe; 32). 2ssssiccecckccanainank 35 pts
+-Cobra class destroyer (pp: 34) s.isissisissscssccersnsacsasicssinietencs 30 pts
+NG VR Class Frm ate™ CNG FF os ccvescererseensearssaccennacrcsencenieens 50 pts
+-Firestorm class Rapid Strike Vessel* (pg. ???).............. 45 pts
+ASladius class fripate? (0.07 2) sssscivecsscestasiesaieie 45 pts
+-Hunter class destroyer* (pg. ???).........ceeseesseeseeeeeeteeeeees 40 pts
+-Sword class rapid strike vessel* (pg. ???).. cece 40 pts
+
+-Cobra class rapid strike vessel* (pg. ???)....... cece 35 pts
+
+ORONANGE
+
+Any Imperial Navy ship with launch bays may choose to
+have them launch any mix of Fury interceptors and Starhawk
+bombers. Some ships may carry Shark assault boats at an addi-
+tional cost. Imperial Navy ships with torpedo tubes are armed
+with ordinary torpedoes.
+
+Adeptus Astartes ships with launch bays may only launch
+Thunderhawks (pg. ???). All Adeptus Astartes ships equip-
+ped with torpedo tubes are armed with normal torpedoes and
+astartes boarding torpedoes (pg. ???).
+
+RESERVES
+
+Despite including Adeptus Astartes ships in the fleet list,
+Armageddon Sector fleets are not space marine fleets and
+follow the normal Imperial Navy reserve rules.
+
+Any fleet choosing reserves from this fleet list may not
+choose any Adeptus Astartes vessels.
+
+FACTION KEYWORDS Armageddon Sector, Imperial Navy, Imperium
+

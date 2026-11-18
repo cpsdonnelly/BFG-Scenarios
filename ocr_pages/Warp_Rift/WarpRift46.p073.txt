@@ -1,0 +1,18 @@
+IMPERIAL NAVY
+VIPER GLASS DESTROYER
+
+Famous Squadrons: Rat Runners, 76th Silver Spears
+
+TYPE/HITS §=9s SPEED «SsSTURNS §=s SHIELDS ARMOUR TURRETS
+
+LOCATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+Prow Torpedoes Front
+
+During the Gareox Prerogative, many Cobra destroyers were converted to carry boarding torpedoes. Their main weapon battery was
+removed and extra torpedo launch tubes added. The experiment was not a success; escorts could not carry large enough crews to man
+the torpedoes properly and fly the ship. These ships have proven to be poor convoy escorts but have been surprisingly successful in
+fleet support flotillas. As such, most Vipers have been retained in this capacity and continue to be constructed, though they no longer
+use boarding torpedoes.
+
+FACTION KEYWORDS Bakka Sector, Imperial Navy, Imperium
+

@@ -1,0 +1,46 @@
+IMPERIAL NAVY
+ENDURANGE GLASS LIGHT GRUISER
+
+Famous Ships: Ad Liberis
+
+110 PTS
+
+wal | S
+fie re 4 1, - ocak pao st Se
+
+saul “ee
+
+TYPE/HITS = SPEEDS sTURNS = SHIELDS ARMOUR TURRETS
+
+a
+
+LOCATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Cruiser/6 20 cm
+
+Port Lance battery 30 cm 2 Left
+
+T os —- .
+Starboard Lance battery 30 cm 2 Right
+
+Prow Weapons battery 30 cm | 2 Left/front/right
+
+F + + + + |
+Prow Torpedoes 30 cm 2 Front
+
+SPECIAL e Choke Point Defense: The mid-ship corridor of Endurance light cruisers is easy to defend and restricts access to
+vital parts of the ship.
+
+OPTIONS * May increase its prow armour to 6+ for no additional cost. However, if this option is taken, the Turns characteristic
+of the vessel is reduced to 45°.
+
+The Endurance class is an Endeavour with its weapons battery refitted to carry lances. A common tactic amongst fleet admirals is to
+pair up Endeavours and Endurances for mutual protection and fearsome combined firepower. Given that the Endurance is produced in
+less numbers, a lack of Endurances does not always make this possible. It is more likely that a mixed squadron will contain two or
+three Endeavours and a single Endurance in support. Operating in this manner, the Ad Liberis was responsible for the destruction
+of nine Ork escorts as the War for Armageddon began above the high-g world of Pelucidar during a savage three-hour engagement, be-
+fore their withdrawal was ordered by Admiral Parol.
+
+FACTION KEYWORDS Armageddon Sector, Bastion Fleets, Imperial Navy, Imperium
+
+24

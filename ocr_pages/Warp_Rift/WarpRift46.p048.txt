@@ -1,0 +1,38 @@
+IMPERIAL NAVY
+VENGEANGE GLASS GRAND CRUISER dal PTS
+
+Famous Ships: The Covenanter (Battlefleet Scarus), Vigilanti Eternus (Battlefleet Cadia)
+
+i a EMG Ie
+
+jE nS THe aometllls
+
+TYPE/HITS §=©9=—s SPEED «=SsTURNS §=©=—s SHIELDS ARMOUR
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Port Lance battery 45 cm 2 Left
+Starboard | Lance battery | 45 cm 2 | Right
+Port Weapons battery | 60 cm | 10 Left
+Starboard | Weapons battery | 60 cm 10 Right
+
+SPECIAL * Ablative Armour (Prow)
+
+The Vengeance class straddles the line between earlier and later Imperial ship design. The ship can be seen with the beginnings of
+the characteristic armoured prow, although as yet the extra armour had not been added. Today, the Vengeance remains part of the Impe-
+rial fleet reserve, regarded by most admirals as an old warhorse, past its best days. Vengeances have also been identified as part of Trai-
+tor fleets, dating back to the mass mutiny that split the Imperial fleet in half during the Great Betrayal. Since then Imperial ship design
+has slowly evolved, but within the warp, where time does not follow a linear path, ships can survive untold millennia as if it were only
+yesterday.
+
+The active Vengeance class grand cruisers that are part of the Segmentum Obscurus fleet are generally deployed in squadrons whose
+ongoing mission is to patrol and defend the systems lying around the Eye of Terror in a constant vigil against Chaos incursions. Other
+Vengeances are scattered across Imperial fleet reserves throughout Segmentum Obscurus and Segmentum Pacificus as second-line
+units, replacement squadrons and mothballed as war reserves.
+
+Several patrolling squadrons of Vengeance's have, whilst engaged in routine duties, strayed into the Eye itself, either lured there in
+pursuit of raiders or caught in a sudden and unpredictable flare or expansion. Such patrols are never seen again, although reports of
+Ven-geance class grand cruisers supporting renegade raids and even Black Crusades have been on the increase.
+
+FACTION KEYWORDS Bastion Fleets, Imperial Navy, Imperium
+

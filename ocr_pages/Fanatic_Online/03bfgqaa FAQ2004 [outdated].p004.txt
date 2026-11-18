@@ -1,0 +1,186 @@
+Fan07_66 71
+
+23/8/04 10:17 am Page 69
+
+ORDNANCE
+
+Q: If I launch a wave of Ordnance
+markers, can I stack them one on top
+of each other?
+
+A: No. Ordnance markers in a wave
+must be spread in base contact and
+cannot be stacked.
+
+Q: If I shoot at a wave of ordnance or
+salvo of torpedoes and score a hit, how
+many individual markers are removed?
+
+A: All of them. Ordnance waves or
+salvoes that are hit by direct-fire
+weapons (such as gunnery or lances)
+on a roll of 6 remove the entire wave
+or salvo, not a single torpedo or
+Attack Craft marker.
+
+Q: My ordnance wave moves through
+three different Blast markers during its
+move. Do I need to test each time for
+damage?
+
+A: No. Ordnance waves forced to move
+through multiple Blast markers in one
+Ordnance phase are only required to
+test one time against being removed
+on a D6 roll of 6.
+
+Q: When does ordnance attack?
+
+A: Ordnance attacks are always
+resolved immediately, including in the
+Movement phase when a ship moves
+into enemy ordnance. This also allows
+small torpedo salvoes to be used to
+clear the way of enemy fighters in the
+Ordnance phase so that larger salvoes
+can get through, etc.
+
+Q: If ordnance moves into contact with
+a target, does it have to attack it?
+
+A: Yes.
+always attack the first ordnance or
+vessels they come in contact with
+(when applicable). In other words, a
+fighter squadron may not ignore a
+small torpedo salvo in contact to
+
+Ordnance markers must
+
+attack a larger one nearby, or an
+attack craft wave may not ignore an
+escort in contact to attack a nearby
+cruiser.
+
+—o—
+
+Torpedoes
+
+Q: My torpedoes have a re-roll to hit,
+but their target has already been
+destroyed. Do I have to re-roll?
+
+A: Yes.
+automatic re-roll to hit must use their
+
+Torpedoes that have an
+
+re-roll to hit a target, even if that
+target was already destroyed by other
+hits generated in the same salvo.
+
+Q: Can torpedoes ignore hulks? Do
+torpedoes have to attack hulks when
+they move through them or can they
+sense that they are already ‘dead’?
+
+A: Torpedoes do not normally ignore
+bulks in their line of movement (and
+must attack if they do move through
+them). Boarding torpedoes may do so,
+and guided torpedoes may be steered
+away from them.
+
+Attack Craft
+
+Q: The rules say attack craft can turn
+freely in their move. What does this
+mean?
+
+A: Attack craft can make as many
+turns as desired in the course of their
+movement. They are assumed to be
+able to avoid or ignore closer targets
+or obstructions unless the course of
+their movement unavoidably brings
+them in contact, such as Blast markers
+or celestial phenomena.
+
+Q: My  bombers/assault boats
+completely destroy their target ship
+before I have made all my attacks. Do
+the bombers/assault boats get to carry
+on moving like torpedoes?
+
+A: No. An assault boat or bomber
+wave that destroys a ship expends the
+entire wave and is removed, even if
+individual markers have not yet
+rolled their attacks.
+
+Q: I have a squadron of fighters on
+Combat Air Patrol, but the ship they are
+with moves away during the movement
+phase. Can my fighters stay on CAP?
+Can they stay with the ship?
+
+—o—
+
+A: A fighter or wave of fighters on CAP
+may elect to move with its ship in the
+Movement phase (thus remaining in
+base contact) to intercept ordnance
+that may be in its way, but if it does so
+it may NOT then move in the ordnance
+phase. In other words, no double
+moves. Fighters on CAP then stay on
+CAP for that turn unless removed.
+
+Q: I have multiple attack craft
+performing Combat Air Patrol on the
+same vessel, but I didn’t launch them
+as a wave. What happens?
+
+A: Multiple attack craft markers
+forming CAP in base contact with a
+vessel are for all intents and purposes
+treated as a wave. When encountering
+Blast markers, roll once per Blast
+marker for the whole wave, not per
+squadron marker.
+
+Q: I convert my bombers to torpedo
+bombers, but some of them also acted
+like fighters. What happens?
+
+A: Attack craft that function as both
+fighters and bombers lose their fighter
+ability when converted to torpedo
+bombers and have their speed reduced
+by -Scm.
+
+Q: My ship masses turrets with those in
+base contact, gaining +1 turret for
+each ship in base contact. It is then
+attacked by bombers. Do the extra
+turrets count against the bombers
+when they make their attacks?
+
+A: No. The additional turrets only
+allow you
+attempts to shoot down the bombers
+as they come in.
+
+to make additional
+
+Q: My Thunderhawks/Mantas/Eldar
+Fighters/etc have a 4+ chance of
+remaining after they attack. Does this
+mean I can go on and attack other
+targets with them? Do they get this save
+against subsequent targets?
+
+A: Attack craft that are “resilient”,
+meaning they have a 4+ Save against
+other ordnance such Thunderhawks or
+Eldar fighters, can only attempt this

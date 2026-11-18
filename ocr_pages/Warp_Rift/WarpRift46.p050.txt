@@ -1,0 +1,29 @@
+IMPERIAL NAVY
+AVENGER GLASS GRAND GRUISER 200 PTS
+
+Famous Ships: Guadian of Aquinas (Martian Reserve Fleet), The Sword Infernus (Battle-
+fleet Corona)
+
+TYPE/HITS = SPEED «S—sTURNS)§=—s SHIELDS ARMOUR TURRETS
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Port Weapons battery 30 cm 16 Left
+
+Starboard Weapons battery 30 cm 16 Right
+
+SPECIAL * Ablative Armour (Prow)
+
+The Avenger is a hang-over from earlier days, and earlier fleet tactics. It is a gun boat, designed as a linebreaker. The squadrons of
+Avengers would deploy behind a shield of escort vessels or light cruisers. As the fleets closed the range they would accelerate to full
+speed, racing into the midst of an enemy fleet. Once in the heart of the enemy it would sit, its heavy batteries blazing left and right,
+trading barrages at point-blank range. The plan called for two or three squadrons of Avengers to cause (and usually take) very heavy
+damage, but its big batteries could out-shoot most enemies at close quarters. The disruption and damage caused by this brutal tactic of
+close quarters slugging would leave the enemy fleet in disarray, and easy prey to following waves who could then mop up.
+
+As tactical doctrine changed so the Avenger’s place in many Imperial fleets became redundant. The Avenger was relegated from
+front-line duty. Many had their batteries stripped out for use elsewhere. Some squadrons were mothballed in fleet reserves, but, when
+hard-pressed, the Avenger can once again be seen racing into the heart of the enemy.
+
+FACTION KEYWORDS Bastion Fleets, Imperial Navy, Imperium 10
+

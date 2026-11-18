@@ -1,0 +1,38 @@
+IMPERIAL NAVY
+OVERLORD GLASS GATTLEGRUISER 20) PTS
+
+Famous Ships of the Gothic War: Flame of Purity, Cypra Probatii, Sword of Retribution
+
+eo ree asl yta,
+c ws: iB AB Ms! 03 <2) 28 a: ! 1°} i 2, afi) {) ib @ ai)
+
+ooe| tt SC nn aoa
+a ae eA Te SIN Tata
+
+OOFd) Pere) Mead cee Iced
+
+TYPE/HITS §=9=oSPEED «= TURNS = SHIELDS ARMOUR TURRETS
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Port Weapons battery 60 cm 8 Left
+Starboard Weapons battery | 60 cm | 8 | Right |
+Dorsal Lance battery | 60 cm | 2 Left/front/right
+| Prow | Torpedoes | 30 cm | 6 Front
+
+OPTIONS * May increase its Turrets value from 2 to 3 for +10 points (like the Cypra Probatii).
+* The Overlord battlecruiser is based on the Acheron heavy cruiser design and relies on systems derived from it for
+it targeting systems. For +15 points, it may gain the Superior Targeting Matrix special rule.
+
+Based on the Acheron class heavy cruiser design, the Overlord class battlecruiser was built to provide the Imperial fleet with a
+cruiser-sized vessel with the long range punch of battleship weaponry. Because of difficulties in power transmission the Acheron's
+prow weap-ons batteries were replaced by standard cruiser torpedo tubes and armoured prow. However, this arrangement allowed the
+Overlord's dorsal lance turrets to be upgraded, giving them a range comparable to the vessel's other long-range laser batteries. Diffi-
+culties in building the Overlord class meant that only limited numbers served in the Segmentum Obscuras fleet, each vessel being
+painstakingly constructed at the Cypra Mundi shipyards. Three vessels served in the sector fleet during the Gothic War: the Flame of
+Purity, Sword of Retribution and Cypra Probatii. The latter was completed during the war and arrived in the Gothic Sector only after a
+difficult and hazardous journey through the warp. Flame of Purity and Sword of Retribution operated together for most of the war,
+protecting impor-tant star systems against the Chaos raiders that plagued the whole sector.
+
+FACTION KEYWORDS Bastion Fleets, Gothic Sector, Imperial Navy, Imperium 16
+

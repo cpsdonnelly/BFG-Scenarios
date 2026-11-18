@@ -1,0 +1,145 @@
+IMPERIAL NAVY
+
+LEADERSHIP
+
+The Imperial Navy is the largest void combat force in the
+galaxy. Its millennia of tradition and behemoth size make it the
+standard to which all other fleets are held.
+
+06 ROLL LEADERSHIP
+
+| Ld 6
+2-3 | Ld 7
+4-5 | Ld 8
+6 | Ld 9
+
+SPEGIAL RULES
+
+The following special rules apply to several Imperial Navy
+datasheets Some are Universal Special Rules and can be found
+in the main rulebook, but are repeated here for ease of use;
+others are exclusive to vessels of the Imperial Navy.
+
+Ships with their own bespoke special rules will explain their
+effects in their datasheet.
+
+Ablative Armor (x): This rule must always specify in brackets
+to which location on a ship it applies, such as Ablative Armor
+(Prow). Whenever a roll on the critical hits table is made to
+affect a ship with this rule, if the result would affect the loca-
+tion indicated in brackets, the critical hit is completely ignored
+and has no further effect.
+
+Note that this does not negate damage from the original hit
+that caused the critical hit in the first place.
+
+Advanced Command & Control: A model with this rule adds
++1 to its Leadership rating.
+
+Choke Point Defense: A ship with this special rule adds +1 to
+the result of any boarding actions where it is the defender.
+
+Improved Thrusters: A ship with this rule gains an additional
++1d6 speed when under A// Ahead Full special orders.
+
+Ponderous: A ship with this special rule cannot attempt to
+undertake the Come to a New Heading special order.
+
+Sophisticated detection: A ship with this rule adds +2 to its
+leadership when the enemy is on special orders instead of +1.
+
+Superior Targeting Matrix: A ship with this special rule applies
+a left-column shift on the gunnery table when firing its wea-
+pons batteries.
+
+Volatile Core: A ship with this rule adds 1d6 to its roll on the
+Catastrophic Damage Table when destroyed, treating any result
+greater than a 12 asa 12.
+
+EQUIPMENT
+
+Power Ram
+
+In any Imperium fleet, any Imperial Navy capital ship
+with a prow Armour value of 6+ that is not equipped with a
+Nova Cannon may equip a Power Ram for +5 points.
+
+When a ship equipped with a power ram successfully execu-
+
+tes a ramming maneuver, the target ship suffers one automatic
+hit before the normal ramming damage is resolved.
+
+Sensor Array
+
+Dedicated attack craft carriers will often dispense with the
+standard armoured prow of the Imperial Navy, replacing it with
+a mass of sensor probes and forward turrets.
+
+As long as the location where a ship’s Sensor Array is loca-
+ted is not disabled by a critical hit, that ship receives the bene-
+fits of the Advanced Command & Control USR.
+
+ORONANGE
+
+The Imperial Navy has always employed an amazing varie-
+ty of light craft aboard its vessels. From brigs, dories, pinnaces,
+couriers and lighters for transporting personnel, materials and
+documents between ships, to deep-space bombers and intercep-
+tors, almost every ship has a selection of craft obtained locally
+from dozens of worlds or, in many cases, built by artisans
+aboard the ship itself. Nonetheless, the attack craft deployed
+by Imperial ships are categorised into broad classes of machi-
+nes with similar capabilities.
+
+Fury Interceptors
+
+Fury class interceptors are built primarily for speed and ma-
+neuverability, with distinctive oversized thrusters and attitude
+jets. Furies carry a crew of between two and four and are typi-
+cally equipped with several banks of forward firing lascannon
+and missile bays.
+
+TYPE SPEED
+
+SPEGIAL RULES
+Fighter 30 cm -
+
+Starhawk Bombers
+
+Starhawk class bombers are larger, slower craft which carry
+a heavy payload of plasma bombs and armour-piercing missi-
+les for attacking enemy ships. Starhawks have large crews,
+mainly to man their numerous short-range defence weapons.
+
+SPEGIAL RULES
+
+TYPE SPEED
+
+20 cm -
+
+Bomber
+
+Shark Assault Boats
+
+Shark class assault boats are built around a powerful central
+engine and an armoured troop-carrying compartment. The base
+of the compartment is studded with powerful magnetic clamps
+and melta charges for blasting through the outer hull of a ship.
+Once a breach has been made, assault troops swarm into the
+enemy ship and attack from within its own defences.
+
+SPEGIAL RULES
+
+Assault Boat 30 cm -
+
+TYPE SPEED
+
+ATTACK RATING
+
+Imperial Navy fleets have an attack rating of 2.
+
+RESERVES
+
+Unless otherwise specified, Imperial Navy fleets can take
+reserves from any Imperial Navy or Adeptus Mechanicus
+fleet list.

@@ -1,0 +1,65 @@
+IMPERIAL NAVY
+APOGALYPSE GLASS BATTLESHIP
+
+Famous Ships of the Third Armageddon War: His Will, Triumph
+
+au PTS
+
+ae
+
+a ona = we
+
+< : | =a a fr iia fot — = ie
+ma . ; ‘ele cecoegtn as wae ii + TE a icnie itl Lh ul Ta ~ oD
+SF _ Se , or mpl vm nea * eae, ee ie itt GE
+
+im is | aL " a
+7 1 eS LY neene
+er Torte Een ju im
+I aarp errr Seeman ied ie i 1
+
+=.
+
+Bin 1
+b , Aenea ee, 25 SRC RERNNRTCEN coe Ce ee ee ee eee
+
+ST Cae ee | i
+
+se eae epee -‘- he
+
+TYPE/HITS =o SPEED «= TURNS = SHIELDS ARMOUR TURRETS
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Battleship/12
+
+Port Lance battery 30 cm 6 Left
+
+Starboard Lance battery 30 cm 6 Right
+Dorsal Weapons battery 60 cm 6 Left/front/right
+
+Prow Nova cannon 30-150 cm l Front
+
+¢ Ponderous
+SPEGIAL ¢ All Power to Weapons Decks!: If the Apocalypse is given Lock On special orders, it may increase the range of its
+lances to 60 cm for that Shoot-ing Phase only. However, if this option is used and the lances are fired at 45 cm or
+greater, the Apocalypse will suffer an immediate Thrusters Damaged critical hit (but does NOT take 1 damage
+from the critical hit) as soon as the lances are fired.
+
+The Apocalypse class is an ancient design that is generally believed to have been the precursor of the Retribution class battleship
+millennia ago. The superior technologies used to construct the multiple lance turrets on the Apocalypse have now all but been forgotten
+and so the small number of examples of this ship can never be replaced. The loss of even one will always be keenly felt. It has been
+theorised by Naval strategists that the vessel was specifically created to counter the ever-growing numbers of battleships and grand
+cruisers that attempted to lead Chaos raiding fleets from within the Eye of Terror. In this duty, the Apocalypse has proved itself to be
+everything the Imperial Navy could have wished for.
+
+The rows of fearsome lance armament along the broadsides of the Apocalypse are its most distinctive feature. It has been noted that
+these lance arrays are fully capable of operating at much greater ranges by an engineering process that greatly increases the load-
+bearing capabilities of their main power relays. However, the array conduits themselves become notoriously unreliable when stressed
+this far and run-away power drains can easily start to sap energy from the ship’s main drives, making the Apocalypse sluggish in the
+midst of battle. Thus, almost all existing Apocalypse class battleships keep their lance armament limited to medium ranges. Most Seg-
+mentum fleets have at least a few examples of the Apocalypse still in battleworthy condition, though their numbers are gradually dwin-
+dling.
+
+FACTION KEYWORDS Armageddon Sector, Bastion Fleets, Imperial Navy, Imperium
+

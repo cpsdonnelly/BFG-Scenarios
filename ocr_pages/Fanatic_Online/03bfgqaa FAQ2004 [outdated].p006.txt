@@ -1,0 +1,178 @@
+Fan07_66 71
+
+23/8/04 2:41 pm Page 71
+
+SQUADRONS
+Q: I have a squadron composed of
+ships with different Leadership values,
+which score should I use?
+
+A: Before the start of a game, escort
+squadrons make a single roll to
+determine Leadership for the entire
+squadron. Capital ships may roll their
+individual Leadership separately, but
+capital ship squadrons must be
+deployed and declared as such before
+the start of the game. A capital ship
+squadron assumes the Leadership of
+whatever surviving vessel has the
+highest Leadership.
+
+Q: If I pass a Leadership test can I
+ignore the nearest ship in the
+squadron and pick another target
+within it?
+
+A: No. When shooting at squadrons, a
+Leadership test cannot be used to pick
+out individual ships in a squadron;
+only the closest vessel can be targeted.
+This does not apply to ordnance,
+which can target and ship in a
+squadron they can hit.
+
+Q: Do special orders affect ships in a
+squadron separately?
+
+A: Nope. Vessels in a squadron are all
+equally affected by special orders
+taken by any one ship in the
+squadron. For instance, when on All
+Abead Full, only one roll is made to
+determine additional move distance
+for all the vessels in the squadron.
+
+CELESTIAL PHENOMENA
+
+Q: How many times can a solar flare go
+off during a game?
+
+A: Solar flares now only occur once
+per game. Rolling multiple instances
+as celestial phenomena during set-up
+only means there is a_ higher
+likelibood one will occur, but only one
+will actually manifest itself during the
+game.
+
+—o—
+
+Q: Can I shoot at a ship inside an
+asteroid field?
+
+A: No. Ships cannot shoot into or out
+of an asteroid field. However,
+opposing vessels that are BOTH in an
+asteroid field may shoot at each other
+if they are not braced or crippled, but
+all weapons are at half
+strength/firepower
+maximum range of 10cm. Torpedoes
+and Nova cannon may not fire.
+
+and have a
+
+Q: My ship is in a gravity well (free
+turn) but also on All Ahead Full orders
+(no turns allowed). Which takes
+precedence?
+
+A: Free turns provided by gravity wells
+can be used even when the ship cannot
+normally turn, such as when under All
+Abead Full or Lock On special orders.
+They can also be combined with Come
+To New Heading special orders.
+
+TRANSPORTS
+
+AND PLANETARY DEFENCES
+Q: Can I squadron orbital defences?
+A: Yes. Orbital defences or ships that
+count as defences may be placed in
+squadrons, with 1HP_ defences
+grouped in up to six units and larger
+defences grouped in up to four.
+
+Q: Defence Monitors are listed as
+defences, but they are also ships. Do
+they have a Leadership?
+
+A: No. Vessels used as planetary
+defences such as Defence Monitors or
+system ships do not roll for Leadership
+or have a Leadership value just as
+other normal planetary defences do
+not. This means that they cannot take
+on any special orders, including Brace
+For Impact. However, as they are
+intimately familiar with the local
+area of space they operate in, they
+automatically pass any Leadership
+checks they are required to make, such
+as for navigating local celestial
+phenomena, etc. This does not apply
+for ships that are targeted as defences
+but otherwise are not normally
+restricted to planetary defences, such
+as Ork Roks, Kroot Warspbheres, etc.
+
+—o—
+
+Q: What happens to a heavy transport
+when crippled? Does it still count its
+transport capacity?
+
+A: A heavy transport only counts as
+one transport if it is crippled in any
+scenario where it counts as two
+transports.
+
+Q: What about special transports? They
+count half, so how does this work for
+Assault Points?
+
+A: Any special transport such as an
+armed freighter or fast clipper that
+counts as half a transport for victory
+conditions is also only worth 1 Assault
+Point. Heavy transports are worth 4
+Assault Points, or two Assault Points if
+crippled.
+
+Mines
+Q: Can © ships
+minefields?
+
+move through
+
+A: Friendly ships may traverse a
+minefield normally. Foolhardy enemy
+vessels may attempt to do so using a
+Leadership check as when traversing
+an asteroid field. Remember the mines
+may well attack these enemy as they
+move!
+
+Q: Can ordnance move through a
+minefield?
+
+A: Attack craft can hide in a minefield
+the same way they may do so in an
+asteroid field (destroyed in a D6 roll
+of six). Torpedoes that contact a
+minefield are destroyed.
+
+And finally...
+
+Remember that the minefield rules on
+p.37 of the 2002 Annual completely
+replace those in the rulebook. The
+changes are mainly as follows: mines
+are only activated in the owning
+player’s Ordnance phase, escorts each
+add a +1 modifier to the dice roll to
+be detected, and each vessel detected
+only activates one mine vs. D3 mines.
+

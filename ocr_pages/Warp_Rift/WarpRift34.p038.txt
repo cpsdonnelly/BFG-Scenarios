@@ -1,0 +1,46 @@
++++ FLEET SHIP REGISTRY +++
+
+———++ VESSEL ++-———
+
+Designation:
+
+Class:
+
+Battlefleet:
+
+Discipline:
+
+Crew Rating:
+
+———++ COMMANDER ++———
+
+Captain:
+
+Rank:
+
+Renown:
+
+Respect:
+
+HITS REMAINING
+
+12 | 10 8 6 4 2
+11 9 7 5 3 1
+TYPE/HITS SPEED
+
+TURNS
+
+++ SYSTEMS ++
+
+SHIELDS ARMOR TURRETS
+
+ARMAMENT
+
+RANGE/SPEED FIREPOWER/STR FIRE ARC
+
+>BAT,FEEFEEE [==
+
+GOTHIC
+
+++ MODIFICATIONS ++
+

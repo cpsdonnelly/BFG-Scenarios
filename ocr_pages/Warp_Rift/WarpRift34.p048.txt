@@ -1,0 +1,17 @@
+METIS GLASS LIGHT COMBAT GRUISER ae 140 POINTS
+
+The existence of the Metis light cruiser is evidence towards the rarity or fragility of the heretek shield
+siphon technology found on the Enceladus. Likely tefurbished vessels too damaged from prolonged
+engagements, the Metis seems to have replaced the delicate technology with more recognizable storage
+bays and torpedo launchers. Praise the Omunissiah for its rarity, as its long range weapons batteries and
+heavy torpedo load out make it an effective escort cruiser for larger vessels and a potent flanker outside
+
+formation.
+TYPE/HITS SPEED TURNS SHIELDS ARMOUR TURRETS
+Cruiser/6 25 cm 90° 2 ot ]
+ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARC
+Prow Weapons Battery 45 cm 6 Left/Front/Right
+Prow Torpedoes Speed: 30 cm 6 Front
+
+The Metis Class Light Combat Cruiser is taken from Book of the Void I the Discordia Incident
+

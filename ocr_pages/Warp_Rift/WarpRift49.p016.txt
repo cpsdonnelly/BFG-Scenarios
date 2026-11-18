@@ -1,0 +1,52 @@
+Encyclopedia
+
+Battlefleet Hellenos .,, «x.
+
+A Battlefleet Hellenos , Sa
+
+NEMESIS CLASS FLEET CARRIER . 400 pts
+
+TVPE/HITS: ‘SPEED TURNS SHIELDS ARMOUR TURRETS
+
+A
+ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARC
+Port launch Bays Furies: 30 cm 6 squadrons 2
+
+Starhawks: 20 cm
+(Sharks: 30 cm)
+
+A Battlefleet Hellenos Fr
+
+BASILIX CLASS BATTLECRUISER ............. 275 pts
+
+Starboard launch Bays | Furies: 30 cm 6 squadrons 3
+Starhawks: 20cm
+(Sharks: 30 em)
+
+Prow weapons battery 45cm 5 Left/front/right
+Dorsal weapons battery 45cm 5 Left/front/right
+SPECIAL
++ The Nemesis class fleet carrier cannot be given Come to New Heading special
+orders.
+
++ The Nemesis class dispenses with the normal armoured prow and instead carries a
+
+TYPE/HITS: ‘SPEED SHIELDS ARMOUR TURRETS
+Se
+ARMAMENT RANGE/SPEED FIREPOWER/STR FIREARC
+Port lance battery 60cm 2: Left/front
+Starboard lance battery 60cm 2 Front/right
+Prow nova cannon 30-150 cm 1 Prow
+Dorsal lance battery 60cm 2 Left/front/right
+SPECIAL
+
++ Basilix class battlecruisers are fitted with up-rated engineering plants that in-
+crease its speed and provide it with greater firepower at the expense of survivabi-
+lity. When reduced to zero hits, it rolls 36 for catastrophic damage and adds the
+
+mass of sensor probes and forward turrets, giving it +1 to its Leadership rating.
+
+result (any roll greater than 12 counts as 12).
+
+WARP RIFT ISSUE 49,June2026
+

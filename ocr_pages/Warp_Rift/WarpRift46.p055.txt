@@ -1,0 +1,37 @@
+IMPERIAL NAVY
+ARMAGEDDON GLASS BATTLEGRUISER dau PTS
+
+Famous Ships of the Third Armageddon War: Ex Cathedra, Thunderchild, Hammer of
+Light
+
+TYPE/HITS =o SPEED «= sTURNS = SHIELDS ARMOUR TURRETS
+
+6+ Prow/st
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Port Lance battery 45 cm 2 Left
+Starboard Lance battery | 45 cm | 2 | Right
+Port Weapons battery | 45 cm | 6 Left
+Starboard Weapons battery | 45 cm | 6 Right
+Dorsal Lance battery 60 cm | 2 | Left/front/right
+Prow | Torpedoes 30 cm | 6 | Front
+
+OPTIONS * May replace its prow torpedoes with a Nova Cannon for +20 points.
+
+The Armageddon class was developed in an attempt to rapidly increase the number of available battlecruisers. Almost without ex-
+ception, Armageddon class ships are built from the recovered hulls of crippled Lunar class vessels, making them one of the easiest bat-
+tlecruisers to construct, though many fleet commanders have proved unwilling to sacrifice large numbers of their main front-line
+cruiser. The very first example to depart the extensive St. Jowen’s Dock was the Ex Cathedra. Originally named the Orion as a Lunar
+class, the ship suffered heavily whilst engaging Chaos raiders above the world of Pyran and, as it limped back to the Armageddon sys-
+tem, the decision was made not only to repair the venerable vessel, but to upgrade it to battlecruiser standards.
+
+Power relays were re-routed from the ship’s main plasma reactors to provide a substantial increase in efficiency for the existing
+weapons batteries, whilst long-ranged lance turret arrays were built upon a modified dorsal spine. This alone gave the ship a much
+greater punch at medium ranges and the ability to engage at distance. An immediate drawback became obvious as nearly three and a
+half thou-sand extra crewmen had to be drafted in simply to man the additional weapons and to maintain the short-lived relays that
+powered them.
+
+FACTION KEYWORDS Armageddon Sector, Bakka Sector, Bastion Fleets, Imperial Navy, Imperium
+
+li

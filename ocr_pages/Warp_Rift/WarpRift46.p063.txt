@@ -1,0 +1,72 @@
+IMPERIAL NAVY
+
+TYPE/HITS
+
+Cruiser/6
+
+LOGATION
+
+SPEED = TURNS
+
+a
+
+FIREPOWER/STR
+
+20 cm
+
+ARMAMENT
+
+te ate
+
+~
+
+*
+
+bs?
+
+i
+
+RANGE/SPEED
+
+SHIELDS
+
+ENDEAVOUR GLASS LIGHT GRUISER (BAKKA)
+
+Famous Ships: King Horaxe, Emperor's Shield
+
+ARMOUR
+
+TURRETS
+
+FIRE ARG
+
+115 PTS
+
+Port Weapons battery 30 cm 6 Left
+Starboard | Weapons battery 30 cm | 6 Right
+Prow Weapons battery 30 cm fe Left/front/right
+Prow Torpedoes 30 cm | 2 Front
+
+SPECIAL ¢ Choke Point Defense: The mid-ship corridor of Endeavour light cruisers is easy to defend and restricts access to
+vital parts of the ship.
+
+OPTIONS * May increase its prow armour to 6+ for no additional cost. However, if this option is taken, the Turns characteristic
+of the vessel is reduced to 45°.
+
+|
+
+Endeavour and Endurance class light cruisers are popular as convoy flagships and are commonly seen paired together in Battlefleet
+Bakka. The most famous convoy leader in Battlefleet Bakka is the Resolute. This ship has accounted for more than 17 pirate ships and
+204 attack craft in its 400 year career. It particularly distinguished itself at Heaven's Split where, with only two under-strength squad-
+rons of Cobras, it fought off continuous waves of Ork attack craft for two days until the escort squadron Silver Wolves drove off the
+
+greenskins. Admirals have also found these classes effective as fleet escorts, and it has become common practice to pair battleships and
+
+light cruisers in Battlefleet Bakka. Because of the role these ships fulfil within the fleet, many of the Fleet Defence turrets constructed
+at the Bakka shipyards have been requisitioned for these ubiquitous vessels. Despite horrific losses, these warships served with great
+
+valour during the First Tyrannic War.
+
+FACTION KEYWORDS Bakka Sector, Imperial Navy, Imperium
+
+2a

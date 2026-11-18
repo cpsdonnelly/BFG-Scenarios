@@ -1,0 +1,29 @@
+IMPERIAL NAVY
+
+SWORD GLASS FRIGATE ad PT
+
+Famous Squadrons of the Gothic War: Blue Squadron, Red Squadron, Omega Squadron
+
+TYPE/HITS =0s SPEED. «STUNG = SHIELDS ARMOUR
+
+LOCATION ARMAMENT RANGE/SPEED FIREPOWER/STR
+
+Dorsal Weapons battery 30 cm
+
+TURRETS
+
+to
+
+FIRE ARG
+
+Left/front/right
+
+The venerable Sword class frigate has ably served Battlefleet Obscuras for thousands of years. Every part of the vessel's design and
+construction has been tried and tested in innumerable engagements. The Sword's laser-based weapons batteries and substantial turret
+array have an exceptional ready level of 88.2 %. Its plasma drives are simple, sturdy units copied many times on other ships and can be
+serviced by artificers with minimal training. A classic escort vessel in every respect, few battleships fight without at least a pair of
+Swords to guard their backs against enemy destroyers and attack craft.
+
+FACTION KEYWORDS Bakka Sector, Bastion Fleets, Gothic Sector, Imperial Navy, Imperium
+
+ae

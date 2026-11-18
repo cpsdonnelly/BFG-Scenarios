@@ -1,0 +1,37 @@
+IMPERIAL NAVY
+
+VANQUISHER GLASS BATTLESHIP a0 PTS
+
+Famous Ships: Vae Victis, Virtue of Helena
+
+TTD het lin! eathe ataad | |
+aK ant se Me
+
+TYPE/HITS = SPEED «Ss TURNS = SHIELDS ARMOUR
+
+LOCATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+Port Lance battery 45 cm 4 Left
+Starboard Lance battery | 45 cm | - Right
+Port | Weapons battery | 60 cm | 6 j Left
+Starboard | Weapons battery | 60 cm 6 Right
+Prow | Torpedoes 30cm | 6 Front
+
+SPECIAL © Ponderous
+
+The Vanquisher class battleship is regarded by analysts as an ancient design even by the standards of the Imperial Navy. The Mae
+Victis in particular has an extensive and storied history long pre-dating its joining Battlefleet Bakka. What records survive indicate it
+was constructed in the orbital shipyards of Hydraphur in the late 32nd millennia, built at the request of High Lord Javor. Following its
+construction the battleship saw action during the Pacification of Magdellan and the Saint-Saen Crusade. Whilst on this extended crus-
+ade the vessel was recorded ‘lost in warp' with all hands. Believed thrown wildly off course by warpstorms the Vae Victis returned so-
+me 200 years later. Records do not detail the intervening years. The next verifiable records of this vessel come from its service in the
+Ultima Segmentum, where it served for a time as part of the Dominion Fleet of the Ultramarines. Over the next millennia the ship un-
+derwent an extensive refit to repair extensive damage to its lance batteries and propulsion system, but the circumstances surrounding
+when this damage was sustained are unknown. Aged and suffering continued problems with its engines, the Vae Victis was mothballed
+as part of the fleet reserve in the 38th millennia and left in a stationary orbit around Drawkesd in Segmentum Tempestus along with
+three other vessels of this class. Weapon and shield systems where stripped for reuse. For long centuries the battleship was left to decay
+in a forgotten backwater. Following the Battle of Circe, increased pressure on Imperial Navy Segmentum resources led to the Vae Victis
+being recommissioned. All four surviving examples of this class are currently undergoing re-armament and crew training before resu-
+ming active service to make up for the horrific losses from that battle.
+
+FAGTION KEYWORDS Bakka Sector, Imperial Navy, Imperium
+

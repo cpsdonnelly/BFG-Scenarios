@@ -1,0 +1,125 @@
+IMPERIAL NAVY, SEGMENTUM O&SGURUS
+
+GOTHIG SEGTOR FLEET LIST
+
+FLEET COMMANDER
+
+-Ratio: fleet size up to 750 points: 0-1 Admiral; fleet size
+751 or more points: | Admiral.
+
+-Vice Admiral (Ld 8, | fleet re-roll)...... eee 50 pts
+-Fleet Admiral (Ld 9, fleet 1 re-roll).......ccccccceccesesesseeeeees 100 pts
+-Solar Admiral (Ld 10, fleet 1 re-roll).... eee 150 pts
+a=) BGAHONal DeSt 6-10 cescsssiscsccsimasmsenicceacaeavtne 25 pts
+--2 additional fleet re-rolls........ccceccsessesseeseeseeeeeeeeeeeeenees 75 pts
+--3 additional Teet:te-rollsisiesscciesissiasaieiinnes 150 pts
+CAPITAL SHIPS
+Battleships
+
+-Ratio: max 1:3 Cruisers-Battlecruisers.
+-Emperor class battleship (pg. 3)..........::.:ceceeseeeeeeeeeeeee 365 pts
+-Retribution class battleship (pg. 4).......cccsceeeeeerseeees 345 pts
+Battlecruisers
+
+-Ratio: max 1:2 Cruisers.
+-Mars class battlecruiser (p@: 11).....cc0s.esseoeneeneenarxavenneens 270 pts
+-Overlord class battlecruiser (pg. 16)....0....ccceeseeeeseeeee 220 pts
+
+Cruisers
+-Ratio: 0-12 per fleet.
+
+-Dictator class cruiser (pg. 17)..........:ccsscccseeessreesseeseeeees 220 PtS
+-Dominator class cruiser (pg 18)..........:cceceeeeeteeeteeeeees 190 pts
+“Tyrant class: cruiser (pe; 19) sissisisaunisnnsasainias 185 pts
+-Gothie class cruiser (p@:: 20): csscccsesusvscccsascensececssvaceess 180 pts
+-Lunar class cruiser (pg. 21)........csscsscesesensetessesenseeeeees 180 pts
+-Dauntless class light cruiser (pg. 27).........cceseseeeeeeees 110 pts
+
+ESCORTS
+
+-Squadron size: 2-6.
+
+-Firestorm class frigate (pg. 29)........::ccscccssesesssersseeeeeseees 40 pts
+-Sword class frigate (pg. 32)......ccccseeeseeeeeeeesees DD Pts
+-Cobra class destroyer (pg. 34)........cccceseseeesecesseeesteeeneeees 30 pts
+
+ORONANGE
+
+Any ship with launch bays may choose to have them launch
+any mix of Fury interceptors and Starhawk bombers. Some
+ships may carry Shark assault boats at an additional cost.
+Ships with torpedo tubes are armed with ordinary torpedoes.
+
+FACTION KEYWORDS Gothic Sector, Imperial Navy, Imperium
+
+IMPERIAL NAVY, SEGMENTUM O&SGURUS
+
+BASTION FLEETS LIST
+
+FLEET COMMANDER
+
+-Ratio: fleet size up to 750 points: 0-1 Admiral; fleet size
+751 or more points: | Admiral.
+
+-Vice Admiral (Ld 8, | fleet re-roll)........ eee eeeeeeeeeeeees OO pts
+-Fleet Admiral (Ld 9, 1 fleet re-roll).........cccccccceseeesseeeees 100 pts
+-Solar Admiral (Ld 10, 1 fleet re-roll)....0..... cece 150 pts
+ol BdditiOnal Meet TE-TOU .c. sescessczccsasepeccssssneacesaseasasecanaaes 25 pts
+--2 additional fleet re-rolls........c.ccceessessesseseeeseeeeeeeeenees 75 pts
+--3 additional fleet re-rolls...........ccccccceeeecseceeeeeesseeeteeees 150 pts
+CAPITAL SHIPS
+
+Battleships
+
+-Ratio: max 1:3 Cruisers-Battlecruisers.
+
+-Apocalypse class battleship (pg. 2)...........::csseseeeeeees 365 pts
+-Emperor class battleship (pg. 3)........c.ccscsseeseeseeneeeeeens 365 pts
+-Retribution class battleship (pg. 4).........:cceseeeeeeeeeteees 345 pts
+
+Grand Cruisers
+-Ratio: max 1:2 Cruisers. Share ratio with battlecruisers.
+
+-Exorcist class grand cruiser (pg. 9)........::ccccseccsseeeeseeeees 230 pts
+-Vengeance class grand cruiser (pg. 8)......:cseeeeeeeeeeee 230 pts
+-Avenger class grand cruiser (pg. 10)... ccc eeeeeteeeeees 200 pts
+Battlecruisers
+
+-Ratio: max 1:2 Cruisers. Share ratio with grand cruisers.
+-Mars class battlecruiser (pg. 11)... cece eeeeseeeteeeeeeeeees 270 pts
+
+-Armageddon class battlecruiser (pg. 15)... ee 235 pts
+-Overlord class battlecruiser (pg. 16)..........cceeeeeeeeees 220 pts
+Cruisers
+-Ratio: 0-12 per fleet.
+
+-Dictator class cruiser (pg. 17)..........::cssscessseseseseesseserseeee 220 pts
+-Tyrant class cruiser (pg. 19)....cccccecseesseeseeseseseeeeeeeeee 185 pts
+-Gothic class cruiser (pg. 20)..........cceceesseseceeeeeeeeeeeteees 180 pts
+Lunar class cruiser (po. 21) sscsvcisissscssvescsccvasveccaasvessscvens 180 pts
+-Dauntless class light cruiser (pg. 27)........cceeeeeeeeeeeeeeee 110 pts
+-Endeavour class light cruiser (pg. 22).........c:scssseseeeees 110 pts
+-Endurance class light cruiser* (pg. 24).......0.c cee 110 pts
+-Defiant class light cruiser® (pg. 26).........:cscseeereeneeees 120 pts
+
+The Endurance and Defiant class light cruisers are rare va-
+riants of the Endeavour. They have a shared ratio of : 1/1 En-
+deavour class light cruiser.
+
+ESCORTS
+
+-Squadron size: 2-6.
+
+-Firestorm class frigate (pg. 29)..........ccsscssseceseeseeeeeeeseeees 40 pts
+-Sword class frigate (pg. 32)... .cccceeeesseesteeseeeteeteeereeees DD PS
+-Cobra class destroyer (pg. 34)........ccccceseeeseeeesteseeeeeeneeees 30 pts
+
+ORONANGE
+
+Any ship with launch bays may choose to have them launch
+any mix of Fury interceptors and Starhawk bombers. Some
+ships may carry Shark assault boats at an additional cost.
+Ships with torpedo tubes are armed with ordinary torpedoes.
+
+FACTION KEYWORDS Bastion Fleets, imperial Navy, Imperium
+

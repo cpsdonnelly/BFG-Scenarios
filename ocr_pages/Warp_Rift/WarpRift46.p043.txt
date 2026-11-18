@@ -1,0 +1,52 @@
+IMPERIAL NAVY
+EMPEROR GLASS BATTLESHIP
+
+Famous Ships of the Gothic War: Legatus Stygies, Divine Right
+
+au PTS
+
+- tml-—"al-
+
+mie Se Sie «ie me o
+—\hia|—-—' Al ——tl—~
+
+oe ey “ r .
+oe Gi: a vere, ae
+
+TURNS SHIELDS ARMOUR TURRETS
+
+TYPE/HITS
+
+oPEED
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR
+Port Weapons battery 60 cm 6 Left
+Starboard Weapons battery 60 cm 6 Right
+| Furies: 30 cm |
+Port Launch bays Starhawks: 20 cm 4 Squadrons -
+(Sharks: 30 cm)
+Furies: 30 cm
+Starboard Launch bays Starhawks: 20 cm 4 Squadrons -
+(Sharks: 30 cm)
+
+Dorsal Weapons battery 60 cm 5 Left/front/right
+Prow Weapons battery 60 cm J Left/front/right
+Prow Sensor array - Advanced Command & Control z
+
+SPECIAL ¢ Ponderous
+
+The Emperor class battleships serving in the Gothic Sector are amongst the oldest in Battlefleet Obscuras. The ancient hull of the
+Divine Right was recovered from the space hulk Inculcate Evil after its capture near the Charos system in the 36th millennium. The
+majority of power systems were found to be still functioning despite a sojourn in the warp estimated to be not less than ten millennia,
+indicating that its loss must have occurred before the Great Crusade. The salvaged vessel was recommissioned after an extensive refit
+at the orbital docks at Cypra Mundi and has patrolled sectors throughout Segmentum Obscuras ever since. The Legatus Stygies was
+laid down at the Stygies forge world in the Vulcanis system around the 30th millennium but was left incomplete in orbit for over two
+millennia after heretics seized the world and destroyed the majority of Stygies’ manufacturing facilities. Work is believed to have con-
+sumed some time in the 32nd millennium, but suffered further delays due to warp storms, accidents and Chaos raids, leading to its
+commissioning not occurring until the very end of the 32nd millennium. Despite an inauspicious start to its career, the Legatus Stygies
+is reckoned to be a blessed ship by those who have served on it and with good reason. The vessel survived a suicidal ramming attack in
+the Battle of Callavell, was one of the few ships to escape destruction at the disastrous purgation of Ulthanx and destroyed the Chaos
+battleship Black Pain at Arriva.
+
+FACTION KEYWORDS Armageddon Sector, Bakka Sector, Bastion Fleets, Gothic Sector, Imperial Navy, Imperium
+

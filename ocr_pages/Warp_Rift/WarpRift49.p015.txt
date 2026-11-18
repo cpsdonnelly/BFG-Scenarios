@@ -1,0 +1,126 @@
+FR Battlefleet Hellenos Sa
+
+HELLENOS SECTOR FLEET
+LIST
+
+FLEET COMMANDER
+
+(0-1) Admiral
+
+You may include 1 Admiral in your fleet, who must be assigned to
+a ship and improves its Leadership to the value shown. If the fleet
+is worth over 750 points an Admiral must be included to lead it.
+
+Fleet Admiral (Ld 8) .
+Admiral (Ld 9) ..
+Solar Admiral (Ld 10)
+
+Admirals get one Fleet Commander re-roll included in their points
+cost. If you want more you'll have to pay for them.
+
+One extra re-roll . 25 pts
+Two extra re-rolls
+Three extra re-rolls ...
+
+(0-2) Captains
+
+You may include 1 Captain if you take an Admiral, and 2 if'you take
+@ Solar Admiral. They must be assigned to a non-battleship ship
+and give it the bonuses described.
+
+(0-2) Trusted Captain ..... 75 pts
+
+A Trusted Captain improves the ship leadership to which it is as-
+signed by +1. Moreover, the ship may perform special order even if
+you failed another this turn.
+
+(0-1) Captain Mithras ..... se 75 pts
+Captain Mithras must be assigned to a Dictator-class Cruiser. You
+may reroll failed Reload special orders. Moreover, the ship may
+perform Reload special order even if you failed another special or-
+der this turn
+
+Ah Battlefleet Hellenos , Sa
+
+CAPITAL SHIPS
+
+Battleships
+
+You may include up to one battleship in your fleet
+for every three cruisers, pursuit cruiser, or battle-
+cruisers. An Apocalypse class battleship can only
+be taken as reserves unless a Solar Admiral leads
+the fleet.
+
+(0-1) Apocalypse class battleshi . 365 pts
+Nemesis class battleship.
+
+Oberon class battleshi
+
+Retribution class battleshi
+
+Battlecruisers
+You may include up to one battlecruiser in your
+fleet for every three cruisers, pursuit cruiser.
+
+Armageddon class battlecruiser. .. 235 pts
+Basilix class battlecruiser. . 275 pts
+Mars class battlecruiser. . 270 pts
+
+Pursuit cruisers
+You may include up to one pursuit cruiser in your
+fleet for every cruiser.
+
+Aristocrat class pursuit cruiser . 220 pts
+Despot class pursuit cruises . 260 pts
+Dignitary class pursuit cruiser . 205 pts
+Oligarch class pursuit cruiser... . 245 pts
+
+(0-12) Cruisers
+Dictator class cruiser.
+Gothic class cruise:
+
+Defiant class light cruiser*
+Endeavour class light cruis
+Endurance class light cruiser*.
+
+ESCORTS
+
+You may include any number of escorts in your
+fleet in squadrons of 2-6
+
+Cobra class destroyer
+
+Firestorm class frigate.
+Falchion class frigat
+
+Sword class frigate.
+
+Hurricane class heavy frigate*™..
+
+Ordnance
+
+Any ship with launch bays may choose to have
+them launch any mix of Fury interceptors and
+Starhawk bombers. Some ships may carry
+Shark assault boats at an additional cost. Ships
+with torpedo tubes are armed with ordinary
+torpedoes. Ships may replace their Starhawks
+for Sopless bombers for +5 pts per launch bay.
+
+Sopless
+
+Sopless are 15cm speed resilient (4+ save) bom-
+bers. Once in a game, a ship may use them as
+torpedo bomber, when doing so, unlike regular
+torpedo bombers, they are replaced by stren-
+gth 3 torpedo salvo instead of 2.
+
+* The Endurance and Defiant class light cruisers are rare variants of the Endeavour, hence the combined
+numbers of Endurance and Defiant class vessels may not exceed the number of Endeavour class light
+
+cruisers in the fleet.
+
+** The Hurricane class heavy escorts are rare Escorts only used to protect capital ships, hence, you may
+only take a Hurricane class heavy frigate per capital ship in your fleet.
+

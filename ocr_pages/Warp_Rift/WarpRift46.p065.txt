@@ -1,0 +1,50 @@
+IMPERIAL NAVY
+ENDURANGE GLASS LIGHT GRUISER (BAKKA) = 115 PTS
+
+Famous Ships: /mperial Ghost, Dux Cornovi
+
+ts ae
+
+i
+
+eee 7
+.
+
+TYPE/HITS §=9—s SPEED = TURNS
+
+90°
+
+SHIELDS ARMOUR TURRETS
+
+ee
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR
+
+3
+
+FIRE ARG
+
+Cruiser/6 20 cm
+
+Port Lance battery 30 cm 2 Left
+Starboard Lance battery 30 cm 2 Right
+- + <> ~--
+Prow Weapons battery 30 cm fe Left/front/right
+Prow Torpedoes 30 cm 2 Front
+A. A — 4
+
+SPECIAL ¢ Choke Point Defense: The mid-ship corridor of Endurance light cruisers is easy to defend and restricts access to
+vital parts of the ship.
+
+|
+
+OPTIONS * May increase its prow armour to 6+ for no additional cost. However, if this option is taken, the Turns characteristic
+of the vessel is reduced to 45°.
+
+The Endeavour family of light cruisers is one of the most widely-encountered capital ship classes throughout the Imperium, and it
+appears in a great diversity of hull patterns that vary in a number of respects from similar class vessels from other fleets. Endeavour
+and Endurance class light cruisers of Battlefleet Bakka are typically deployed in solitary patrols or in pairs throughout the wilderness
+space of Segmentum Tempestus, or as “flak ships” in support of fleet formations.
+
+FACTION KEYWORDS Bakka Sector, Imperial Navy, Imperium
+

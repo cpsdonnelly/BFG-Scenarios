@@ -1,0 +1,181 @@
+Encyclopedia
+
+Legions Astartes by Ianuchu
+
+Any ship upgraded with a Space Marine Crew
+(or with one as default) may take one of the
+following Legion Upgrades for the listed cost.
+Escorts, Cruisers, and Battleships may have
+different costs as indicated, or may have costs
+indicated by other factors (such as number of
+Launch Bays). For Defenses, use the Escort cost
+for Defenses with only 1 Hit-Point, Battleship
+cost for Defenses with 10+ Hit-Points, and the
+Cruiser cost for every other Defense. If a ship's
+class is not listed, it cannot take the upgrade.
+
+The 1st Legion
+
+THE DARK ANGELS
+
+Valiant knights, peerless swordsmen, and heroes of
+a thousand battles throughout the millenia, the Dark
+Angels plague the nightmares of all Astartes for
+their ruthless skill at dealing death upon their
+brothers, loyal or otherwise.
+
+Righteous Fratricide
+
+. +10 pts
+
+A Ship upgraded with Dark Angels nullifies
+any special rules that would normally apply to
+Hit & Run Raids made against it (this includes
+any Legions Astartes upgrades from this list the
+Hit & Run raid would benefit from, as well as
+special bonuses such as would be gained by the
+Dark Eldar Fleet, the Tyranid Fleet, etc.). Put
+simply, every Hit & Run raid against this Ship
+is carried out as though it was mundane
+Imperial Navy Hit & Run Raid. Note that the
+ship itself retains its Space Marine bonuses
+against the Raid as normal
+
+The 3rd Legion
+
+THE EMPEROR'S CHILDREN
+
+Willing slaves to She who Thirsts; addicts of the
+most depraved sensations; and warriors of pedi
+untouchable, the Emperor's Children launch
+themselves into battle with no regard for self-
+preservation, allowing them to score deep wounds in
+their foes, even as they are cut down
+
+The Extacy of War... +15 pts
+A Ship upgraded with Emperor's children
+gains a +1 bonus to the Critical Damage Roll at
+the resolution of a Boarding Action. If the ship
+lost the boarding action, it can always cause
+Critical Damage on its foe on a roll of at least
+6+
+
+The 4th Legion
+
+THE IRON WARRIORS
+
+Experts of siege and famed warp-smiths of the Eye of
+Terror, the Iron Warriors are amongst the most
+powerful and fearsome of the traitor Legions,
+bringing millenia of expertise to the battlefields of
+the 41st millenium.
+
+Warpsmiths
+Cruiser. 5
+Battleship.. .+20 pts
+A Ship upgraded with Iron Warriors repairs
+damage suffered on a roll of 5+ instead of the
+normal 6+
+
+The 5th Legion
+
+THE WHITE SCARS
+
+Rapacious and ferocious riders that specialise in fast
+and merciless strikes, the White Scars follow the
+tennets of speed to act, speed to move, and speed to
+win, often breaking their opponents before they've
+had a chance to react.
+
+Breakneck Speed....... +10 pts per Launch Bay
+Thunderhawk Assault Boats launched from a
+ship upgraded with White Scars gain +5cm to
+their movement.
+
+The 6th Legion
+
+THE SPACE WOLVES
+
+Fierce brawlers and uncompromising warriors, the
+Space Wolves often seem crude and even primitive
+in their approach, but their martial prowess is
+beyond question.
+
+Wreck and Plunder (apply both if applicable)
+
++10 pts per Launch Bay
+5 pts per Boarding Torpedo Strength
+Hit & Run Raids conducted by Ordnance
+Waves launched by a Ship upgraded with
+Space Wolves cause an additional +1 damage
+on the target if they score one or more doubles
+(after modifiers) when rolling for Critical
+Damage.
+
+Example 1: The Dagger-Fang launches a Boarding
+torpedo salvo with a strength of 6, 4 of which strike
+their target. When rolling the Hit & Run attacks,
+the Space Wolves player rolls 2, 3, 3, 6 after
+modifiers. As two of the critical results rolled the
+same number, the Salvo inflicts an additional +1
+Damage on the target.
+
+Example 2: A massive Ordnance wave consisting of
+10 Thunderhawks barrels through the void at their
+target. 2 are shot down by Turrets, leaving 8 of them
+to conduct Hit & Run Raids. The Space Wolve
+player rolls 2, 3, 4, 4, 4, 5, 5, 6. Note that, et
+though two numbers were rolled more than onc
+and even though one was rolled 3 times, each
+Ordnance wave or Torpedo Salvo can only cause +1
+additional damage on the target as a results of the
+Space Wolves upgrade, and thus only +1 additional
+damage is applied.
+
+consi
+
+n
+
+The 7th Legion
+
+THE IMPERIAL FIST
+
+Masters of fortifications, stern defenders, and
+unbending in their loyalties, the Imperial Fist have
+protected the Imperium against innumerable foes.
+
+Close the Fist . +5 pts per Turret
+A Ship upgraded with Imperial Fists may re-
+roll all Turrets fire against enemy Ordnance.
+Furthermore, each Ship can contribute two of
+its Turrents to another ship's defense instead of
+the usual one. Note the combined Turret
+maximum remains capped at +5.
+
+The 8th Legion
+
+THE NIGHT LORDS
+
+Vicious and wicked, the Night Lords have long stood
+amongst the most infamous and detested of legions
+amongst the stars for their gruesome fear-tactics.
+
+Unspeakable Horror 1 #30 pts
+Hit & Run Raids from a Ship upgraded with
+Night Lords, or from its Ordnance, apply an
+additional -1 penalty to an enemy ship's
+Leadership if they roll at least a 4+ after
+modifiers. This penalty is not cummulative (i.e.
+each ship can be affected by this only once), but
+it remains for the rest of the game and cannot be
+repaired. Eldar Ghost Ships, Tyranid Hive
+Ships and Necron ships can be affected by this
+upgrade as normal - we simply presume the
+Night Lords have learned to disrupt Tyranid
+neural pathways, or disturb Eldar infinity
+circuits, or cripple Necron comman nodes.
+
+A ate
+
+WARP RIFT ISSUE 49, June 2026
+

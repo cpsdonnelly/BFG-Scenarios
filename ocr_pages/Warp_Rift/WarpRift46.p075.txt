@@ -1,0 +1,26 @@
+IMPERIAL NAVY
+
+TRANSPORT PTS: SPEGIAL
+
+TYPE/AITS =—sSPEED «Ss TURNS = SHIELDS ARMOUR TURRETS
+
+LOCATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+Dorsal Weapons battery Left/front/right
+
+SPECIAL °° Civilian-grade Thrusters, Transport Capacity (1), Undisciplined.
+e As transports are usually only used as objectives in missions, they cannot be included in a fleet through normal
+means and do not cost any points. Instead, missions will specify the amount of transports to include in your fleet.
+
+Hundreds, perhaps thousands, of transport ships participated in the Gothic War. The vast majority were chartered merchantmen
+pressed into service to move war materials to systems under blockade, while many others were Imperial Navy support vessels used to
+resupply the fleet and form temporary repair bases in isolated systems. The crews of these small vessels, despite being untrained in the
+arts of battle, struggled valiantly against often impossible odds and paid a heavy price in blood for their efforts. Most transport ships
+carry some weapons to protect themselves against pirates and other raiders, but without decent sensors and fire control by experienced
+officers, the chances of getting a shot at the enemy is miniscule. One exception was the Son of John, a Tarask class merchant that was
+part of a convoy moving into Port Maw in the early part of the war. When the convoy came under attack by a Slaughter class Chaos
+cruiser that had slipped past the escort screen, the Son of John engaged the ship from close quarters and succeeded in distracting it for
+long enough for the other transports to escape. Its puny guns firing to the last, the Imperial vessel was destroyed, but its heroism and
+sacrifice shone like a beacon in the dark days that followed.
+
+FACTION KEYWORDS = imperial Navy, Imperium
+

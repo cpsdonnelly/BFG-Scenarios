@@ -1,0 +1,41 @@
+IMPERIAL NAVY
+
+ENDEAVOUR GLASS LIGHT GRUISER
+
+110 PTS
+
+Famous Ships of the Third Armageddon War: Sanctis Legate, Sword of Voss, Leonid
+
+TYPE/HITS
+
+oPEED
+
+TURNS
+
+SHIELDS
+
+ARMOUR
+
+TURRETS
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+Port Weapons battery 30 cm 6 Left
+Starboard | Weapons battery 30cm 6 Right
+Prow Weapons battery 30 cm | 2 Left/front/right
+Prow Torpedoes 30cm | 2 Front |
+
+SPECIAL e Choke Point Defense: The mid-ship corridor of Endeavour light cruisers is easy to defend and restricts access to
+vital parts of the ship.
+
+OPTIONS * May increase its prow armour to 6+ for no additional cost. However, if this option is taken, the Turns characteristic
+of the vessel is reduced to 45°.
+
+The Endeavour class, lacking the speed for anti-pirate operations, is preferred as a convoy flagship or a heavy escort to larger capi-
+tal ships of the line. Its heavy gun batteries can almost match the firepower of larger cruisers and it is capable of holding its own in the
+midst of a pitched battle. Many Endeavour class light cruisers were sent to the Armageddon fleet during the latest Ork invasion, where,
+during fighting against Ork vessels, the Endeavour’s relative slow speed for its class was not found to be a hindrance. The Endeavour,
+and its sister vessels, became a stable of the Armageddon fleet as replacements for lost ships.
+
+FACTION KEYWORDS Armageddon Sector, Bastion Fleets, Imperial Navy, Imperium
+
+22

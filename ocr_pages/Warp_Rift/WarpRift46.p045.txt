@@ -1,0 +1,76 @@
+IMPERIAL NAVY
+VIGTORY GLASS BATTLESHIP
+
+Famous Ships: Victory, Hammer of Scaro, Warspite
+
+a49 PTS
+
+|
+a
+
+- . » 2
+corte rir , Be jereioe wl i "
+sf ea wv &
+
+das Rea tae | a tassel Lodhi Ula bdl> Beled oo au an
+
+gro — a
+gills fea ga yy gals ea =
+stn te Li caed Jn
+Les 5 . . J : ~
+
+>. a be...
+
+4,
+aa
+
+es
+ys
+
+ee
+
+|
+l.
+ai
+
+'
+
+Py “ i" acs scr are re
+oe eT of SP 2a 248? et of s
+
++ lon
+—
+
+TYPE/HITS = SPEED «Ss TURNS) = SHIELDS ARMOUR TURRETS
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Port Lance battery 60 cm 4 Left
+
+Starboard Lance battery | 60 cm | 4 | Right
+Dorsal Weapons Battery 60 cm 6 Left/front/right
+
+Prow Nova Cannon 30-150 cm | l | Front
+
+SPECIAL © Ponderous
+
+OPTIONS * May replace its Nova Cannon with Torpedoes (Speed: 30 cm, Strength 9, Front) for -10 points (like the Hammer
+of Scaro).
+
+In internal layout, the Victory class shares many similarities with the Retribution, and Imperial Navy analysts speculate the design is
+a byproduct of grafting lance weaponry onto the improved power conduits and relays of the Retribution template in an attempt to rep-
+licate the Apocalypse battleship class while overcoming various shortfalls inherent with that ancient design. In this respect it has pro-
+ven successful, though it still is not capable of delivering the level of firepower that ancient class was capable of when the Imperium
+was still able to reliably fabricate its sophisticated but difficult to maintain power transfer relays. Nonetheless, the Victory makes up for
+firepower with its far more robust and reproducible design, and it has had many successes throughout the Tempestus and Ultima Seg-
+mentae. The Technomagi of Mars refuse all requests for access to their records of origin, and the shipwrights of Bakka have proven to
+be equally recalcitrant.
+
+Four Victory class battleships serve in Battlefleet Bakka, the Victory being by far the oldest. The Argus particularly distinguished it-
+self, leading the fleet that cleaned the Stabulo systems of the deviants that polluted various sectors along the border region between
+Segmentum Tempestus and Ultima. The Hammer of Scaro was rebuilt with prow torpedoes instead of replacing its Nova Cannon after
+receiving severe damage ramming the Ork Hulk Gungedrinka at the Battle of Lexus. All four of Bakka’s Victory battleships served
+against Hive Fleet Behemoth, and three returned from the pivotal Battle of Circe.
+
+FACTION KEYWORDS Bakka Sector, Imperial Navy, Imperium
+

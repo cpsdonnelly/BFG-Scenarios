@@ -1,0 +1,55 @@
+IMPERIAL NAVY
+JOVIAN GLASS BATTLEGRUISER
+
+Famous Ships: Jovian
+
+2h PTS
+
+TYPE/HITS = SPEED «=—SsTURNS)§=©=—s SHIELDS ARMOUR TURRETS
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Furies: 30 cm
+Starhawks: 20 cm
+
+45°
+
+i)
+
+Cruiser/8 20 cm
+
+Port Launch bays 3 Squadrons .
+
+Furies: 30 cm
+
+Starboard Launch bays Starhawks: 20 em
+
+3 Squadrons -
+
+Dorsal Lance battery 60 cm 2 Left/front/right
+
+SPECIAL e Ablative Armour (Prow): the Jovian’s prow Nova Cannon was never replaced after the Stabulo Campaign. Instead,
+its prow received structural reinforcements for increased protection. Sophisticated Detection: The Jovian was fitted
+with an improved sensor array during its conversion to accurately control its prodigious squadrons of attack craft.
+
+¢ The Jovian is a unique vessel. Only one may be included in an Imperial Navy fleet. It is a reserve vessel of
+Battlefleet Bakka and as such can only be used by Bakka Sector fleets and not with other fleet lists.
+
+The Jovian is viewed with misgivings by many authorities in Battlefleet Bakka, as history and tradition are hard to set aside in the
+Imperial Navy in general and by the fleetlords of Bakka in particular. With the history of the Garerox Prerogative required reading in
+the fleet academies, the very idea that the Imperial Navy should need a dedicated attack craft carrier is viewed as anathema. However,
+the horrors of the First Tyrannic War cast a negative light on Battlefleet Bakka’s inherent distrust of attack craft, and while their tactics
+of relying on massed battery and lance fire proved effective, it was only prudent that more attack craft should be made available to sup-
+port the battlefleet. While the prodigious output of a Mechanicus forgeworld can see a new cruiser put to space several times a year,
+this is only through economies of scale, as a single cruiser hull can take more than a decade to construct from the keel-up for even
+the best and most well-supplied shipyards, and many smaller shipyards take decades and the resources of an entire world to construct a
+single such vessel. To this end the encroaching Tyranid fleet meant Bakka had no time for such an endeavour. Salvation came in the
+form of the Jovian, a venerable Mars battlecruiser laid up after having its prow and forward battery decks smashed apart during the
+Stabulo Campaign. Languishing for centuries as resources were applied to more pressing matters, the process of converting its dama-
+ged battery decks into launch bays proved to be relatively straightforward. Completed with too little time even for proper space trials
+but with a full complement of Bakka’s ablest attack craft crews, the Jovian acquitted itself well and was one of the twelve capital ships
+able to fight its way back to Bakka after the crucial Battle of Circe. Despite its success, the fleetlords of Bakka hold fast to their big-
+gun philosophy, and it is unlikely another ship of this class will be requisitioned by Segmentum Naval authority.
+
+FACTION KEYWORDS Bakka Sector, Imperial Navy, Imperium
+

@@ -1,0 +1,150 @@
+Fan07_66 71
+
+23/8/04 10:16 am
+
+— BATTLEFLEET —
+
+GOTHIC
+
+Page 66
+
+BFG Q6A
+
+Your Questions Answered...
+By Matt Keefe, Nate Montes & Bob Henderson
+
+This list of rule clarifications answers nearly all of the Frequently Asked Questions that have come up on Game
+Workshop’s BFG Forum as well as the Yahoo group BFG-List. This list supersedes that which appeared in Warp
+Storm and the 2002 Annual. Due to limitations of space, race specific Q&A are omitted for the time being, but
+are available on the Battlefleet Gothic Website, and will appear in a future issue.
+
+LEADERSHIP
+Q: What is the maximum Leadership a
+ship can have?
+
+A: Under no circumstance can a ship’s
+Leadership be modified higher than
+Ld10. Eldar Admirals, Chaos Lords
+and other Leadership bonuses can
+never modify a ship’s Leadership
+above 10. Any ‘excess’ Leadership is
+lost. Any Leadership modifiers which
+occur during the game apply to this
+base Leadership of 10.
+
+Q: What happens if a ship’s Leadership
+reaches 0 or 1? It’s impossible to pass
+Leadership tests with such low
+Leadership, so what happens?
+
+A: Any ship or squadron that, through
+a combination of effects, is reduced to
+Ld1 or less can no longer shoot and
+can only attempt to disengage or move
+toward the closest table edge.
+
+Q: My admiral and his flagship have
+different Leadership values. Which do I
+
+use?
+
+A: A ship with an embarked Admiral,
+Warmaster, etc. has its Leadership
+superseded by that of the embarked
+fleet commander. This includes
+where the Fleet
+Commander has a lower Leadership
+than the ship be is embarked on!
+
+circumstances
+
+SPECIAL ORDERS
+Q: When are special orders declared?
+When should I roll my Command checks?
+
+A: Special orders are declared before the
+movement phase by choosing a vessel,
+declaring the order and making a
+command check, repeating this over and
+over until a vessel fails its command
+check or all desired vessels have their
+special orders.
+
+Q: Can a ship be on more than one
+special order at a time?
+
+A: No. A ship can never be on more than
+one special order at a time unless
+specifically described otherwise in its
+special rules, such as a Ramilies Star
+Fort.
+
+Q: When a special order halves a ship’s
+armament, does this affect ordnance as
+well?
+
+A: Brace For Impact is the only special
+order that halves a ship’s ability to
+ordnance, provided the
+launching vessel is already reloaded. All
+Ahead Full and Burn Retros halves
+firepower and lance Strength but not
+torpedo or attack craft
+capability.
+
+launch
+
+launch
+
+Brace for Impact
+Q: When can I Brace for Impact?
+
+A: Brace For Impact special orders can
+be undertaken ANY time a ship faces
+taking damage, but before resolving that
+damage. As soon as you or your
+opponent declares an action which
+could damage your ship (enemy
+
+shooting at it, enemy ramming it, using
+the ship to ram — anything!) you should
+declare your intention to Brace for
+Impact and make a Command check. If
+succesful the ship goes onto Brace for
+Impact special orders, replacing any
+other speical orders the ship may
+currently be on (a ship that successfully
+reloaded is still reloaded). Then resolve
+the shooting/ramming/boarding or
+whatever as normal, giving the Braced
+ship the benefits described.
+
+A ship that fails to Brace For Impact
+cannot attempt to Brace again until the
+event which the attempt was declared in
+response to is resolved completely,
+finishes causing damage, completes its
+attacks and suchlike. A ship can,
+however, make a further attempt to
+Brace for Impact before the next ship,
+squadron or ordnance wave attacks it,
+or another potentially damaging event
+comes its way.
+
+A ship on Brace for Impact may also
+attempt to save critical hits from hit-
+and-run attacks. Roll the hit-and-run
+attacks as normal, discarding any that
+fail. After that make a save against each
+succesful critical in the normal manner.
+Any which are not saved take effect as
+usual.
+
+Q: If I Brace for Impact with an escort
+squadron, how do I halve the armament?
+
+A: When escort squadrons are braced,
+the whole squadron adds its firepower
+and weapon Strength together and
+divides it in half (rounding up).
+

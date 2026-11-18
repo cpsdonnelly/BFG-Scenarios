@@ -1,0 +1,66 @@
+IMPERIAL NAVY
+
+LUNAR GLASS GRUISER
+
+160 PTS
+
+Famous Ships of the Gothic War: /ron Duke, Retribution, Agrippa, Minotaur, Justicar,
+Lord Daros
+
+TYPE/HITS = SPEED ~=—Ss TURNS
+
+Cruiser/8
+
+LOGATION
+
+x annie
+mot Prune? ; aati
+
+ee fe UF ues
+
+CS eee pe eet
+SA —_
+
+20 cm 45°
+
+ARMAMENT
+
+SHIELDS
+
+RANGE/SPEED
+
+ARMOUR
+
+G * Prow/> ia
+
+FIREPOWER/STR
+
+TURRETS
+
+to
+
+FIRE ARG
+
+Port Lance battery 30 cm 2 Left
+Starboard | Lance battery | 30 cm 2 | Right
+Port | Weapons battery | 30 cm | 6 Left
+Starboard | Weapons battery 30 cm | 6 | Right
+Prow | Torpedoes 30 cm | 6 Front
+
+OPTIONS
+
+* May replace its prow torpedoes with a nova cannon at an additional cost of +20 pts (like the Minotaur and the
+
+Lord Daros).
+
+The Lunar class cruiser forms the mainstay of Battlefleet Obscuras with over six hundred ships serving throughout the Segmentum
+and more than twenty ships fighting in the Gothic war. The uncomplicated design of this class ensures its enduring utility, enabling
+vessels to be built at hive and industrial worlds normally unable to muster the expertise to construct a capital ship. Perhaps the most
+remarkable example of this is the Lord Daros, constructed at the feral world of Unloth. The primitive tribesmen dwelling there were
+influenced to mine and smelt metals which were then presented for 'sacrifice’ at sky temples established by the Planetary Lord. The raw
+materials were then lifted into orbit at each vernal equinox. After a period of eleven years the tribes were rewarded for their effort with
+the sight of a bright new star moving across the heavens as the Lord Daros boosted out-system to join Battlefleet Obscuras.
+
+FACTION KEYWORDS Armageddon Sector, Bakka Sector, Bastion Fleets, Gothic Sector, Imperial Navy, Imperium
+
+21

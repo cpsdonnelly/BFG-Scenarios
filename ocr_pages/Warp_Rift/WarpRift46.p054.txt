@@ -1,0 +1,52 @@
+IMPERIAL NAVY
+MERGURY GLASS BATTLEGRUISER
+
+Famous Ships: Nemesis, Gorgon, Medusa, Long Serpent
+
+ddd PTS
+
+TYPE/HITS §=8=9=6oSPEED «= TURNS = SHIELDS ARMOUR TURRETS
+
+6+ Prow/st
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Port Weapons battery 60 cm 6 Left
+Starboard Weapons battery | 60 cm | 6 | Right
+Port Weapons battery 45 cm | 4 Left
+Starboard | Weapons battery | 45 cm | 4 Right
+Dorsal Lance battery 60 cm | 2 | Left/front/right
+Prow | Nova cannon 30-150 cm | l | Front
+
+SPECIAL * Volatile Core: Mercury class battlecruisers are fitted with up-rated engineering plants that increase their speed and
+provide them with greater firepower at the expense of survivability.
+
+OPTIONS * Can be refitted with improved weapons batteries (like the Nemesis and Medusa after the Stabulo Campaign). This
+increases the range of its 45 cm weapons batteries to 60 cm for +10 points.
+* Can replace its Nova Cannon with Torpedoes (Speed: 30 cm, Strength 6, Front) for -20 points (like the Gorgon
+which had its prow severely damaged during the Stabulo Campaign).
+
+In the waning years of Abaddon’s 12th Black Crusade, the Adeptus Mechanicus artisans of Bakka and the officers of the Tempestus
+battle fleets faced a dilemma. In supporting Battlefleet Obscuras, the problem with pirate bands had become acute and the lack of
+speed among the standard Imperial cruiser designs meant that the tactical initiative remained with the pirates. At the direction of Admi-
+ral Knightsbridge, the Tech Mages of Bakka set about to construct a new battle cruiser design fitting for the strategy and tactics of the
+Battlefleet yet be able to meet this new threat. Through a rather straightforward merging of existing technologies, the Adeptus Mecha-
+nicus were able to devise a solution in less than two centuries. It is widely believed that this is the fastest a new capital ship design has
+ever come to fruition in several millennia, and thus the Mercury class battlecruiser came into being.
+
+Built from the keel up to prosecute raiders, the Mercury combines a basic cruiser layout with the engineering suite normally used on
+a battleship. The result is a faster much more powerful cruiser with the speed to keep up with the raiders and the firepower to deal with
+them as an independent unit. All this improved performance came at a price. While the engines produced battleship power, the armor
+protection remained that of a cruiser. When hit by multiple salvos from Chaos raiders in 467.M41, the Scy//a suffered a powerful warp
+drive implosion, destroying her entire squadron of assigned escorts and heavily damaging the battleship Mailed Fist. The plasma drive
+overload that destroyed the Medusa also shattered the Lunar cruiser Lord Chalfont, leaving a convoy of transports to the mercies of an
+Ork raiding squadron.
+
+Despite its shortcomings, many Bakka naval officers aspire to someday lead one of these fearsome warships. The Nemesis and Me-
+dusa destroyed an Ork attack fleet of Terror Ships and Ravagers single-handedly using their upgraded weapons batteries, while the
+Gorgon claimed the Eldar Shadow class cruiser Swift Striker using its retrofitted torpedo launchers during a routine convoy escort
+mission.
+
+FACTION KEYWORDS Bakka Sector, Imperial Navy, Imperium
+
+14

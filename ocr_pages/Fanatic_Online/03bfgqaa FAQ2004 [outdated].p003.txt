@@ -1,0 +1,165 @@
+Fan07_66 71
+
+23/8/04 10:17 am
+
+two different types of target which may
+be targetted freely, regardless of the
+presence of the other.
+
+Q: My enemy has a cruiser (30cm away)
+within range of one of my ships, but
+also has some torpedoes (15cm away)
+within range. Do I have to take a
+Leadership check to ignore the
+torpedoes and shoot the ship?
+
+A: No. You may freely ignore ordnance
+in order to shoot at the closest ship.
+Shooting at any other ship would
+require a Leadership check as normal.
+See above, since it’s a similar question.
+
+Q: What happens if modifiers move my
+shooting off the edge of the gunnery
+table?
+
+A: This can’t happen. For all weapons
+with a firepower value, no target
+aspect or modifier can adjust shooting
+beyond the far left or right columns on
+the gunnery table. Any modifiers
+which would take the shooting beyond
+these boundaries are ignored.
+
+Q: My ship/squadron has a total
+firepower greater than 20. How do I
+use the gunnery table?
+
+A: If a combination of ships in a
+squadron has a firepower value
+greater than 20, look up 20 and the
+remaining firepower values separately
+and add them together. For example, a
+squadron of two Carnages can have up
+to firepower 32 in one broadside, or
+firepower. These would be calculated
+as a firepower of 20 amd a firepower
+of 12 on the Gunnery chart, with the
+totals then added together.
+
+Q: The
+batteries can split their firepower, but
+can lances?
+
+rulebook says weapons
+
+A: Yes. Ships with multiple lances in a
+given fire arc may split their weapon
+strength between targets but must still
+make a Leadership check to fire on any
+target besides the closest.
+
+Page 68
+
+—o—
+
+Q: I am shooting at a ship which has
+been forced to stand still. Does target
+aspect still matter?
+
+A: Not exactly. When a ship is forced to
+stand still, it counts as being targeted
+as defences. In high orbit, where ships
+have more control over their
+movement, only ships which move at
+least 5cm avoid being targetted as
+
+defences in this way.
+
+Special Weapons
+Q: My Nightmare Field/Star Pulse
+Generator/whatever affects a whole area.
+I don’t need to see the target so are these
+weapons affected by holofields/blocked
+lines of sight/etc?
+
+A: No. Some weapon systems such as the
+Necron Nightmare Field and Star Pulse
+Generator are area-effect weapons that
+do not aim nor are directed at a
+particular target. Such weapons or
+effects are not blocked by line of sight
+obstructions such as hulks, minefields or
+celestial phenomena, nor can they be
+saved against by holofields. Chaos Marks
+that affect nearby ships in a similar
+manner are also not affected by such
+obstructions, nor are catastrophic events
+such as warp drive implosions, solar
+flares, etc. As a rule of thumb, if a
+weapon/effect affects all ships within its
+given range, rather than allowing you to
+pick a particular target from them, then
+it can be considered ‘area effect’.
+
+Critical and Catastrophic Damage
+
+Q: My ship has suffered the Engine Room
+Damaged critical three times then
+manages a repair roll. Does this repair all
+instances of the Engine Room Damaged?
+
+A: No. Critical hits that can be repaired
+are cumulative; meaning ships that take
+a multiple number of the same critical
+damage must repair all incidences of
+that critical damage before the system is
+fully operational.
+
+Q: My ship has already suffered a Shields
+Collapse result, then suffers another. This
+damage can’t be repaired anyway, so is
+the second result ignored?
+
+A: No. Critical hits that cannot be
+repaired such as Shield Collapse only
+count once. Subsequent instances of this
+damage instead move to the next higher
+applicable critical damage.
+
+Q: Can a_ hulk still use its
+shields/holofields/shadowfields?
+
+A: No. Ships that are reduced to zero hits
+and become hulks no longer have
+shields, holofields or any other similar
+mechanism.
+
+Q: Do the turrets on a hulk still work?
+
+A: No, not in any way. Bombers do not
+have to roll against a hulk’s turret
+value to determine number of attacks,
+just roll the dice straight.
+
+Q: Can I shoot/board/otherwise attack
+a hulk of my own ship? Everyone on
+there is already dead aren’t they?
+
+A: No, you can’t. Hulks cannot be fired
+upon or boarded by friendly vessels or
+ordnance in an attempt to deny
+victory points to the enemy or induce
+catastrophic damage. As Necrons
+actively strive to deny their advanced
+technology to other races, they are
+exempt from this rule.
+
+Q: My nearest target is a hulk, do I have
+to pass a Leadership check to ignore it?
+
+A: While enemy ships can choose to
+fire on a bulk, they do not have to pass
+a Leadership check to ignore one if it
+is the closest target.
+

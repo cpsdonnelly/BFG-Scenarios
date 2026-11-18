@@ -1,0 +1,111 @@
+Each fleet list is divided into the following sections:
+
+FLEET COMMANDER
+
+Your fleet may be led by a commander, such as an Imperial
+Admiral, Chaos Warmaster, Eldar Pirate Prince, Ork Warlord
+or Tau Kor’o.
+
+If your fleet includes a commander, they must be assigned
+to a ship before the battle begins. You may wait until after rol-
+ling to determine the Leadership values of all your vessels to
+declare which ship your commander will lead. If any restric-
+tions apply, these will be noted in the fleet lists (such as pla-
+cing the commander on the most expensive ship or buying
+upgrades for the commander’s ship) and may force you to in-
+stead assign your commander during fleet list building.
+
+Usually, a fleet with a total points value of at least 751
+points must be led by a fleet commander. Individual fleet lists
+may have their own ratio for determining the necessity of a
+commander.
+
+If your commander has a fixed Leadership value, that value
+supersedes that of the vessel they are assigned to, even if it is
+lower! If their Leadership is instead listed as a bonus (such as
++1), they increase the Leadership of the ship they are assigned
+to by that amount.
+
+Some fleets also have unique command structures which gi-
+ve them special bonuses. For example, the Bastion Fleets list
+allows players to purchase secondary commanders for increa-
+sed leadership and additional re-rolls. The different options for
+your Fleet Commanders are given in this section of the list.
+
+Unless specifically stated otherwise, no more than one com-
+mander of any type may be assigned to any individual ship.
+
+If a commander with particular benefits (such as Chaos
+Marks or Ork upgrades) is assigned to a ship that already has
+special rules or crew skills, they may combine their effects as
+long as they do not contradict each other (also remember that a
+vessel can never benefit from multiple instances of the same
+rule, regardless of source).
+
+Once a commander has been assigned to a vessel, their total
+cost (including any upgrades, additional re-rolls, Marks of
+Chaos, etc.) is added to that vessel’s points value for the purpo-
+ses of determining victory points at the end of the battle.
+
+If a ship carrying a commander suffers a Bridge Smashed
+critical hit, all of their re-rolls and any benefits they bestow up-
+on their ship are immediately lost for the rest of the battle.
+
+In Campaigns: During the course of a campaign, Fleet Com-
+manders may gain increased Leadership or other skills based
+on their level of renown.
+
+Note that the Leadership of the vessel assigned to the fleet
+commander is kept separate from that of the commander them-
+selves for the purpose of determining eligibility for or gaining
+of crew skills. Remember that crew skills are tied to the ship,
+not the commander.
+
+COMMANDER RE-ROLLS
+
+Commanders may have a number of re-rolls available to
+them, as indicated in the Fleet Commander section of the
+fleet list.
+
+Each of these re-rolls can only be used once per game and
+allows you to re-roll a failed Command check or Leadership
+
+test for a ship or squadron in your fleet.
+
+Remember that you can only use one re-roll at a time, so
+it is not possible to use several re-rolls on the same Leader-
+ship test.
+
+There are two types of re-roll: fleet re-rolls and squadron
+re-rolls.
+
+¢ Fleet re-rolls can be used on any ship or squadron in the
+fleet.
+
+¢ Squadron re-rolls can be used on/y for the ship the com-
+mander is assigned to or its squadron.
+
+CAPITAL SHIPS
+
+This section lists which, and how many, capital ships you
+may have in your fleet. Often, the number of larger capital
+ships, such as battleships, Chaos grand cruisers and Imperial
+battlecruisers you can take is defined by the number of ordina-
+ry cruisers in your fleet. This is because such mighty vessels
+rarely operate independently and generally fight only in larger
+formations.
+
+These limitations are known as ratios, and may also appear
+in other sections of the fleet list.
+
+ESCORTS
+
+This shows the different types of escorts available to the
+fleet. There is usually no limit to the number of escorts allowed
+in a fleet, although the number of certain types of escorts may
+be restricted in some way in some fleet lists.
+
+ORDNANCE
+This details the various types of ordnance available to the
+ships of the fleet.
+

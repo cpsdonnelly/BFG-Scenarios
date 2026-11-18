@@ -1,0 +1,43 @@
+IMPERIAL NAVY
+DOMINION GLASS GATTLEGRUISER
+
+Famous Ships: Light of Faith, Loyalty, Righteous Endeavour
+
+2h PTS
+
+TYPE/HITS =o SPEEDS sSTURNS §=©=—s SHIELDS ARMOUR
+
+LOGATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Cruiser/8 20 cm 45°
+
+Furies: 30 cm
+P wh have 9 Gany ; =
+Port Launch bays Siarhnes: D0 2 Squadrons
+Starboard Launch bays Euries: 3 in 2 Squadrons -
+° ys Starhawks: 20 cm “94 ;
+oe + > +
+Port Lance battery 45 cm 2 Left
+Starboard Lance battery 45 cm 2 Right
+Dorsal Lance battery 60 cm 2 Left/front/right
+Prow Torpedoes 30cm 6 Front
+
+The Dominion class battlecruiser was envisioned as a more modern replacement to the Mars, designed to serve as a capable fleet
+support vessel optimized for the role envisioned for attack craft carriers by the fleetlords of Bakka. While its launch bays and lance bat-
+teries were well-suited to provide an adjunct to the fleet manoeuvres favoured by the “big-gun” lobby, the class fared poorly in smaller
+engagements and suffered from many of the shortcomings of the Gothic cruiser in the kinds of raids more typically faced by the dis-
+persed flotillas of the battlefleet. In particular, the Light of Faith had a rather inauspicious start to its career when it and its escorts were
+driven out of an uncharted system by Necron raiders during its maiden deployment. Additionally, the Perseverance was lost with all
+hands during the Stabulo campaign, and the Ascension disappeared together with the rest of Commodore Fyne's battlegroup during a
+protracted war in the Nemesis Sector.
+
+These outcomes led the Imperial Navy to cease ordering production of these vessels after only ten hulls were constructed. Despite
+this, tactical analysis of these engagements shows that the Dominions had invariably performed only as well as could be expected from
+them in very adverse conditions, and they had incidentally displayed their considerable potential as fleet support vessels with their
+long-range lances and ordnance deployment capability. In fact, these ships acquitted themselves admirably during the War for Mac-
+crage, and of the two Dominion class warships present at the Battle of Circe, the Light of Faith was one of the twelve capital ships that
+returned, redeeming in hard-won victory the honour lost from its fateful maiden deployment centuries before.
+
+FACTION KEYWORDS Bakka Sector, Imperial Navy, Imperium
+
+l2

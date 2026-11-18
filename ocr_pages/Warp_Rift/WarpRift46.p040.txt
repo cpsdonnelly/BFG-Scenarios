@@ -1,0 +1,128 @@
+RATIOS
+
+A ratio is a rule governing the availability of certain ships
+or upgrades based on the composition or size of your fleet.
+
+Ratios based on fleet composition are expressed by first
+listing the desired item (generally a ship) and then the prere-
+quisite that needs to be fulfilled in order to legally field that
+option (generally a minimum number of ships of one or more
+other classes), separating the two with a “ : ”. If more than
+one type of ship counts towards the ratio of another, these
+are connected by a“ -”.
+
+For example, an Imperial Navy fleet can only include a
+single battleship for every three cruisers or battlecruisers (in
+any combination). This is expressed as:
+
+-Ratio: max 1:3 cruisers-battlecruisers.
+
+Ratios based on fleet size will instead list the size of the
+fleet first, and follow up by detailing the range of available
+items of that type, or a fixed number if those items are requi-
+red when building a fleet of that size.
+
+For example: fleets larger than 750 usually require a fleet
+commander to lead them, while smaller fleets do not. In this
+case, the expression is:
+
+-Ratio: fleet size up to 750 points: 0-1 Fleet Commander;
+Fleet size 751 or more points: | Fleet Commander.
+
+If any items in a fleet list are part of a shared ratio, then
+its requirements must be fulfilled separately for each one of
+those items.
+
+For example, grand cruisers and battlecruisers in the Im-
+perial Navy Bastion Fleets list have the following ratios
+respectively:
+
+-Ratio: max 1:2 Cruisers. Share ratio with battlecruisers.
+-Ratio: max 1:2 Cruisers. Share ratio with grand cruisers.
+
+Thus, in order to field a grand cruiser and a battlecruiser,
+the fleet must contain 4 cruisers, 2 to allow for the grand
+cruiser and 2 to allow for the battlecruiser. With those same 4
+cruisers, this fleet could instead field 2 grand cruisers or 2
+battlecruisers.
+
+If a ratio lists more than one non-conflicting prerequisite,
+they must al/ be respected.
+Any option that does not have a ratio specified can be ta-
+
+ken with no restrictions.
+
+RESERVES
+
+Any fleet may also include reserves. For every three battle-
+ships, cruisers or escorts chosen from the fleet list, you may
+also pick one ship of the same type from another fleet list with
+the prerequisite faction keywords (Fleet rules or fleet lists will
+detail the faction keywords of the ships they are allowed to ta-
+ke as reserves). So, for every three cruisers chosen from the
+Gothic Sector fleet list, you could pick one cruiser from any
+other fleet list that has the Imperial Navy faction keyword.
+Only ships of the same “type” (battleship, cruiser or escort)
+count for reserves purposes, so you can't pick three escorts
+from a fleet list and then use these to qualify for a battleship
+from reserves. Also, for these purposes, battlecruisers, grand
+cruisers, heavy cruisers, cruisers, and light cruisers all count
+as “cruisers”, so three cruisers would allow you to choose a
+grand cruiser as a reserve.
+
+Any reserve vessels taken must still follow the ratios of the
+
+fleet list they are being reserved into. For example, a Chaos
+Incursion fleet list can take grand cruisers at a ratio of /:3
+cruisers-heavy cruisers. So buying three cruisers (for this ex-
+ample we will use a Carnage, a Murder and a Slaughter class)
+entitles you to have a grand cruiser. Since three cruisers also
+entitle you to receive one reserve cruiser (be it heavy, grand,
+light, or some other type), you could now add a Repulsive class
+grand cruiser from the Chaos Incursion fleet list, or instead
+pick a Retaliator or Executor class from the 13th Black Cru-
+sade flect list. You wouldn’t be allowed to pick a grand crui-
+ser from both fleet list, however, since this would leave you
+with 2 grand cruisers for only 3 cruisers, which would break
+the mandatory /:3 ratio.
+
+Reserve vessels may take any upgrades, refits, etc. available
+to either fleet list but may not take any fleet commanders from
+the reserve fleet list to use with the primary fleet.
+
+Following the example above, if the player decided to take
+a Retaliator grand cruiser as a reserve from the 13th Black
+Crusade fleet list, they would be able to upgrade that ship
+with a Chaos Space Marine crew, but would not be allowed to
+place an unrestricted Chaos Lord on it from that list. Instead,
+they would only have access to one of three Chaos Lords allot-
+ted to a Chaos Incursion Fieet list, though that Chaos Lord
+could have any of the Marks allowed by the Incursion Fleet
+List for the cost indicated on that list.
+
+A given fleet may take ships as reserves from any number
+of fleet lists that are the same race that allow their vessels to be
+used as reserves. For example, a Gothic Sector fleet list with
+six cruisers may take both a grand cruiser from the Bastion
+Fleets fleet list and a cruiser from the Adeptus Mechanicus
+fleet list. However, a given fleet list cannot take as reserves
+ships listed as reserves or allies to another fleet list. For exam-
+ple, a Chaos Repulsive class grand cruiser is listed as a reserve
+for the Bastion Fleets list. Because it is listed only as reserve
+of that list, a Repulsive grand cruiser cannot be taken as a re-
+serve vessel for other Imperial Navy fleet list.
+
+In short, you cannot use a reserve of a reserve.
+
+These allowances and restrictions apply for both one-off
+battles and while earning reinforcements in the course of a
+campaign. However, ships or fleet commanders added to a
+fleet list as a special reward or through special scenario or
+campaign driven circumstances are exempt from meeting fleet
+prerequisites beforehand. For example, an Imperial Navy fleet
+is allowed to immediately add a single Space Marine Battle
+Barge to its fleet list during the course of a campaign with no
+fleet prerequisites and regardless of reserves if it expends an
+appeal roll against the Space Marines table on pg [???] of the
+rulebook and rolls a 2D6 roll of 2, even if that fleet is not from
+the Armageddon Sector fleet list.

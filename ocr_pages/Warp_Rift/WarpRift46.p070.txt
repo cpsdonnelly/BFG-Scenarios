@@ -1,0 +1,31 @@
+IMPERIAL NAVY
+FALGHION GLASS FRIGATE
+
+Famous Squadrons of the Armageddon War: The Initiates of Monglor, The Rhomphaian
+Squadron
+
+TYPE/HITS = SPEEDS sTURNS §=©=—sSHIELOS ARMOUR TURRETS
+
+TS EE
+LOCATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+
+Prow Weapons battery 30 cm 3 Left/front/right
+
+Prow Torpedoes 30 cm l Front
+
+The Voss pattern ship design has also been used on an escort vessel, the Falchion class. When traitors made off with the designs for
+a larger escort ship to fulfil the role for the Cobra destroyer from the Monsk forge world in 761.M40, the Magos set about reconstruc-
+ting the records of its design with what little information was left behind, and brought it to Voss.
+
+By 261.M41 the first operational escort squadrons based on this new design began to ply the stellar void. Though this design is slowly
+being distributed throughout the domains of the Adeptus Mechanicus, dissemination has been slow and many fleets still go without a
+single example of this type. Only two squadrons were operational during the early years of the Armageddon War, the Michaelis Fire
+Squadron and the Torchbearer Patrol.
+
+An all round escort much in the mould of the widely built Sword class, the Falchion is versatile. It is used for patrolling, convoy escort-
+ing and as close escorts to the light cruisers, guarding its larger cousins’ rear in battle. Like all the Voss pattern ships, being unique to
+that forge world, it is not commonly distributed throughout fleets but those that are equipped with Falchions find them a worthy subs-
+titute for the common Sword class.
+
+FACTION KEYWORDS Armageddon Sector, Imperial Navy, Imperium
+

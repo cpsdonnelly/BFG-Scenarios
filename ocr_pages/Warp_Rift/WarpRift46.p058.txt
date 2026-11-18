@@ -1,0 +1,52 @@
+IMPERIAL NAVY
+TYRANT GLASS GRUISER
+
+16a PTS
+
+Famous Ships of the Gothic War: Lord Sylvanus, Zealous, Dominion, Incendrius
+
+TYPE/HITS
+
+oPEED
+
+TURNS
+
+SHIELDS
+
+OCB.) 2D
+
+aa Tine wettest “
+
+&
+
+ARMOUR
+
+TURRETS
+
+LOCATION ARMAMENT RANGE/SPEED FIREPOWER/STR FIRE ARG
+Port Weapons battery 45 cm . Left
+Starboard Weapons battery 45 cm a Right
+Port | Weapons battery | 30 cm | 6 | Left |
+Starboard | Weapons battery | 30cm | 6 | Right |
+| Prow | Torpedoes 30 cm | 6 ] Front ]
+
+OPTIONS
+
+* May replace its 30 cm range weapons batteries with 45 cm range weapons batteries at a cost of +10 pts (like the
+Zealous and Dominion).
+* Can replace its prow torpedoes with a nova cannon at a cost of +20 pts (like the Zealous).
+
+Towards the end of the 38th millennium, the famed Adeptus Mechanicus Artisan-Magos Hyus N'dai completed a series of ship de-
+signs based around the principle of superfired plasma weaponry. The most common of these, the Tyrant class cruiser, became popular
+amongst the major shipyards in the 39th millennium. Its superfired plasma batteries are capable of launching a boosted salvo conside-
+rably further than comparable cruiser weapon decks, yet still deliver virtually the same weight of fire at close quarters. This had eluded
+ship designers since the secrets of building very long range ship weaponry had been lost after the Dark Age of Technology. In practice,
+however, the Tyrant's long range firepower lacks sufficient strength to make it a serious threat to anything larger than an escort-sized
+vessel. Two of the Tyrants assigned to the Gothic sector fleet, Zea/ous and Dominion, were eventually upgraded with weapons salva-
+ged from wrecked Chaos ships. These pushed their firepower up to battlecruiser levels, making them very dangerous opponents at long
+
+range.
+
+FACTION KEYWORDS Bakka Sector, Bastion Fleets, Gothic Sector, Imperial Navy, Imperium
+
+19

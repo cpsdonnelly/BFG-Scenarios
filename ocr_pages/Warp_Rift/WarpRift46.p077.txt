@@ -1,0 +1,171 @@
+IMPERIAL NAVY, SEGMENTUM O6SGURUS
+
+BASTION FLEETS LIST
+
+BATTLEFLEET GADIA
+
+The constant turmoil surrounding the Cadian gate requi-
+res Battlefleet Cadia to be far more active than many other
+battlefleets. The whole sector exists in an almost perpetual
+state of readiness, and as such the demands on manpower
+and resources are huge. Vast numbers of new, inexperienced
+sailors frequently have to be drawn up to replace those lost
+in the constant fighting (many of them drawn from worlds
+within the Cadian system itself such as Vigilatum and Ma-
+charia).
+
+However, those that survive the harsh first years of milita-
+ry service around the Cadian Gate rapidly mature to become
+some of the most capable leaders in the Imperium.
+
+When assembling a Bastion Fleets list, you may choose
+to add the Battlefleet Cadia faction keyword to every ship
+in your fleet. If you do so, each of those ships gains the fol-
+lowing special rule:
+
+Crew Attrition: capital ships with this rule and escort squad-
+rons formed entirely by ships with this rule must roll two
+dice and pick the lowest score when determining leadership.
+
+In addition, a fleet composed entirely of Battlefleet
+Cadia ships gains the following Fleet Commander option:
+
+Veteran Captains
+-Ratio: 0-5 per fleet.
+-Veteran Captain (Ld +1, 1 squadron re-roll).............. +50 pts
+
+Unlike normal fleet commanders, Veteran Captains may
+be assigned to an escort, in which case the entire escort
+squadron benefits from their increased leadership. Take note
+of which specific escort the Veteran Captain is assigned to,
+as the loss of that vessel will bring to the loss of the Veteran
+Captain and their bonuses.
+
+A capital ship that has been assigned a Veteran Captain
+must be squadroned with at least another capital ship, as
+their skills are too precious to be wasted on lone ships.
+
+THE RESERVE FLEETS OF SEGMENTUM O&SGURUS
+
+As with all highly militarised zones, it is important for the
+Imperial Navy to maintain substantial reserves of vessels
+around the Eye of Terror, ready to deploy as reinforcements
+should the need arise. Whilst it is possible to keep the vessels
+themselves ready in this manner, Battlefleet Obscura simply
+does not possess the manpower to keep reserve crews statio-
+ned aboard these vessels as well. Instead, whole shipyards
+are filled with rows of silent, inactive vessels, often repre-
+senting classes of ship now outdated or scarce. In times of
+great need these ships will then be brought into service and
+crewed with sailors from destroyed or crippled vessels or
+even with hastily mustered new recruits, meaning the crew is
+unlikely to have any familiarity with their new vessel. As
+such a posting to a reserve fleet is an unnerving duty, fore-
+ing a sailor to enter deep into an unfamiliar vessel which
+may have lain dormant for centuries. Much superstition sur-
+rounds such fleets and perhaps because of this, unusual be-
+
+haviour of both crew and vessel is rather too commonplace.
+
+Reserve fleets are used only reluctantly by the Imperial
+Navy, and only in the most desperate of circumstances, but
+an invasion the size of Abaddon’s Thirteenth Black Crusade
+without doubt qualifies as exactly that — the most dire of cir-
+cumstances, the most desperate of times.
+
+When assembling a Bastion Fleets list, you may choose
+
+to add the Reserve Fleet faction keyword to every ship in
+your fleet. If you do so, each of those ships gains Strange
+Happenings special rule, described below.
+
+Furthermore, the following vessels are eligible to be taken
+
+as reserves in your fleet list
+mally available.
+
+in addition to any reserves nor-
+
+Repulsive class grand cruiser (pg. ???)
+Executor class grand cruiser (pg. ???)
+Hades class heavy cruiser (pg. ???)
+Murder class cruiser (pg. ???)
+Carnage class cruiser (pg. ???)
+
+These reserve vessels are by Imperial crews, and as such
+lose their Adept Fighters special rule. They may take any op-
+tions present on their datasheets, but are limited to their base
+versions: no variant datasheets may be taken.
+
+Special Rule
+Strange Happenings: In a
+
+reserve fleet, all vessels are pro-
+
+ne to certain unexpected events, such as mass panic or even
+mutiny amongst the crew, inexplicable noises, sensor read-
+ings and sightings or disconcerting setbacks and failure of
+machinery. Whenever a ship or squadron with this special
+
+rule attempts a command check, compare the result to the ta-
+
+ble below. All effects apply
+tempting the check.
+
+COMMAND GHEGK RESULT
+
+Both dé6s rolled for the
+check are different.
+
+Both dé6s rolled for the
+check are the same;
+
+command check succeeds. |
+
+to every ship in the squadron at-
+
+EFFEGT
+
+No further effect.
+
+The ship gains the Prioritized
+Self-Preservation special rule for
+the rest of the game.
+
+Both dé6s rolled for the
+check are the same;
+command check fails.
+
+As above. In addition, the ship
+can only move its minimum
+distance in this turn. No other
+actions are allowed.
+
+Enemy fleet is a Chaos
+faction; both dé6s rolled for
+the check are the same;
+command check succeeds;
+hip has the Prioritized Self-
+Preservation special rule.
+
+For the rest of the game, for the
+purposes ot the Prioritized Self-
+Preservation rule, the ship
+counts as crippled.
+
+Enemy fleet is a Chaos
+faction; both dés rolled for
+the check are the same;
+command check fails; ship
+has the Prioritized Self-
+Preservation special rule.
+
+For the rest of the game, the
+ship is controlled by your
+opponent! Regardless of its final
+fate, the ship no longer awards
+any victory points to any player.
+
+FACTION KEYWORDS Bastion Fleets, Imperial Navy, Imperium
+
+at

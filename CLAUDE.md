@@ -84,6 +84,10 @@ The PDFs in `sources/` were compressed to fit upload limits; every page of every
   - OCR text is searchable but unreliable for numbers, ranges, tables and diagram labels. Check every such value against the page image (render the page with `pdftoppm` and look at it) before relying on it.
   - Mark OCR-sourced items in the catalogue.
 - **Text PDFs keep their original text layer.** Only their images were recompressed.
+- **Text PDFs can still contain pages with no text layer.** These are pages laid out as one picture: covers and art, but also some articles (e.g. Warp Rift 18 p.38, "Divine Intervention").
+  - Their OCR text is in `ocr_pages/<publication>/<file>.pNNN.txt`, one file per page (NNN = PDF page number).
+  - Never treat a page with no extracted text as blank. Check `ocr_pages/`, and look at the rendered page before deciding it holds nothing.
+  - The same OCR caution applies: check numbers against the image.
 - **Files over 24MB were split into parts** named `<file> (part N of M).pdf`. Treat the parts as one publication.
 
 ### Step 1: content index (all zines)

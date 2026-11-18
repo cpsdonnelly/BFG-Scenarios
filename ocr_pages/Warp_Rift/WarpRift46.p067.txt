@@ -1,0 +1,38 @@
+IMPERIAL NAVY
+
+DAUNTLESS GLASS LIGHT GRUISER 110 PTS
+
+Famous Ships of the Gothic War: Abdiel, Uziel, Vigilant, Baron Surtur, Havock, Guardian
+
+TYPE/HITS
+
+Cruiser/6
+
+LOGATION
+
+SPEED = TURNS §=©=—s SHIELDS ARMOUR
+
+ARMAMENT RANGE/SPEED FIREPOWER/STR
+
+TURRETS
+
+FIRE ARG
+
+Port Weapons battery 30 cm Left
+Starboard Weapons battery 30 cm Right
+Prow Lance battery 30 cm Front
+
+SPECIAL ¢ Improved Thrusters
+
+OPTIONS * May replace its prow lance battery with prow torpedoes (Strength 6) for no additional points cost (like the Vigilant
+and Havock).
+
+Light scouting cruisers like the Dauntless class have always been a feature of Imperial fleets throughout the Imperium. An ideal
+light cruiser carries enough firepower to drive off opposing escorts and enough fuel and supplies to remain away from bases for
+months at a time. The Dauntless is a popular class, as fast and manoeuvrable as a frigate but with a ferocious frontal lance armament.
+During the Gothic War, the light cruisers Uziel and Baron Surtur were the first to detect Warmaster Khuzor's fleet near the Formosa
+cluster and their accurate information allowed Admiral Sartus to bring the foe to battle.
+
+FACTION KEYWORDS Bastion Fleets, Gothic Sector, Imperial Navy, Imperium
+
+ra |
