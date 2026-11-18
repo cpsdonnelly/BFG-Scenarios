@@ -1307,3 +1307,56 @@ PDF pages 39-78 have **no text** layer (image pages); they were identified from 
 | Scenario extra: The Void Eye (Bleachhawk) | 29-31 | other | A warp beast model and background for the scenarios that use warp beasts; presented as a scenario extra. |
 | Campaigning through the Stars: Eldar (Fr05ty) | 32-38 | campaign | Eldar campaign rules, refits, appeals. |
 | Imperial Missile Cruiser painting | 40 | other | |
+
+### Warp Rift 48 (February 2026) — `WarpRift48.pdf`, 103 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Rogue Trader Sun Lee and the Nihontu (horizon) | 5-6 | ship design | |
+| Battle of Srinagar: legendary vessels (Gagassi) | 7 | ship design | Saint Aster Overlord battlecruiser, Dominant Will cathedral ship. |
+| Book of Carricus; Battlefleet Carricus (StormReaper) | 8-20 | fleet list | Fan sector fleet with special rules. |
+| Fight the Fleet! BFG at the LGT | 22-25 | battle report | Event report. |
+| Scenario: Battle of Srinagar (Gagassi) | 27 | scenario | Word Bearers (Kor Phaeron) attack an Imperial fleet whose Cantatum Bellum starts on silent running; attacker within 15cm of a non-sunward edge. |
+| Moose Musings: Random Assignment Tables (Italianmoose) | 28-29 | campaign | Random fleets. |
+| Invasion campaign rules (The Frey) | 30-33 | campaign | Map-based campaign framework. |
+| Campaigning through the Stars: Dark Eldar (Fr05ty) | 34-39 | campaign | |
+| Enter the Ghostdragon! (Slouchthesloth) | 41-43 | other | |
+| Facebook Painting Competition 2025 | 44-51 | other | |
+| Bonus: Armada Indomitus, Codex: Orks (Nate Montes) | 52-103 | fleet list | Fan Ork codex: Third Armageddon War history, the Armageddon sector, the three Armageddon scenarios (The Gauntlet, Parol's Bait, Defence of Pelucidar: all already in the booklet), clans, special orders, every Ork ship incl. hulks and roks, characters, Freebooterz, planetary defences, fleet lists, refits and crew skills. |
+
+### Warp Rift 49 (June 2026) — `WarpRift49.pdf`, 88 PDF pages
+
+PDF page 63 has no text.
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Battlefleet Hellenos (Galios) | 5-20 | fleet list | |
+| The Pak (Pezhetairoi, Turbidious Tom) | 21-23 | fleet list | |
+| Rebel Fleet List (Rhinnen) | 24-25 | fleet list | |
+| Legions Astartes (Ianuchu) | 26-33 | fleet list | Horus Heresy Space Marine legions. |
+| Tactica: The Imperial Navy and Chaos (Turbidious Tom) | 35 | tactics | |
+| Scenario: Nest Raid (Si, Grotesque Misalignment) | 37 | scenario | Gretarius setting: each player names an "egg carrier" capital ship; stellar fauna. |
+| Scenario: Planetary Disease (Si) | 38 | scenario | Gretarius setting: a planet overridden by a mania; the defender gains 20 VP per ship that damaged an enemy; crew effects. |
+| Scenario: The Corpse (Si) | 39 | scenario | Gretarius setting: harvest the floating corpse of an ancient stellar beast with extraction squads (Orks +2). |
+| Campaigning through the Stars: Imperial Navy | 40-44 | campaign | |
+| How to create a mould (Aki); Making your own ships in CAD (Italianmoose) | 46-59 | other | |
+| FAQ 2026 (in progress) | 61 | Q&A/FAQ | |
+| In memoriam John Blanche | 62 | other | |
+| Bonus: Rogue Traders Reforged v3.1 (Francis) | 64-88 | fleet list | Rogue Trader Dynasty fleet list: promotions, modular ships, gunboats, escorts and recommissioned cruisers, xenos allies, Rogue Trader sub-plots. |
+
+### Warp Rift 50 (November 2026) — `WarpRift50.pdf`, 81 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Battlefleet Gothic in the 35th Millennium | 5-9 | rules variant | Age of Apostasy era. |
+| Book of Carricus: the Crownstar Coalition | 10-22 | fleet list | |
+| The Fleet of Specific Justice: lore (JPM) | 23-24 | fiction | |
+| Basilikon Astra: Forge World Anati (Woode) | 25-27 | fleet list | |
+| Adeptus Custodes (Pitchblackgaming) | 28-33 | fleet list | |
+| Tactica: The Rimmer Manoeuvre (David Hiscocks) | 35-36 | tactics | |
+| Scenario: Scavengers Assemble (Benitzcvf) | 38 | scenario | Any vs any: scavengers and rescuers round the wreck of a fallen ship; attacker first; until one fleet disengages or is destroyed; most VP wins. |
+| Campaigning through the Stars: Chaos (Fr05ty) | 39-46 | campaign | |
+| Bulwarks of the Void: scratch-built orbitals; Grimdark Dauntless recipe | 48-58 | other | |
+| FAQ 2026 (in progress) | 60-61 | Q&A/FAQ | |
+| A Battlefleet Gothic History | 62-63 | other | |
+| Moose Musings: Mathematical Musing 2 (Italianmoose) | 65-80 | tactics | Monte-Carlo hit probabilities by ship, target and range. |
