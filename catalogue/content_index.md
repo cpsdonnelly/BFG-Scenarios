@@ -811,3 +811,149 @@ Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDF
 | Parade Colours | 21-23 | other | |
 | The Bait Part Three (Space Cadet) | 24-35 | fiction | |
 | Assassination (Ray Bell) | 36-40 | scenario | Gothic War: Orks against the Lord Solar Macharius (from "Shadow Point"); 180 x 120cm table. |
+
+From issue 11 the contents pages give one start page per article; the table gives that start page (PDF page, checked where the article could be found in the text, otherwise the printed page, which is the PDF page or one less).
+
+### Warp Rift 11 — `warprift11.pdf`, 34 PDF pages (editor from here: Roy "Horizon" Amkreutz)
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Khareshi Expanse: Tobari (Roy Amkreutz) | 5 | fleet list | Fan Tau-region fleet material. |
+| Q'orl: QSV Predestined (Gary Carney) | 8 | ship design | Q'orl character ship. |
+| Showcase: GothiComp 2006 | 10 | other | |
+| The Imperial Navy (Sigoroth) | 14 | tactics | |
+| The Pure and the True (Chun the Unavoidable) | 18 | fiction | |
+| Elerianath's Gift (Roy Amkreutz) | 30-32 | scenario | Imperial Navy (up to 1000pts, at least half escorts) vs Orks on contact markers round a drifting Eldar vessel; 200 VP for the first Imperial ship or squadron to leave by the far short edge. |
+| Ship Lexicon | 33 | other | |
+
+### Warp Rift 12 — `warprift12.pdf`, 35 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Craftworld Eldar (Ray Bell) | 4 | fleet list | Fleets for the five major craftworlds, with special character ships (Flame of Asuryan...). |
+| High Admiralty | 4 | other | Opinions of the BFG High Admirals. |
+| Space Marine Strike Cruisers (Ray Bell) | 9 | ship design | Strike cruiser variants. |
+| Showcase: Nurgle and Imperial Navy | 12 | other | |
+| The Pure and the True (Chun) | 14 | fiction | Final part. |
+| Command and Control: Corsair Eldar versus Space Marines (Roy Amkreutz, Guy Custers) | 29 | battle report | 1500pt Eldar (MMS 1.5) vs Dark Angels. |
+| Ship Lexicon | 35 | other | |
+
+### Warp Rift 13 — `warprift13.pdf`, 39 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Imperial Navy fleet building | 4 | tactics | |
+| Nova Cannon swaps | 7 | rules variant | |
+| Space Wolves Space Marines | 8 | fleet list | |
+| Showcase: Chaos and Black Templars | 23 | other | |
+| Dry Dock: Voss prow DIY | 25 | other | |
+| The Eye of Argonis | 26 | fiction | |
+| Space Wolf Scenario I: Wolf Hunt (Dex "Admiral D'Artagnan" Sy) | 36-37 | scenario | Space Wolves vs Imperial Navy: the Wolves intercept a convoy near a renegade station and jump point; convoy zone, asteroid fields. |
+| Space Wolf Scenario II: Hunter Hunted (Dex Sy) | 38-39 | scenario | Imperial Navy blockade vs Space Wolves (up to 1000pts) escaping with a captured cruiser; a heavily modified Blockade Run. |
+
+### Warp Rift 14 — `warprift14.pdf`, 38 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Alternative Nova Cannon Rules | 4 | rules variant | |
+| Wraithchoir | 7 | ship design | Craftworld Eldar weapon variants. |
+| High Admiralty: 2 Hits or no 2 Hits? | 11 | Q&A/FAQ | Escorts with two hits. |
+| GothiComp 2007 | 13 | other | |
+| Dry Dock: Orks: Hulks and Roks | 20 | other | Cheap Ork models. |
+| Hunt for Red Slaughter | 22 | fiction | |
+| Who Goes There? (Alun "Fafrin" Lucas) | 29-30 | scenario | Fun scenario: Imperial fleet (about 1000pts) searching for hidden Ork hulks and roks; capital ships scan each turn. |
+| The Domination of Herculis (Mitch) | 31-35 | campaign | Map-based campaign for three or more players, with notes on Tyranids and other races. |
+
+### Warp Rift 15 — `warprift15.pdf`, 34 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Diasporex (Mitch) | 4 | fleet list | Fleet list adapted from the novel Fulgrim. |
+| Dark Eldar refits | 15 | campaign | |
+| What about the Styx? | 18 | tactics | |
+| Showcase: Nurgle Chaos and Forge World Tau | 21 | other | |
+| Shadow of the Harvest | 23 | fiction | |
+| Scenario: The Solar Collectors (Mitch) | 32 | scenario | The Diasporex defend solar collectors in a star's corona (flare region) while refuelling; any attacker. |
+| Campaign: Diasporex campaign additions (Mitch) | 33-34 | campaign | Scenario choice, promotions, appeals and calls-for-aid tables for the Diasporex. |
+
+### Warp Rift 16 — `warprift16.pdf`, 50 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Dark Eldar addendum | 4 | fleet list | |
+| Tyranid Experimental Rules | 8 | fleet list | |
+| In the Depth of Space | 18 | fiction | |
+| Tyranid conversion article | 23 | other | |
+| A Linked Pair of Scenarios to Introduce the Haven: The Asteroids; The Haven | 48-49 | scenario | Searchers vs Eldar: first a search of asteroid fields with ordnance, then an attack on the revealed Eldar haven (Haven Spire), which the searchers win by destroying or forcing to disengage. |
+| Flame On! tournament | 50 | other | Advert. |
+
+### Warp Rift 17 — `warprift17.pdf`, 41 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Fleets of the Galaxy: Rogue Traders (Yuber Okami) | 4-14 | fleet list | Additional Rogue Trader rules. |
+| Different Fleet Operations: Patrol Fleet Rules (MKG) | 15-18 | rules variant | Patrol fleet organisation. |
+| Battle of Kyshar (Jack Watling) | 19-26 | fiction | |
+| How to Magnetize your Cruisers (Chang) | 27-30 | other | |
+| Tyranid Painting Guide (Giulio Taverna) | 31 | other | |
+
+### Warp Rift 18 — `warprift18.pdf`, 37 PDF pages
+
+The contents also lists "Divine Intervention" (printed page 38), which is not in the file.
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Rogue Traders: Legendary Traders pt. 1 (Yuber Okami) | 4-7 | ship design | |
+| The Anargo Sector Project (Kage2020) | 8-14 | campaign | Fan sector setting (Segmentum Ultima), incl. the Castellan Meksum. |
+| Showcase: Khorne fleet (Napalm); painting competition | 15-17 | other | |
+| Reaper's Toll (Mark Nutter) | 18-31 | fiction | |
+| Alternative Campaign Rules (Stefano Breviglieri) | 32-35 | campaign | Post-game damage table, resources, reserves. |
+| Minefield Templates (Shapeshifter) | 36-37 | other | Printable templates. |
+
+### Warp Rift 19 — `warprift19.pdf`, 32 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Navis Mercantilis (CELS) | 4-8 | ship design | Merchant vessels. |
+| Simultaneous Movement and Combat Rules (Reg Steiner) | 9-11 | rules variant | |
+| Misfit Space Marines (Reg Steiner) | 12 | other | Showcase. |
+| High Anchor part one (Richard Swan) | 13-26 | fiction | |
+| Building Merchant Vessels (CELS) | 27-28 | other | |
+| Convoy Battle (CELS, Anargo Sector Project) | 29-30 | scenario | Imperial merchant convoy trapped by a large attacking fleet split into two attack groups; until one fleet disengages or is destroyed. |
+| Simultaneous Movement Markers; Lance Turret | 31-32 | other | |
+
+### Warp Rift 20 — `warprift20.pdf`, 29 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Joint Operations | 4-8 | rules variant | Team games with mixed fleets. |
+| Escape Manoeuvre One (Reg Steiner) | 9 | rules variant | Emergency escape move (6D6cm). |
+| Legion of the Damned (Zelnik) | 10-11 | other | Showcase. |
+| GothiComp 2008 finalists | 11 | other | |
+| High Anchor part two (Richard Swan) | 12-24 | fiction | |
+| Fall of Ar'Cianr (Ehlijen) | 25-26 | scenario | Tau vs Tyranids: Tau forces arriving in groups while ground defences are overrun; assault points. |
+| Unknown Weapons (Volandum) | 27 | scenario | Tau vs a Tyranid splinter fleet with restrictions. |
+| 3D Blastmarkers (Admiral Dadde) | 28-29 | other | |
+
+### Warp Rift 21 — `warprift21.pdf`, 36 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| From the Barrel of a Gun (Richard Swan) | 4-7 | other | Background article. |
+| Lord Commissar (Thijs Baxter) | 8 | rules variant | Commissars aboard ships. |
+| A Cadet's Guide: Ultima Segmentum (Against the Stream) | 9-11 | other | |
+| Deliverance (Admiral Rob de Bertl) | 12-20 | ship design | The Chaos super-battleship Deliverance. |
+| GothiComp 2008 winners | 21-23 | other | |
+| Fannon's Patrol (Reg Steiner) | 24 | scenario | From a narrative campaign re-settling Ork-held stars; any attacker (Orks by default; Eldar pirates, Chaos or Imperial substitutes). |
+| High Anchor part three (Richard Swan) | 25-36 | fiction | |
+
+### Warp Rift 22 — `warprift22.pdf`, 29 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Planetary Defense Battery; Heavy Gun Emplacements (Reg Steiner) | 4-5 | ship design | Ground defences. |
+| Repel Boarders! Capture Ships Using Assault Boats and Boarding Torpedoes (Reg Steiner) | 6-7 | rules variant | Capturing ships. |
+| Imperial Navy vs Chaos: A Planetary Defense (Admiral Kratz) | 8-11 | battle report | |
+| Ashes of the Hellfire / Souleater (Shapeshifter) | 12 | ship design | Experimental Chaos ship class. |
+| WAAAAAGH (Dominic Amlôt) | 13-28 | fiction | |
+| Minor Engagement (Andy "Ruckdog" Rucker) | 29 | scenario | Small pick-up game between small forces, two deployment zones. |
