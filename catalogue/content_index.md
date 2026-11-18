@@ -495,3 +495,32 @@ Byte-for-byte the same file as `reference/BFG_Scenario_Listing.pdf`.
 | Title | Type | What it is |
 |---|---|---|
 | BFG magazine Index | other | Spreadsheet: one row per article in issues 1-19 (issue, item, author, remark, scenario / campaign flags). Incomplete: it omits, for example, issue 1's Raiders and Pirates, issue 8's Execution Hour and issue 18's Elaysion battles. |
+
+---
+
+## Fanatic_Magazine
+
+Each file is one article cut from an issue of Fanatic Magazine. All are OCR. Printed page numbers are not recorded: they are rarely legible in these extracts.
+
+| File | Title | PDF p. | Type | What it is |
+|---|---|---|---|---|
+| Fanatic Magazine 01 Damocles Gulf Crusade | The Damocles Gulf Crusade Part II (Nate Montes) | 1-4 | campaign | Continues the Lithesh War from BFG Magazine 19, with two scenarios and Tau orbital profiles. |
+| | Scenario Three: Pursuit at Resvar Six | 1-2 | scenario | Imperial attacker (up to 1000pts, no flagship or re-rolls) vs Tau escorting a Demiurg Stronghold or two Bastions to the far short edge; Tau reinforcements from the previous scenario; renown results. |
+| | Scenario Four: Assault on Pra'yen | 3-4 | scenario | Imperial attack, with flagship and at least two Space Marine strike cruisers, on a Tau military outpost with a hidden fleet; Tau Security Orbital Cluster and Station profiles. |
+| Fanatic Magazine 01 Tau tactics | Tau tactics | 1-4 | tactics | Tau fleet tactics: turrets with the Messenger, Demiurg allies. |
+| Fanatic Magazine 02 Privateer | Battlefleet Gothic: Privateer (Matt Keefe) | 1-8 | other | Introduction to the Privateer series: piracy in the Imperium, responses to piracy, privateers such as Memet Poralius, regions where pirates operate. No scenario rules. |
+| Fanatic Magazine 03 Doom of the Eldar | Doom of the Eldar (Matt Keefe) | 1-12 | fleet list | Craftworld Eldar special rules, critical hits, the Tyranid invasion of Iyanden, the Iyanden fleet list, Dragonship, Wraithship, Shadowhunter escort, Ghostships. |
+| | Craftworld Assault | 13-14 | scenario | In the booklet (Craftworld Assault). |
+| Fanatic Magazine 04 BFG tactics Imperial Navy & Chaos | BFG Tactics (Adam Brown) | 1-8 | tactics | Imperial Navy and Chaos ship-by-ship tactics, escorts against ordnance. |
+| Fanatic Magazine 04 Yriels Raiders | Yriel's Raiders | 1-4 | ship design | Prince Yriel's flagship Flame of Asuryan (320pts), craftworld and outcast Eldar pirates. PDF page 2 has no text (image). |
+| Fanatic Magazine 05 Ork Fleets Clanz | Ork Fleets | 1-6 | fleet list | Ork special rules (Mob Rule), weapons, choosing the fleet, squadrons, Ork clans. |
+| Fanatic Magazine 06 Space Marines | Space Marine Fleets | 1-11 | fleet list | Space Marine fleet organisation, special rules, Thunderhawks, fortress-monastery docking, Venerable Battle Barge, Codex Astartes, Planetary Assault and Crusade fleet lists, attack ratings. |
+| Fanatic Magazine 07 Fabric of the Imperium Rogue Traders | Fabric of the Imperium: Rogue Traders | 1-8 | fleet list | Rogue Traders: prize sub-plot (VP when the Rogue Trader is lost), xenotech systems, Rogue Trader cruiser (180pts), xenos vessel, armed cargo and recommissioned vessels. |
+| Fanatic Magazine 07 Powers of Chaos Nurgle | The Powers of Chaos: Nurgle | 1-8 | fleet list | The four Chaos powers; the Plague Fleet of Nurgle list, Death Guard crews, Terminus Est battle barge with the Miasma of Pestilence. |
+| Fanatic Magazine 07 Privateer | Privateer Part 2 (Matt Keefe) | 1-2 | rules variant | Rules for small Privateer games: escorts fighting on when damaged, lone escorts at -1 Ld, a free fleet commander for fleets with no ship over 50pts. |
+| | Scenario I: The Wolf Packs | 2-4 | scenario | Privateer: pirates (face-down counters) attack merchant transports whose points values stand for their cargo; VP for cargo only. Wolf Pack vessels (armed freighter, escort carrier...). |
+| | Scenario [II]: Tau Space, Tau Trade | 5-6 | scenario | Privateer: privateers attacked by rivals using face-down counters activated within 30cm; the Commerce Protection Fleets list. Printed as "Scenario I" (apparently a typo for II). |
+| Fanatic Magazine 07 Q&A | BFG Q&A | 1-6 | Q&A/FAQ | Movement, shooting, ordnance, disengaging, squadrons. |
+| Fanatic Magazine 08 Tyranid tactics | Tyranid Tactics | 1-8 | tactics | Hive fleet organisation, vessels, bio-upgrades, tactics against each race. |
+| Fanatic Magazine 09 Necron tactics | Necron Tactics | 1-7 | tactics | Necron weapons, ships and common player errors. |
+| Fanatic Magazine 10 FAQ | Battlefleet Gothic FAQ | 1-5 | Q&A/FAQ | FAQ by fleet: Imperial, Space Marine and Chaos, Eldar, Tyranids, Necrons. PDF page 6 has no text. |
