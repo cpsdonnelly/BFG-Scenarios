@@ -693,3 +693,121 @@ Printed page = PDF page - 2.
 | Hot from the Forges, fleet deals | 48-49 | 46-47 | other | |
 | Space Hulk Convoy (Uwe Wegner) | 50 | 48 | scenario | Imperial and Space Marine fleet towing a captured Ork space hulk to a forge world; any enemy with 2000pts. |
 | Vanquisher picture | 51 | 49 | other | |
+
+---
+
+## Warp_Rift
+
+Fan magazine (Nexus Publishing House, editor CyberShadow), issues 1-50. Text PDFs except issues 44 and 45, which are OCR. Each issue has a contents page; PDF pages below were found by searching the text for each title, and the printed page is usually the PDF page - 1. Regular sections: Lock On (tactics), Encyclopaedia Gothica (rules), The Dry Dock (modelling), Officers Mess (fiction), Ships Log (battle reports), Void Stalker (scenarios and campaigns, from issue 5).
+
+### Warp Rift 1 — `warprift01.pdf`, 32 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Incoming Publication (CyberShadow) | 3-6 | other | Editorial and introduction. |
+| Is Mars the God of War? (Chris French) | 7-9 | tactics | The Mars battlecruiser. |
+| Alternate Critical Charts (Nathan Montes) | 10-11 | rules variant | Alternative critical hit tables. |
+| Tyranid Evolution, Mutation (Raymond Bell) | 12-15 | rules variant | Tyranid upgrades. |
+| At the Dry Dock (John Webber) | 16-18 | other | Modelling. |
+| Battle of Pelucidar (Space Cadet) | 19-30 | fiction | |
+| Astronomicon, Docking Claws, Incoming | 31-32 | Q&A/FAQ | Questions and answers, links. |
+
+### Warp Rift 2 — `warprift02.pdf`, 22 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| You Know You Have Been Playing Too Much BFG If... (Norman) | 4-7 | other | Humour. |
+| Alternate Gunnery Table (Raymond Bell) | 8 | rules variant | Expanded gunnery table. |
+| Daemon Ships (Raymond Bell) | 9-11 | rules variant | Alternative daemonship rules. |
+| Kr00zin' (kr00za) | 12-16 | other | Building a Despoiler. |
+| Not All Is As It Seems; Memories (Norman) | 17-20 | fiction | |
+| Recon Engagement (Chris French) | 21 | battle report | Short battle report. |
+
+### Warp Rift 3 — `warprift03.pdf`, 32 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Eldar in Battlefleet Gothic (David McCarthy) | 4-8 | tactics | Eldar fleet use. |
+| Orkimedes' Workshop (various) | 9-14 | rules variant | New Ork gubbinz. |
+| Tau Refits (Raymond Bell) | 15-18 | campaign | Tau refits and crew skills. |
+| Destroyer of Worlds (Khyron) | 19-22 | other | Model showcase. |
+| Captain Sinn's Gambit (Norman) | 23-30 | fiction | |
+| Astronomicon | 31 | Q&A/FAQ | |
+
+### Warp Rift 4 — `warprift04.pdf`, 35 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Meet the Warp Rift Editors | 4-7 | other | |
+| The Fly and the Shotgun: The All-Escort BFG Force (Chris French) | 8-10 | tactics | All-escort fleets. |
+| Clarifications (Space Cadet, Ray Bell) | 11 | Q&A/FAQ | |
+| Tau'n Fleet List (Ray Bell) | 12-20 | fleet list | Fan Tau fleet list. |
+| Alternate Ork Pirate Rules (Ray Bell) | 21-22 | rules variant | |
+| Kr00zin' Part Two (kr00za) | 23-24 | other | Modelling. |
+| The Captain's Day (Norman) | 25-34 | fiction | |
+
+### Warp Rift 5 — `warprift05.pdf`, 35 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Escort-Hull Carriers: Why and Why Not? (Chris French) | 4-8 | tactics | |
+| BFG Alliances Part One (Ray Bell) | 9-15 | rules variant | Allied fleets. |
+| The Black Legion (Ray Bell) | 16-20 | fleet list | Black Legion Chaos Space Marine fleet. |
+| The Golgotha Spiral (Chubbybob) | 21-23 | other | Model showcase. |
+| Vengeance (Thomas Whitbread) | 24-26 | fiction | |
+| Forcing the Mobeel Narrows (Gaunts Ghost) | 27-32 | scenario | Historical, 147.M41: Imperial forces break into the Louisabama system past the rebel-held (Chaos) space port of Mobeel and its defences. |
+| Siege of Fularis (Ray Bell) | 33-35 | scenario | A siege scenario using the Blackstone Fortress rules; one fleet loses if it disengages or is destroyed. |
+
+### Warp Rift 6 — `warprift06.pdf`, 30 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Raising the Colours | 4-5 | other | Painting competition announced. |
+| The Imperial Modular Cruiser Concept (Chris French) | 6-8 | ship design | |
+| BFG Alliances Part Two (Ray Bell) | 9-12 | rules variant | |
+| World Eaters (Ray Bell) | 13-16 | fleet list | World Eaters fleet. |
+| The Bait Part One (Space Cadet) | 17-25 | fiction | |
+| The Ilithrium Campaign (Ray Bell) | 26-30 | campaign | Simple Imperial vs Chaos campaign in the 13th Black Crusade (adaptable to other races). |
+
+### Warp Rift 7 — `warprift07.pdf`, 41 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Raising the Colours | 4-5 | other | |
+| The Ancients' Guide to BFG Tactics (Chris French) | 6-9 | tactics | |
+| Ork Clan Fleets in BFG (Ray Bell) | 10-20 | fleet list | |
+| Emperor's Children (Ray Bell) | 21-24 | fleet list | |
+| BFG Alliances Part Three | 25-29 | rules variant | |
+| GothiComp 2005 submissions | 30-31 | other | |
+| The Bait Part Two (Space Cadet) | 32-41 | fiction | |
+
+### Warp Rift 8 — `warprift08.pdf`, 32 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Programming the Ork Fleet for Solitaire in BFG (Chris French) | 4-5 | rules variant | Solo-play rules for an Ork opponent. |
+| Attack Craft Alterations (Chris French) | 6-8 | rules variant | |
+| Death Guard (Ray Bell) | 9-15 | fleet list | |
+| GothiComp 2005 winners; Big Guns (kr00za) | 16-20 | other | |
+| The Wanderer (Chris French); Chaos Rising (Warmaster Ancaris) | 21-32 | fiction | |
+
+### Warp Rift 9 — `warprift09.pdf`, 33 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| Letters and feedback | 4 | other | |
+| The Thousand Sons: All Is Dust (Ray Bell) | 5-11 | fleet list | |
+| Imperial Deimos Torpedo Cruiser (Ray Bell) | 12-14 | ship design | |
+| Nova Cannon Experimental Rules (Jack Cassidy) | 15-17 | rules variant | |
+| Still Kr00z'in (kr00za); Adishunal Orky Shipz (Andy Chambers) | 18-24 | ship design | Modelling and Ork vessels. |
+| The Third Fallback (Admiral Lord Michael; credited to Space Cadet) | 25-30 | fiction | |
+| Choir of a Thousand Voices (CyberShadow) | 31-33 | scenario | Chaos attack an Imperial convoy of Black Ships carrying psykers, en route where Imperial support is unavailable. |
+
+### Warp Rift 10 — `warprift10.pdf`, 40 PDF pages
+
+| Title (author) | PDF p. | Type | What it is |
+|---|---|---|---|
+| The Eldar (blackhorizon, Sigoroth) | 4-20 | fleet list | Revised Eldar Corsair rules (MMS precursor). |
+| Parade Colours | 21-23 | other | |
+| The Bait Part Three (Space Cadet) | 24-35 | fiction | |
+| Assassination (Ray Bell) | 36-40 | scenario | Gothic War: Orks against the Lord Solar Macharius (from "Shadow Point"); 180 x 120cm table. |
