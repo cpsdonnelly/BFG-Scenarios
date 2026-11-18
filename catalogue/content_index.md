@@ -178,3 +178,171 @@ Text PDF (a web print of a Fanatic article; printed pages 2-6).
 | Title | PDF p. | Printed | Type | What it is |
 |---|---|---|---|---|
 | Lord Rhamirez's Masterclass | 1-5 | 2-6 | tactics | Imperial Navy fleet building and tactics: escorts, pack hunting, formations, ramming. |
+
+---
+
+## BFG_Magazine
+
+All issues are OCR. In issues 1-11 the printed page = PDF page - 2 unless stated. The folder also holds `BFG magazine Index.xlsx`, an earlier community index of the issues (used as a cross-check; it misses several items), and `BFG Scenario Listing.pdf` (indexed at the end of this folder).
+
+### Battlefleet Gothic Magazine 1 — `Battlefleet Gothic Magazine 01.pdf`, 52 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial, Fanatic news, catalogue | 3-7 | 1-5 | other | |
+| The Great Devourer: Tyranid Hive Fleets (Andy Chambers) | 8-22 | 6-20 | fleet list | Experimental Tyranid rules: background, special rules, instinctive behaviour, hive fleet list, ship profiles, damage tables. |
+| Playtesting the Tyranids (Andy Hall, Tom Webster-Deakin) | 23-25 | 21-23 | battle report | A 1000pt Tyranid fleet in playtest games, with conclusions. |
+| Da Ammer (Andy Chambers) | 26-27 | 24-25 | ship design | Ork Hammer class battle kroozer, 245pts. |
+| Brace for Impact | 28 | 26 | other | Status of BFG rules developments. |
+| Experimental Rules: minefields, solar flares | 29-30 | 27-28 | rules variant | Modified minefield and solar flare rules. |
+| New Scenario: Raiders | 30-31 | 28-29 | scenario | Any vs any: a battle group hunts raiders' base among asteroid fields; suited to campaigns. Different from the booklet's The Raiders. |
+| New Scenario: Pirates | 32-33 | 30-31 | campaign | Map campaign: 2000pt Imperial fleet hunts a 1500pt pirate player's secret base across 10-14 systems, with sub-plots and the pirate base battle. |
+| Questionnaire, subscriptions | 34-35 | 32-33 | other | |
+| Ork crew skills and refits (Mark Humphries) | 36-38 | 34-36 | campaign | Ork crew skill, engine, ship and weapon refit tables. |
+| Corribra Sector Part II (Matt Sprange) | 40-45 | 38-43 | campaign | Imperial (Captain Leigh) vs Ork (Warlord Gutztoof) campaign: four linked escort-sized scenarios ending with the Gork's Pay; famous ships of the sector. |
+| Catalogue, adverts | 46-52 | 44-50 | other | |
+
+### Battlefleet Gothic Magazine 2 — `Battlefleet Gothic Magazine 02.pdf`, 52 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial, Sensor Sweep | 3-5 | 1-3 | other | News, Necron models. |
+| Experimental Rules and fleet lists for Necrons (Pete Haines) | 6-16 | 4-14 | fleet list | Necron fiction, fleet list, Tombship, Scythe, Shroud, Jackal, Dirge, special rules and ship systems. |
+| Furious class grand cruiser (Bob Henderson) | 18-19 | 16-17 | ship design | Competition winner: Imperial/Chaos grand cruiser, 0-2 in fleets over 2000pts. |
+| Long Serpent battlecruiser (Bob Henderson) | 20-21 | 18-19 | ship design | Battlecruiser conversion (the later Mercury). |
+| Fanatic news, adverts | 22-23 | 20-21 | other | |
+| Hive Fleet Kraken: Tyranid Q&A | 24-28 | 22-26 | Q&A/FAQ | Answers on the experimental Tyranid rules. |
+| Tyranid fleet list errata, sample hiveships | 29-30 | 27-28 | fleet list | Corrections and example configurations. |
+| Battlefleet Bakka (John Lambshead) | 32-42 | 30-40 | fleet list | History of Bakka and the Macraggan war, Bakka fleet list, Emperor, Victory, Cardinal, Enforcer, Viper and more. |
+| Questionnaire, Brace for Impact | 43-44 | 41-42 | other | Rules status list. |
+| Experimental Rules: the Smotherman Formula | 45-47 | 43-45 | rules variant | Points formula for designing ships. |
+| Catalogue | 48-52 | 46-50 | other | |
+
+### Battlefleet Gothic Magazine 3 — `Battlefleet Gothic Magazine 03.pdf`, 28 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial | 3 | 1 | other | |
+| Return of the Harvest (Pete Haines, Andy Hall) | 4-9 | 2-7 | fleet list | Updated Necron rules and fleet list. |
+| Tactica Imperialis (Andy Hall) | 10-11 | 8-9 | tactics | Imperial tactics against Necrons. |
+| Vengeance class grand cruisers (Warwick Kinrade) | 12-17 | 10-15 | ship design | Vengeance, Avenger, Retaliator; building the model. |
+| Brace for Impact | 18 | 16 | other | Rules status list. |
+| Space Marine Rapid Strike Vessels | 19-21 | 17-19 | ship design | Hunter destroyer, Gladius and Nova frigates. |
+| Mailbag / Q&A | 23-24 | 21-22 | Q&A/FAQ | Mainly Necron questions. |
+| Catalogue | 22, 25-28 | | other | |
+
+### Battlefleet Gothic Magazine 4 — `Battlefleet Gothic Magazine 04.pdf`, 28 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Merchant vessel colour schemes | 2 | | other | Painting guide (inside cover). |
+| Editorial, Forge World | 3-7 | 1-5 | other | |
+| Scenario: Treasure Fleet (Pendrigh Redford) | 8-9 | 6-7 | scenario | Chaos vs Imperial raid: up to 750pts of Chaos attack tithe transports waiting in orbit for their escort. |
+| Scenario: Evacuation (Nate Montes) | 10-11 | 8-9 | scenario | Any vs Imperial: defenders protect a motley evacuation fleet of merchant ships and transports leaving a threatened planet. |
+| Merchant Ships of the Imperium (Nate Montes) | 12-14 | 10-12 | ship design | Experimental merchant ships: Fast Clipper, Galaxy class armed freighter and others. |
+| Brace for Impact | 15 | 13 | other | Rules status list. |
+| "Open missile tubes" | 16-17 | 14-15 | fiction | Short story. |
+| Mailbag | 18-20 | 16-18 | Q&A/FAQ | Letters and answers (Necrons, defence monitors). |
+| Hellfire (Duncan Sargent) | 22-25 | 20-23 | ship design | Chaos Hellfire heavy cruiser conversion and profile. |
+| Catalogue, grand cruiser showcase | 26-28 | 24-26 | other | |
+
+### Battlefleet Gothic Magazine 5 — `Battlefleet Gothic Magazine 05.pdf`, 28 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Orbital defence platform colour schemes, editorial | 2-3 | 1 | other | |
+| Lord Rhamirez's Masterclass | 4-8 | 2-6 | tactics | Imperial fleet tactics (same article as `Imperium Tactica Rhamirez.pdf`). |
+| Brace for Impact | 9 | 7 | other | Rules status list. |
+| Tyranid Bio-Enhancements (John Kemp) | 10 | 8 | rules variant | Experimental Tyranid upgrades. |
+| Mailbag | 12-13 | 10-11 | Q&A/FAQ | Grand cruisers, Necrons. |
+| Cerberus Campaign | 14-15 | 12-13 | campaign | Internet campaign in the Cerberus Shroud run by James Parry, Matt Farrer and friends: background and how to report results. |
+| Scenario: Cadian Line (Noamaan Siddiqi) | 16-18 | 14-16 | scenario | Chaos vs Imperial: a small Chaos fleet tries to slip through the Cadian defence line undetected; fortress zone, detection rules, deployment diagram. |
+| High Defence (Andy Hall) | 19 | 17 | tactics | Using high orbit defence platforms. |
+| Building Bio-ships | 21-25 | 19-23 | other | Tyranid conversions. |
+| Catalogue | 20, 26-28 | | other | |
+
+### Battlefleet Gothic Magazine 6 — `Battlefleet Gothic Magazine 06.pdf`, 28 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial | 3 | 1 | other | |
+| The Shroud class (Pete Haines) | 4-5 | 2-3 | ship design | Necron light cruiser. |
+| New Threat Alert (Andy Chambers) | 6-8 | 4-6 | ship design | Demiurg Stronghold commerce vessel, 350pts. |
+| Imperial super-heavy fuel and troop transports | 9 | 7 | ship design | Heavy transports for convoy and planetary assault games. |
+| The Orphan World (Pete Haines, Neil Parsons) | 10-17 | 8-15 | battle report | Necrons vs Eldar using a modified The Bait. |
+| Mailbag | 19-20 | 17-18 | Q&A/FAQ | Necron questions. |
+| Scenario: Ahriman's Arrival (Chris Lucking, James Parry) | 21-23 | 19-21 | scenario | Chaos vs Imperial, part of the Cerberus campaign: Ahriman's arrival in the Cerberus Shroud; enemy markers, historical forces. |
+| Brace for Impact | 24 | 22 | other | Rules status list. |
+| Catalogue, painting | 18, 25-28 | | other | |
+
+### Battlefleet Gothic Magazine 7 — `Battlefleet Gothic Magazine 07.pdf`, 28 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial | 3 | 1 | other | |
+| Aurora class light cruiser (Andy Hall) | 4-5 | 2-3 | ship design | Eldar light cruiser. |
+| Rath's Last Stand (Tim Driscole; rules Warwick Kinrade) | 8-11 | 6-9 | scenario | Battlefleet Bakka vs Hive Fleet Behemoth at the Battle of Circe: a large historical battle with the Dominus Astra. |
+| Brace for Impact | 14 | 12 | other | Rules status list. |
+| High Admiralty (Warwick Kinrade) | 15 | 13 | other | How the rules review works. |
+| Mailbag | 16-17 | 14-15 | Q&A/FAQ | Design philosophy, test rules. |
+| BFG Internet painting competition | 18-19 | 16-17 | other | |
+| Wolf Packs (James Snee, Frank Court) | 20-25 | 18-23 | fleet list | Human pirates: Leadership, battlezones, a D6 pirate raid scenario generator (Blockade Run, Surprise Attack, Raiders, Convoy Run, Planetary Assault), Sword frigate, transports, armed freighter, Q-ship, Galaxy freighter. |
+| Catalogue, painting | 6-7, 13, 26-28 | | other | |
+
+### Battlefleet Gothic Magazine 8 — `Battlefleet Gothic Magazine 08.pdf`, 28 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial | 3 | 1 | other | |
+| The Battle for Antioc (Nate Montes) | 4-5 | 2-3 | campaign | Narrative Imperial vs Chaos campaign in four battles in the Elaysion sector, with background. |
+| Antioc 1: Reconnaissance Run | 6 | 4 | scenario | Imperial flotilla must stay within 15cm of each other for a turn to share reconnaissance data. |
+| Antioc 2: Desperate Search | 7-8 | 5-6 | scenario | Outer reaches with an asteroid field; search near the Guidus star system. |
+| Antioc 3: Critical Intercept | 9-10 | 7-8 | scenario | A cruiser secretly carrying Attalid must reach the opposite table edge; Chaos must stop it. |
+| Antioc 4: Carrier Clash | 10-11 | 8-9 | scenario | Escalating Engagement variant: a large Imperial carrier fleet against the Chaos armada, divisions arriving by contact markers. |
+| Brace for Impact | 12 | 10 | other | Rules status list. |
+| Tyranid Evolution | 13 | 11 | rules variant | Tyranid evolution upgrades. |
+| A Seer's Words (Brad Bell) | 14-15 | 12-13 | tactics | Eldar tactics against Necrons. |
+| Solaris class light cruiser (Chet Lomas) | 18-19 | 16-17 | ship design | Eldar light cruiser. |
+| Mailbag | 20-21 | 18-19 | Q&A/FAQ | Fleet strength, Demiurg questions. |
+| Execution Hour (Tim Driscole) | 23-25, 27 | 21-23, 25 | scenario | Imperial evacuation fleet (Macharius, Graf Orlock, Borodino) escaping a Chaos force from the warp at Belatis; from Gordon Rennie's novel. |
+| Forge World, catalogue | 16-17, 22, 26 | | other | |
+
+### Battlefleet Gothic Magazine 9 — `Battlefleet Gothic Magazine 09.pdf`, 28 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial | 3 | 1 | other | |
+| Desecrator Chaos battleship (Nate Montes) | 4-5 | 2-3 | ship design | Chaos battleship, famous ships, making the model. |
+| Random Force Generator (Dan Peric) | 6-8 | 4-6 | rules variant | Picking both fleets randomly from forces tables; Chaos Incursion forces table, planetary defences sub-table. |
+| Brace for Impact | 9 | 7 | other | Rules status list. |
+| Ordnance Launch Limits (Andy Chambers) | 10 | 8 | rules variant | Experimental. |
+| Nova Cannon Fire! (Pete Haines) | 11 | 9 | rules variant | Experimental. |
+| Building Bio-ships II | 14-17 | 12-15 | other | Tyranid conversions. |
+| Inquisition Black Ship (Bob Henderson) | 18-19 | 16-17 | ship design | Inquisition black ship with famous ships. |
+| Mailbag | 22-23 | 20-21 | Q&A/FAQ | |
+| Scenario: The Siege (Eric Kelley) | 24-25 | 22-23 | scenario | Any vs any: attacking a fortified system holding a Ramilies star fort or Blackstone Fortress; defender in five groups with reinforcements. |
+| Catalogue, adverts | 12-13, 20-21, 26-28 | | other | |
+
+### Battlefleet Gothic Magazine 10 — `Battlefleet Gothic Magazine 10.pdf`, 28 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial, new releases | 3-5 | 1-3 | other | |
+| New Threat Alert (Andy Chambers, Nate Montes) | 6-7 | 4-5 | ship design | Demiurg Bastion class cruiser. |
+| The Defence of Macragge (Tim Driscole) | 8-10, 27 | 6-8, 25 | scenario | Hive Fleet Behemoth (5000pts) vs an Ultramarines fleet (2500pts) with Bakka reinforcements; precedes Rath's Last Stand (issue 7). |
+| Mailbag | 14-15 | 12-13 | Q&A/FAQ | |
+| You know you've been playing Gothic too much when... | 16-17 | 14-15 | other | Humour. |
+| Orky Know-Wots | 18-20 | 16-18 | tactics | Ork tactics. |
+| Punisher class strike cruiser | 24-25 | 22-23 | ship design | Adeptus Arbites strike cruiser. |
+| Annual advert, Forge World, catalogue | 13, 21-23, 26, 28 | | other | |
+
+### Battlefleet Gothic Magazine 11 — `Battlefleet Gothic Magazine 11.pdf`, 28 PDF pages
+
+| Title | PDF p. | Printed | Type | What it is |
+|---|---|---|---|---|
+| Editorial, new releases, painting contest | 3-5 | 1-3 | other | |
+| Better Death than Capture! (Andy Chambers, Pete Haines, Matt Keefe) | 6-10 | 4-8 | fleet list | Dark Eldar raiders: special rules, fleet list, Torture cruiser, Corsair escort. |
+| Mailbag | 11 | 9 | Q&A/FAQ | |
+| Tyranid Hive Fleets (Andy Chambers, Nate Montes) | 12-24 | 10-22 | fleet list | Second experimental Tyranid rules: synaptic control, fleet list, profiles, critical and catastrophic tables. |
+| Tyranids in the rulebook scenarios | 25 | 23 | scenario | Notes on playing each rulebook scenario with a hive fleet. |
+| Contacts, Dark Eldar recognition guide | 26-27 | 24-25 | other | |
