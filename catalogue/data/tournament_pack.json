@@ -1,0 +1,965 @@
+[
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-a1-manna",
+  "title": "A1 Manna from the Heaven",
+  "author": "AdeptiCon 2007 (Battlefleet Gothic Championships Scenario 1)",
+  "pages": "PDF p.4",
+  "forces": "1250 or 1500 points per fleet (pack framework, p.2).",
+  "summary": "A planet sits at the table centre. Each ship that spends a full game turn in the planet's gravity well, not on special orders (Burn Retros allowed), scores a VP bonus equal to its cost, once per ship. Deployment zones are 30cm from the long edges and at least 50cm from the planet.",
+  "special_rules": [
+   "Gravity well VP bonus equal to ship cost",
+   "Secondary Objectives on D6: Headhunters (1-2), In the Kingdom of the Blind (3-4), Pickup and Retrieval (5-6)"
+  ],
+  "xr_dependencies": [
+   "s.41 High Orbit",
+   "s.7 Special Orders",
+   "s.38 Victory Points",
+   "s.31/32 raids and boarding"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Necron and Tyranid flagships",
+    "source_text": "inflicting -2 LD through critical hits to a Necron fleet will count as a partial victory and inflicting -4 LD ... a full victory",
+    "xr_section": "booklet Necron and Tyranid rules (fleet commander)",
+    "xr_text": "Obelisk free, Monolith (Ld9) 50, Sepulchre (Ld10, free nightmare field) 75.",
+    "effect": "The source says 'Sepulcher' counts as the flagship; the booklet's spelling is Sepulchre and it is a Monument assigned to a ship. Leadership loss counted through critical hits follows the Necron critical table. The Tyranid rule (any Hive Ship) is not contradicted."
+   },
+   "Checked and no conflict: first turn and attack rating roll ('roll their attack rating' matches the number of dice in the XR rule), planet placement, 8-turn game length. 'Weapon battery' is not used in this mission."
+  ],
+  "missing_or_unclear": [
+   "Planet size is not stated.",
+   "'Burn Retros at any point during that turn' while receiving the bonus: the bonus is checked at the end of the full turn, but Burn Retros needs a command check that can fail.",
+   "Whether defences or escorts count for the bonus (the text says 'each ship').",
+   "Table size is not stated."
+  ],
+  "diagram": "simple",
+  "length": "about 1 page",
+  "notes": "Two-player. Secondary Objectives (Full/Partial): Headhunters (destroy or cripple/disengage the enemy flagship); In the Kingdom of the Blind (destroy or reduce to below 50% the enemy escorts); Pickup and Retrieval (secretly nominate an enemy capital ship, hit-and-run or board it, or destroy it without doing so). The hit-and-run and boarding parts rely on those optional rules being in use."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-a2-road-to-hell",
+  "title": "A2 The Road to Hell",
+  "author": "AdeptiCon 2007 (Battlefleet Gothic Championships Scenario 2)",
+  "pages": "PDF p.5",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "A warp rift sits at the table centre. Each non-crippled ship within 20cm of it at the end of the game scores a VP bonus equal to its cost.",
+  "special_rules": [
+   "Rift control VP bonus (within 20cm)",
+   "Secondary Objectives: Into the Rift, Protect the Planet, Rally to the Flag"
+  ],
+  "xr_dependencies": [
+   "s.39 Warp Rifts",
+   "s.38 Victory Points"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Ships lost in the warp",
+    "source_text": "Partial: Have one capital ship or escort squadron enter the warp rift, but be destroyed.",
+    "xr_section": "s.39 Warp Rifts",
+    "xr_text": "On a score of 1, it is trapped forever: count the ship as destroyed. On a result of 2-6, it is only temporarily lost ... count the ship as having disengaged.",
+    "effect": "Under XR a ship that fails the rift test is destroyed on a 1 after the game and otherwise disengaged. The source calls the loss 'destroyed' for its objective; the two readings need a ruling."
+   },
+   "Checked and no conflict: deployment (attack rating roll), 50cm distance, first turn, 8 turns. The Protect the Planet objective refers to a planet that the text does not place."
+  ],
+  "missing_or_unclear": [
+   "Protect the Planet (3-4) needs a planet; the mission places only the warp rift.",
+   "Rift size not stated.",
+   "Table size."
+  ],
+  "diagram": "simple",
+  "length": "about 0.75 page",
+  "notes": "Earlier version of Barbero's The Road to Hell (adv-road-to-hell, two rifts and Stabilizers)."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-a3-space-power",
+  "title": "A3 The Influence of Space Power",
+  "author": "AdeptiCon 2007 (Battlefleet Gothic Championships Scenario 3)",
+  "pages": "PDF p.6",
+  "forces": "1250 or 1500 points per fleet; each player secretly picks a stratagem (Stay in Formation, Hold the Line, Maintain Contact).",
+  "summary": "Players choose stratagems in secret. Stay in Formation deploys everything; Hold the Line deploys the larger of two elements and brings the smaller on in reserve on turn 3 from markers; Maintain Contact deploys the smaller and brings the larger on turn 4. Diagonal deployment zones 45cm wide. Each enemy ship destroyed is worth double VP.",
+  "special_rules": [
+   "Secret stratagems",
+   "Reserves arriving within 15cm of table-edge markers",
+   "Destroyed ships worth double VP"
+  ],
+  "xr_dependencies": [
+   "s.4 Reserves",
+   "s.38 Victory Points",
+   "s.38 Enemies Destroyed"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Doubled VP for destroyed ships",
+    "source_text": "each enemy ship destroyed (not crippled or disengaged) is worth double the normal victory points.",
+    "xr_section": "s.38 Victory Points",
+    "xr_text": "Each capital ship, escort squadron, and defence installation that is completely destroyed at the end of the game awards the opposing player a number of victory points equal to that unit/squadron's total points value",
+    "effect": "Overrides the 100% value for destroyed units to 200%. The text says 'ship' where XR counts escort squadrons as one unit."
+   },
+   "Checked and no conflict: Vendetta and Redemption sub-missions mirror the XR Legacies of War table in spirit but are scenario rules here; first turn; 8 turns. The deployment diagram shows two diagonal bands labelled 45cm."
+  ],
+  "missing_or_unclear": [
+   "Which side of the diagonals each player deploys on (the diagram shows two parallel diagonal lines).",
+   "Whether a reserve unit arriving 'within 15cm of one of the markers' must end its move on the table.",
+   "Whether units in reserve count for VP if they never arrive (XR does not say)."
+  ],
+  "diagram": "simple",
+  "length": "about 1 page",
+  "notes": "Secondary Objectives on D6: Redemption of Honor (1-2), Pyrrhic Avoidance (3-4), Vendetta (5-6)."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-a4-edge-of-warp",
+  "title": "A4 Battle on the Edge of the Warp",
+  "author": "AdeptiCon 2009 (Mission 2)",
+  "pages": "PDF p.7",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "Fixed terrain with a warp rift at the centre. At the start of each player's turn, roll a D6 for ships or squadrons in turn until the first 5-6: that unit is bounced 1D6x10cm in a random direction as if it had navigated a warp rift.",
+  "special_rules": [
+   "Warp Eddies",
+   "Secondary Objectives: Navigate the Warp Rift, Deplete the Enemy's Escort Screen, Break the Line"
+  ],
+  "xr_dependencies": [
+   "s.39 Warp Rifts",
+   "s.37 Disengaging",
+   "s.38 Victory Points"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Warp eddy movement",
+    "source_text": "bounced 1d6x10 cm in a random direction as if they successfully navigated a warp rift with 2 exceptions",
+    "xr_section": "s.39 Warp Rifts",
+    "xr_text": "it may be repositioned up to 2D6x10cm away from the rift, pointing in any direction",
+    "effect": "XR moves a ship up to 2D6x10cm and lets the owner choose; the source uses 1D6x10cm, the full distance, and a random direction, then lets the owner choose the facing."
+   },
+   {
+    "topic": "Break the Line and VP",
+    "source_text": "These ships will not count as disengaged for the purposes of victory points.",
+    "xr_section": "s.37 Disengaging",
+    "xr_text": "any vessel that moves off of the table edge during play for any reason counts as being disengaged (whether it intended to or not)",
+    "effect": "Source overrides XR for ships leaving by the opponent's edge."
+   },
+   "Checked and no conflict: first turn, deployment, 'Do not make rolls for ordinance waves' (ordnance not bounced)."
+  ],
+  "missing_or_unclear": [
+   "Warp Rift size not stated.",
+   "Eddies 'may not take the ship off the board': what happens to ships that would stop on top of another ship or terrain.",
+   "Escort squadron points for Break the Line use 'every full 3 ships in the squadron'."
+  ],
+  "diagram": "simple",
+  "length": "about 0.75 page",
+  "notes": "Reroll the objective if the opponent has no escorts."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-a5-scavenger-hunt",
+  "title": "A5 Scavenger Hunt",
+  "author": "AdeptiCon 2009 (Mission 3)",
+  "pages": "PDF p.8",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "Each player places 8 face-down tokens (numbered 1-16) at least 20cm apart and from any edge. A ship stops on a token to pick it up and may not then disengage voluntarily. The organiser names the token holding the stolen plans (300 VP); others are worth 50 VP each if held at the end.",
+  "special_rules": [
+   "Token pickup by stopping on it",
+   "Tokens dropped on destruction, taken by the winner of a defensive boarding action",
+   "Secondary Objectives: Disgraced Ship, Revenge!!!, Head of the Snake"
+  ],
+  "xr_dependencies": [
+   "s.32 Boarding Actions",
+   "s.8 Shooting by Squadrons",
+   "s.37 Disengaging",
+   "s.5 Fleet Commanders"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Weapon battery dice",
+    "source_text": "contributing at least one weapon battery die or lance die as part of a squadron salvo",
+    "xr_section": "Core terminology (booklet)",
+    "xr_text": "'weapons batteries' in older sources are 'macrobatteries' in the booklet",
+    "effect": "Terminology swap. Squadron volleys follow s.8 Shooting by Squadrons."
+   },
+   {
+    "topic": "Voluntary disengage while carrying tokens",
+    "source_text": "Ships that hold tokens may not voluntarily disengage.",
+    "xr_section": "s.37 Disengaging",
+    "xr_text": "a ship or escort squadron may take a leadership test at the end of its movement phase",
+    "effect": "Restricts the XR option for token carriers. A forced disengagement (Leadership 1 or less, or leaving the table) is not addressed."
+   },
+   "Checked and no conflict: 'Bridge Smashed' counts as killing the flagship (consistent with the booklet ruling); attack rating deployment; 8 turns."
+  ],
+  "missing_or_unclear": [
+   "Which tokens are the player's own and what the 16 numbers do (the numbering suggests 8 per player).",
+   "Whether escorts can carry tokens and how a squadron does.",
+   "Whether an 8-token spread is legal with the planet, asteroid fields and fixed terrain.",
+   "Table size."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "The organiser decides which token holds the plans, so it needs a referee; a two-player version would need a decision (review item)."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-a6-black-hole",
+  "title": "A6 The Black Hole",
+  "author": "AdeptiCon 2010 (Mission 1)",
+  "pages": "PDF p.9",
+  "ocr_note": "no text layer: read from the page image at 115 dpi",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "At the start of the first player's turn roll one D6 per full turn played (this turn included). All ships are pulled that many cm towards a short edge the organiser names. A ship that leaves by that edge is destroyed and gives half its cost in VP to the opponent.",
+  "special_rules": [
+   "The Black Hole pull",
+   "Ships may only disengage off a non-Black-Hole edge"
+  ],
+  "xr_dependencies": [
+   "s.37 Disengaging",
+   "s.38 Victory Points",
+   "s.39 Warp Rifts"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "VP for ships sucked in",
+    "source_text": "any ships destroyed by being sucked into the black hole give 1/2 their cost in Victory Points to the opposing player.",
+    "xr_section": "s.38 Victory Points, Enemies Destroyed",
+    "xr_text": "equal to that unit/squadron's total points value, including the cost of any commanders or other upgrades on board",
+    "effect": "Half VP instead of full. Barbero's revision (adv-black-hole) counts them as plain destroyed."
+   },
+   "Checked and no conflict: first turn, deployment, secondary objectives (Headhunters etc.), the warp rift at the centre (s.39)."
+  ],
+  "missing_or_unclear": [
+   "Pull rule for ordnance, hulks and blast markers.",
+   "The organiser names the edge, so a two-player version needs a method."
+  ],
+  "diagram": "simple",
+  "length": "about 0.75 page",
+  "notes": "Revised as adv-black-hole. Text pages are images; numbers read at 115 dpi."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-b1-sink-bismark",
+  "title": "B1 Sink the Bismark",
+  "author": "AdeptiCon 2010 (Mission 2)",
+  "pages": "PDF p.10",
+  "ocr_note": "no text layer: read from the page image at 115 dpi",
+  "forces": "1250 or 1500 points per fleet; each fleet's most expensive capital ship (not a defence) is its Bismark and deploys first, alone.",
+  "summary": "Fixed terrain with a warp rift at the centre. Each Bismark may not disengage voluntarily; moving off the board destroys it. A Bismark destroyed by the enemy is worth double VP.",
+  "special_rules": [
+   "The Bismark (double VP, no voluntary disengage, may not be targeted by secondary objectives)",
+   "Secondary Objectives: Pickup and Retrieval, Navigate the Warp Rift, Disgraced Ship"
+  ],
+  "xr_dependencies": [
+   "s.38 Victory Points",
+   "s.37 Disengaging",
+   "s.39 Warp Rifts",
+   "s.5 Fleet Commanders"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Doubled VP and disengage",
+    "source_text": "This ship is worth double VP if destroyed by the opposing player. ... If the ship moves off the board involuntarily it counts as being destroyed.",
+    "xr_section": "s.37/s.38",
+    "xr_text": "any vessel that moves off of the table edge during play for any reason counts as being disengaged",
+    "effect": "The Bismark's exit counts as destroyed instead of disengaged, and the cost counts double for a kill. The cost 'including the cost of a character' matches s.38 ('including the cost of any commanders')."
+   },
+   {
+    "topic": "Weapon battery dice",
+    "source_text": "at least one weapon battery die or lance die as part of a squadron salvo",
+    "xr_section": "Core terminology (booklet)",
+    "xr_text": "'weapons batteries' ... 'macrobatteries' in the booklet",
+    "effect": "Terminology swap."
+   },
+   "Checked and no conflict: deployment by attack rating, first turn, 8 turns."
+  ],
+  "missing_or_unclear": [
+   "'A Space Hulk CANNOT be chosen': a Space Hulk is a defence in XR (Chaos Space Hulk s.Ramming 'Space hulks count as defences'), so no extra rule is needed.",
+   "Warp rift size."
+  ],
+  "diagram": "simple",
+  "length": "about 0.75 page",
+  "notes": "Numbers read from the page image at 115 dpi."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-b2-supply-run",
+  "title": "B2 Supply Run",
+  "author": "AdeptiCon 2010 (Mission 3)",
+  "pages": "PDF p.11",
+  "ocr_note": "no text layer: read from the page image at 115 dpi",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "A medium planet at the centre. Each non-crippled ship that spends a full game turn in the gravity well, on no special orders except Burn Retros, scores its cost in bonus VP once.",
+  "special_rules": [
+   "Gravity well bonus",
+   "Secondary Objectives: Revenge!!!, Pyrrhic Avoidance, a third objective labelled Disgraced Ship that is actually Protect the Flag"
+  ],
+  "xr_dependencies": [
+   "s.41 High Orbit",
+   "s.38 Victory Points",
+   "s.7 Special Orders"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Source typo in the objective table",
+    "source_text": "5-6 Disgraced Ship / Your Admiral is vital to the running of the battle in this sector. Keep him alive at all costs.",
+    "xr_section": "n/a",
+    "xr_text": "n/a",
+    "effect": "The heading says Disgraced Ship but the text is Protect the Flag; the Partial cell also has overlapping text ('This ship contributes to Your flagship was crippled or forced to disengage'). Two defects in the printing."
+   },
+   "Checked and no conflict: gravity well and high orbit (s.41), attack rating deployment, first turn, 8 turns. Same bonus as A1."
+  ],
+  "missing_or_unclear": [
+   "Planet size not stated.",
+   "Partial result of objective 5-6 is garbled on the page."
+  ],
+  "diagram": "simple",
+  "length": "about 0.75 page",
+  "notes": "Near-identical to A1's primary objective."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-b3-unexpected-encounter",
+  "title": "B3 An Unexpected Encounter",
+  "author": "AdeptiCon 2010 (Mission 1)",
+  "pages": "PDF p.12",
+  "forces": "1250 or 1500 points per fleet, three detachments each.",
+  "summary": "Six 2 x 2 foot sections. Each player deploys one random detachment in a random section; the second and third detachments arrive from a random board section's edge at the start of the player's second and third turns.",
+  "special_rules": [
+   "Fleet Detachments (three)",
+   "Reinforcements from random board sections",
+   "Secondary Objectives: Headhunters, Navigate the Warp Rift, Protect the Flag"
+  ],
+  "xr_dependencies": [
+   "s.4 Reserves",
+   "s.38 Victory Points"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   "Checked and no conflict: first turn (roll-off), game length (8 turns or 2 hours, time limit allowed by s.2), 'Admiral' as fleet commander, Necron Sepulcher/Tyranid hive ship flagship rule as in A1."
+  ],
+  "missing_or_unclear": [
+   "Table size (six 2x2ft sections imply a 6x4ft table).",
+   "Position of fixed terrain is not given."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Earlier version of adv-unexpected-encounter."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-b4-derelict-base",
+  "title": "B4 Battle in the Derelict Base",
+  "author": "AdeptiCon 2010 (Mission 2)",
+  "pages": "PDF p.13",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "Two live defence satellites on the centreline at the 1/3 and 2/3 points treat both fleets as hostile. From the second player's first End Phase they move 10cm towards the nearest ship and fire. They cannot be damaged until they have fired once and cannot be boarded. Destroying one is worth 200 VP.",
+  "special_rules": [
+   "Defense Satellites (stats of a Kroot Warsphere)",
+   "Secondary Objectives: Revenge!!!, Pyrrhic Avoidance, Break the Line"
+  ],
+  "xr_dependencies": [
+   "s.28 Defence Turrets",
+   "s.13 Direct Fire",
+   "Tau & Allies: Kroot Warsphere (Xenos p.98)",
+   "s.38 Victory Points"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Kroot Warsphere stats",
+    "source_text": "The Defense Satellites have the stats of a Kroot Warsphere from the Armada book.",
+    "xr_section": "12_tau-allies.md, Kroot Warsphere",
+    "xr_text": "Kroot Warsphere Defence | 145 | 10 | 32mm | 10cm | Special | 2 | 5+ | 3 | Macrobatteries 30cm FP12 (All Round)",
+    "effect": "XR gives a scalable profile (hits 6-16) and special movement. The source gives no hit total; the supplement would pick one (decision)."
+   },
+   "Checked and no conflict: first turn, attack rating, 8 turns. 'Auxiliary Fleet' and 'First Blood' in other missions of this series are undefined; in B4 only the Secondary Objectives listed are used."
+  ],
+  "missing_or_unclear": [
+   "Satellite hit total, shields and Armour.",
+   "Satellite movement: 10cm towards the nearest ship without the Warsphere's special movement; whether it stops or collides with ships.",
+   "'Until a ship on either side has been fired upon': whose attack counts."
+  ],
+  "diagram": "simple",
+  "length": "about 1 page",
+  "notes": ""
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-b5-research-platform",
+  "title": "B5 Capture the Research Platform",
+  "author": "AdeptiCon 2010 (Mission 1)",
+  "pages": "PDF p.14",
+  "forces": "1250 or 1500 points per fleet. A pirate flotilla of transports in squadrons of three with Sword frigate stats is added.",
+  "summary": "An automated platform with the broadsides of a Lunar (30cm, 2 lances, 6 batteries a broadside) fires at the closest non-pirate ship each broadside at the end of each turn, then turns 45 degrees clockwise. To capture it a ship must reduce its 8 hits to 0 through boarding actions. Capturing is worth 400 VP.",
+  "special_rules": [
+   "Automated Research Platform",
+   "Boarding the platform, one ship at a time, resolved on the boarder's turn",
+   "Pirate Flotilla (patrol until fired on)"
+  ],
+  "xr_dependencies": [
+   "s.32 Boarding Actions",
+   "s.13 Direct Fire",
+   "Support Assets",
+   "s.38 Victory Points"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Boarding damage",
+    "source_text": "No damage is done to the boarding ship win or lose. A win means that some of the ship's security systems have been bypassed and the ship ... must stay in place as if in a drawn boarding action.",
+    "xr_section": "s.32 Boarding Actions, Results",
+    "xr_text": "The losing ship then suffers damage equal to the difference in scores.",
+    "effect": "Boarders take no damage and the result table and critical hits are not used."
+   },
+   {
+    "topic": "Several boarders",
+    "source_text": "Only one ship may board at a time, but any class of ship may attempt to board.",
+    "xr_section": "s.32 Several attackers",
+    "xr_text": "the attacker may choose to have some or all of them fight together rather than individually.",
+    "effect": "The source forbids combined boarding."
+   },
+   {
+    "topic": "Weapon battery strength",
+    "source_text": "2 lances, 6 str Weapon Battery per broadside",
+    "xr_section": "Core terminology (booklet)",
+    "xr_text": "lances use FP (firepower), like macrobatteries; only ordnance uses S (strength)",
+    "effect": "'6 str' means FP6 in XR terms."
+   },
+   "Checked and no conflict: first turn roll after deployment, 8 turns or time, secondary objective on pirate frigates."
+  ],
+  "missing_or_unclear": [
+   "Platform Armour and shields are not stated (it is a Lunar's broadsides only).",
+   "'Sword Frigate' stats are for the transports: this follows the Imperial Navy Sword profile in the booklet.",
+   "Whether pirate ships can be boarded or attacked while on patrol.",
+   "Which fire arc 'firing arc where it is being boarded from' means for the 45-degree turn."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Earlier version of adv-capture-station. The boarding system here differs from Barbero's data-core version."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-b6-retrieve-salvage",
+  "title": "B6 Retrieve the Salvage",
+  "author": "AdeptiCon 2010 (Mission 2)",
+  "pages": "PDF p.15",
+  "forces": "1250 or 1500 points per fleet; transports may be taken in any number of squadrons.",
+  "summary": "Ten face-down salvage markers worth 0, 1 or 2 are set in two lines parallel to the long edge. A ship stops on a marker to pick it up. Markers retrieved by transports count triple, by cruisers and battleships double, by escorts single. The side retrieving more salvage wins.",
+  "special_rules": [
+   "Salvage Retrieval",
+   "Primary objective is salvage; Victory Points are the secondary objective"
+  ],
+  "xr_dependencies": [
+   "s.4 Assembling the Fleet",
+   "s.38 Victory Points",
+   "s.8 Squadrons"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Internal inconsistency of the point table",
+    "source_text": "A Victory Point margin of less than 150 VPs is considered a Draw. ... Victory Points Outcomes Win 7 points Draw 4 points Loss 1 point",
+    "xr_section": "n/a (source vs its own framework)",
+    "xr_text": "0 - 149 VP margin = Draw, 9 BP per player",
+    "effect": "The mission awards 7/4/1 where the pack's framework awards 9/9, 11/7 and so on."
+   },
+   "Checked and no conflict: transports as escort-sized units (s.8), attack rating deployment, 8 turns."
+  ],
+  "missing_or_unclear": [
+   "Which ships count as 'transports': whether a fleet must buy them and from what list (the mission only says transports 'may be deployed').",
+   "Whether Secondary VP matter if salvage is tied.",
+   "Table size."
+  ],
+  "diagram": "none",
+  "length": "about 0.75 page",
+  "notes": "Requires transports in the fleet list (Imperial Navy and some others)."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-c1-protect-salvage",
+  "title": "C1 Protect the Salvage",
+  "author": "AdeptiCon 2010 (Mission 3)",
+  "pages": "PDF p.16",
+  "forces": "1250 or 1500 points per fleet, plus a transport flotilla.",
+  "summary": "A fight to the finish in a warp arena: no ship may disengage (Necrons may, standard disengagement, but not their flagship). A ship whose inertial movement would take it off the table instead passes a Burn Retros and turns parallel to the edge. Each flagship is worth double VP. The secondary objective compares surviving transports.",
+  "special_rules": [
+   "The Chaos Gods want Death (no disengaging)",
+   "Edge bounce by automatic Burn Retros and turn",
+   "Flagship worth double VP"
+  ],
+  "xr_dependencies": [
+   "s.37 Disengaging",
+   "s.7 Burn Retros",
+   "s.38 Victory Points",
+   "Necron rules (Without a Trace)"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "No disengaging",
+    "source_text": "No ships may disengage in this battle.",
+    "xr_section": "s.37 Disengaging",
+    "xr_text": "any vessel that moves off of the table edge during play for any reason counts as being disengaged (whether it intended to or not)",
+    "effect": "Overrides s.37 entirely, including forced disengagement at Leadership 1."
+   },
+   {
+    "topic": "Flagship worth double",
+    "source_text": "Your Flagship is worth double VP.",
+    "xr_section": "booklet ruling on commanders",
+    "xr_text": "the opponent then scores the commander's cost, which is part of that ship's points value",
+    "effect": "The commander's cost is already in the ship's VP value; doubling is an additional scenario bonus."
+   },
+   "Checked and no conflict: first turn and 8 turns; Thrusters Damaged (Appendix 5) for turns over the ship's allowance."
+  ],
+  "missing_or_unclear": [
+   "'No hull point of damage' from the Thrusters Damaged critical hit is a stated exception to Appendix 5.",
+   "The flotilla of transports is described in the secondary objective only; its size and source are not stated.",
+   "Necron Without a Trace (auto-disengage) conflicts with 'may disengage using standard disengagement rules'."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Follow-on to B6."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-c2-brace-for-impact",
+  "title": "C2 Brace for Impact",
+  "author": "AdeptiCon 2010 (Mission 1)",
+  "pages": "PDF p.17",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "Hurtling asteroids arrive from numbered points on a short edge each game turn (D3, origin 2D6, alternating players roll) and move 30cm at the start of every game turn. They count as asteroid fields for hits: Ld on 2D6 or take D6 hits.",
+  "special_rules": [
+   "Hurtling Asteroids",
+   "Asteroids split on passing through an asteroid field (D3 new, scatter dice for heading)",
+   "Ordnance hit removed on a 6"
+  ],
+  "xr_dependencies": [
+   "s.39 Asteroid Fields",
+   "s.30 Shooting at Ordnance",
+   "s.16 Torpedoes",
+   "s.7 Brace for Impact"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Ordnance and asteroid fields",
+    "source_text": "All ordnance hit by hurtling asteroids is removed on a D6 roll of 6.",
+    "xr_section": "s.39 Asteroid Fields",
+    "xr_text": "any torpedoes that strike one will automatically detonate. ... Attack craft squadrons which move through an asteroid field are destroyed on a D6 roll of 6",
+    "effect": "The source treats torpedoes like attack craft (6 only). XR detonates torpedoes automatically."
+   },
+   {
+    "topic": "Hits from asteroids",
+    "source_text": "Roll LD on 2D6 - if passed no hits are taken, if failed take D6 hits. Escorts may reroll failed LD tests.",
+    "xr_section": "s.39 Asteroid Fields",
+    "xr_text": "Ships on All Ahead Full special orders must test on 3D6 instead of 2D6. Due to their size, escorts may re-roll the result if they fail, but the second roll stands. A ship that fails this test suffers D6 damage from asteroid impacts.",
+    "effect": "Consistent, except the source omits 3D6 on All Ahead Full and the slow by 5cm."
+   },
+   "Checked: attack rating deployment, first turn, 8 turns."
+  ],
+  "missing_or_unclear": [
+   "'Auxiliary Fleet' and 'First Blood' in the secondary objective table are not defined.",
+   "Terrain positions: 'one small planetoid, one large gas planet' placed by the organiser, not given.",
+   "Asteroid vs planet impact: blast marker only."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Earlier version of adv-brace-for-impact."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-c3-wrecks",
+  "title": "C3 Wrecks O' Plenty",
+  "author": "AdeptiCon 2010 (Mission 2)",
+  "pages": "PDF p.18",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "Seven wrecks ring a ringed gas giant, each worth 200 VP. To salvage one, move to its base and declare; roll a D6: on a 1 the drive core overloads (2D6 on the Catastrophic Damage table) and the wreck is treated as a hulk; on 2-6 it is salvaged and left in place.",
+  "special_rules": [
+   "Wrecks 200 VP each",
+   "Unstable Drive Cores (D6, 1 = catastrophic result)",
+   "Wrecks treated as drifting hulks for shooting"
+  ],
+  "xr_dependencies": [
+   "s.34 Catastrophic Damage",
+   "Hulks (s.34 and Appendix 5)",
+   "s.38 Holding the Field"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Hulks",
+    "source_text": "Wrecks are treated as drifting hulks for the purposes of shooting or ordnance attacks until claimed or destroyed. Salvaged wrecks are left in place and may subsequently be damaged!",
+    "xr_section": "s.34 Hulks in combat",
+    "xr_text": "Drifting and blazing hulks cannot be fired upon, boarded, or have torpedoes deliberately launched at them by friendly vessels or ordnance for any reason, although enemies may still do so normally.",
+    "effect": "Wrecks may be shot by either side in the source (to deny salvage) and are salvaged by moving to them, not by boarding."
+   },
+   {
+    "topic": "Catastrophic result",
+    "source_text": "Roll 2D6 and consult the Standard Catastrophic Damage Table.",
+    "xr_section": "s.34 / Appendix 5",
+    "xr_text": "Catastrophic Damage",
+    "effect": "Follows XR's table; the wreck then behaves as the result, so a blast marker spread or plasma overload follows s.34."
+   },
+   "Checked: first turn, 8 turns, terrain counts fixed. Salvage 200 VP vs Barbero's 75 VP."
+  ],
+  "missing_or_unclear": [
+   "Wreck hit total and Armour for shooting are not given.",
+   "Whether salvaging ends movement or allows shooting.",
+   "'Auxiliary Fleet' and 'First Blood' are undefined."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Earlier version of adv-wrecks-o-plenty."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-c4-neutron-star",
+  "title": "C4 Neutron Star",
+  "author": "AdeptiCon 2010 (Mission 3)",
+  "pages": "PDF p.19",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "A neutron star at the table centre pulls every ship and ordnance marker towards it at the start of every player turn, after special orders but before normal movement: Battleship 1D6, Cruiser 2D6, Escort 3D6, Ordnance 3D6, Defence 3D6, All Ahead Full +1D6, Burn Retros -1D6. Touching the star destroys the object (ships explode as Catastrophic result 12). A mysterious wreck worth 450 VP is pulled 2D6 closer each turn.",
+  "special_rules": [
+   "Neutron Star gravity pull",
+   "Mysterious Wreck (450 VP) salvaged like C3's wrecks",
+   "Star base blocks line of sight"
+  ],
+  "xr_dependencies": [
+   "s.34 Catastrophic Damage",
+   "s.7 All Ahead Full / Burn Retros",
+   "s.39 Planets",
+   "s.38 Victory Points"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Gravity pull and special orders",
+    "source_text": "At the start of every player turn, after Special Orders are attempted, but before normal movement commences, roll on the chart below ... directly towards the neutron star without changing your heading",
+    "xr_section": "s.41 High Orbit",
+    "xr_text": "While in high orbit, ships do not need to move ... a ship may make a free turn when it begins and/or ends its move in high orbit",
+    "effect": "New mechanic, no XR equivalent."
+   },
+   {
+    "topic": "Wreck salvage",
+    "source_text": "To recover the wreck, simply make contact with its base and declare you will attempt to recover it. Then roll a D6",
+    "xr_section": "s.34 Hulks in combat",
+    "xr_text": "Drifting and blazing hulks cannot be ... boarded",
+    "effect": "As in C3."
+   },
+   "Checked: attack rating deployment, first turn, 8 turns."
+  ],
+  "missing_or_unclear": [
+   "Whether the pull applies to every escort in a squadron by squadron roll or separately.",
+   "Size of the neutron star base.",
+   "'1 wreck set up 36cm away from the neutron star parallel to the long table edge': which direction."
+  ],
+  "diagram": "none",
+  "length": "about 1.25 pages",
+  "notes": "Printed table read from the page text: Battleship 1D6, Cruiser 2D6, Escort 3D6, Ordnance 3D6, Defense 3D6, All Ahead Full +1D6, Burn Retros -1D6."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-c5-shepard-moon",
+  "title": "C5 Shepard Moon",
+  "author": "AdeptiCon 2010 (Mission 2)",
+  "pages": "PDF p.20",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "Two rings cross the table; a shepherd moon (a small planetoid) can be boarded like a ship. After boarding, roll a D6: 1 Tyranid infestation (D6 boarding torpedoes), 2-3 D6 robotic Eldar fighters, 4-5 D6 robotic Eldar bombers, 6 the moon becomes a Kroot Warsphere. Controlling it is worth 345 VP and the result cannot be taken back.",
+  "special_rules": [
+   "Shepherd Moon boarding table",
+   "Control worth 345 VP"
+  ],
+  "xr_dependencies": [
+   "s.32 Boarding Actions",
+   "Eldar MMS v2.0 fighters and bombers",
+   "Tau & Allies: Kroot Warsphere",
+   "s.39 Planets"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Boarding a moon",
+    "source_text": "You may take control of the Sheperd Moon by declaring a boarding action, and board the moon as you would a ship.",
+    "xr_section": "s.32 Boarding Actions",
+    "xr_text": "the owning player must begin by moving the attacking vessel into base contact with the target",
+    "effect": "No troop rating exists for a moon; how a boarding contest is rolled is not stated."
+   },
+   {
+    "topic": "Eldar attack craft",
+    "source_text": "D6 bomber markers (count as Eldar Bombers)",
+    "xr_section": "09_eldar.md (MMS v2.0)",
+    "xr_text": "Eldar",
+    "effect": "The booklet uses the MMS v2.0 Eldar ordnance rules, not XR's, so 'Eldar Bombers' needs the MMS profile."
+   },
+   "Checked: first turn, attack rating deployment, 8 turns."
+  ],
+  "missing_or_unclear": [
+   "Boarding contest mechanics against the moon.",
+   "Whether a Kroot Warsphere result uses a scalable hit total (see B4).",
+   "'Controlling the Moon First' secondary objective wording."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": "Needs Tyranid boarding torpedoes and Eldar attack craft even in non-Tyranid/non-Eldar games."
+ },
+ {
+  "group": "BFG Tournament Mission Pack (AdeptiCon 2007-2010; booklet by Paolo Barbero)",
+  "source": "BFG Tournament Mission Pack",
+  "in_booklet": "no",
+  "type": "tournament/matched",
+  "generic": "yes",
+  "factions_required": "any",
+  "ocr": "no",
+  "id": "tp-c6-hide-seek",
+  "title": "C6 Hide n' Seek",
+  "author": "AdeptiCon 2010 (Mission 2)",
+  "pages": "PDF p.21",
+  "forces": "1250 or 1500 points per fleet.",
+  "summary": "An anomaly sits at the centre of a dense asteroid field area. At the end of each player's movement phase, ships with line of sight to its centre suffer a Leadership penalty: -3 within 10cm, -2 within 30cm, -1 beyond. Asteroid fields block line of sight to the anomaly.",
+  "special_rules": [
+   "Anomaly Leadership penalty by range",
+   "Majority ruling for escort squadrons partly in cover"
+  ],
+  "xr_dependencies": [
+   "s.3 Leadership",
+   "s.6 Command Checks",
+   "s.39 Asteroid Fields"
+  ],
+  "xr_conflicts": [
+   {
+    "topic": "Tournament framework",
+    "source_text": "Sub-plots are not active, no matter the reason. ... To avoid mathematical and miserable victories by disengage, the You COWARDS! rule grants: a 1000 VP bonus on turn 2 if there are no enemy ships left",
+    "xr_section": "s.38 Victory Points, Enemies Scattered",
+    "xr_text": "Each non-crippled capital ship, escort squadron, and defence installation that has disengaged before the end of the game awards the opposing player a number of victory points equal to 10% of that unit/squadron's total points value",
+    "effect": "The pack's VP-to-Battle-Point table, 1250 or 1500pt limit, no sub-plots and the You COWARDS! bonus are a tournament layer. Outside a tournament the supplement would drop or keep them by decision."
+   },
+   {
+    "topic": "Leadership modifiers",
+    "source_text": "then the ship receives a penalty to its Leadership value ... Within 10cm of the Anomaly -3 Ld, Within 30cm -2 Ld, Over 30cm -1 Ld",
+    "xr_section": "s.6 Command Check Modifiers",
+    "xr_text": "these modifiers cannot increase a vessel's Ld value above 10 or decrease it below zero",
+    "effect": "The penalty is a temporary Leadership change; the XR floor of 0 and cap of 10 apply. Combined with s.37 a ship at Leadership 1 or less must disengage, a result the source does not mention."
+   },
+   "Checked: first turn, attack rating deployment, 8 turns."
+  ],
+  "missing_or_unclear": [
+   "Whether the penalty applies to Leadership tests as well as command checks.",
+   "Anomaly size.",
+   "When the penalty ends (assumed at the end of the player turn).",
+   "'Command Ship Does Not Lose Any Leadership' (secondary objective): it is not defined which ship is the command ship."
+  ],
+  "diagram": "none",
+  "length": "about 1 page",
+  "notes": ""
+ }
+]

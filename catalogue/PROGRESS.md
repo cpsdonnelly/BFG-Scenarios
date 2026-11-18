@@ -15,7 +15,23 @@
 
 ## Step 2: scenario catalogue
 
-Not started.
+Source of truth: `catalogue/data/*.json` (one file per publication) and `catalogue/shortlist.json`.
+`python3 tools/build_scenarios.py` validates them and writes `scenarios.json` and `scenarios.md`.
+
+| Publication | Entries | Done |
+|---|---|---|
+| BFG Advanced Scenarios | 6 | done |
+| Tournament Mission Pack | 18 | done |
+| Book of Nemesis | | |
+| Starblade | | |
+| 2002 Annual and Invasion | | |
+| BFG Magazine | | |
+| Fanatic Magazine and Fanatic Online | | |
+| Project Distant Darkness | | |
+| Warp Storm and Planet Killer | | |
+| Warp Rift | | |
+| Shortlist | | |
+
 
 ## Notes for later sessions
 
