@@ -519,7 +519,7 @@ Each file is one article cut from an issue of Fanatic Magazine. All are OCR. Pri
 | Fanatic Magazine 07 Powers of Chaos Nurgle | The Powers of Chaos: Nurgle | 1-8 | fleet list | The four Chaos powers; the Plague Fleet of Nurgle list, Death Guard crews, Terminus Est battle barge with the Miasma of Pestilence. |
 | Fanatic Magazine 07 Privateer | Privateer Part 2 (Matt Keefe) | 1-2 | rules variant | Rules for small Privateer games: escorts fighting on when damaged, lone escorts at -1 Ld, a free fleet commander for fleets with no ship over 50pts. |
 | | Scenario I: The Wolf Packs | 2-4 | scenario | Privateer: pirates (face-down counters) attack merchant transports whose points values stand for their cargo; VP for cargo only. Wolf Pack vessels (armed freighter, escort carrier...). |
-| | Scenario [II]: Tau Space, Tau Trade | 5-6 | scenario | Privateer: privateers attacked by rivals using face-down counters activated within 30cm; the Commerce Protection Fleets list. Printed as "Scenario I" (apparently a typo for II). |
+| | Scenario II: Tau Space, Tau Trade | 5-6 | scenario | Privateer: privateers attacked by rivals using face-down counters activated within 30cm; the Commerce Protection Fleets list. (The OCR reads "Scenario I"; the page image reads II.) |
 | Fanatic Magazine 07 Q&A | BFG Q&A | 1-6 | Q&A/FAQ | Movement, shooting, ordnance, disengaging, squadrons. |
 | Fanatic Magazine 08 Tyranid tactics | Tyranid Tactics | 1-8 | tactics | Hive fleet organisation, vessels, bio-upgrades, tactics against each race. |
 | Fanatic Magazine 09 Necron tactics | Necron Tactics | 1-7 | tactics | Necron weapons, ships and common player errors. |
