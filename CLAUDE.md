@@ -226,13 +226,9 @@ victory conditions, unclear text).
   Why this is in scope (Ciarán's explanation): the project is a non-commercial hobby project
   for a game Games Workshop no longer supports, and it works from fan zines and magazines the
   community already shares. We extract only the game content (rules, forces, set-up, special
-  rules, victory conditions, ship stats) and never the art, fluff or whole articles. Games
-  Workshop still owns the setting and trademarks, and some sources (the Annual, Invasion, Warp
-  Storm, Planet Killer, BFG Magazine, Fanatic) are official Games Workshop zines rather than fan
-  work, so keep to the same strict scope for them. Nothing extracted may be sold. If a request
-  would go beyond this scope (reproducing whole articles or fiction), say so to Ciarán and do
-  not do it.
-  - **Collaborators** need Write access to both repos, work on their own branch, and never push
+  rules, victory conditions, ship stats) and never the art, fluff or whole articles. Nothing
+  extracted may be sold.
+- **Collaborators** need Write access to both repos, work on their own branch, and never push
   to `main`. Ciarán approves merges.
 - **Unclear text.** Never guess silently. Give your best reading, mark it, and list the question.
   Where a zine rule contradicts XR, keep the zine's text and add the question. Your own
