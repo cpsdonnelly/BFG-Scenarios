@@ -25,7 +25,7 @@ This project has two phases:
 
 Scenarios are the current goal. The content index is so other material can be picked up later.
 
-This repo is separate from Ciarán's BFG simulator project. Don't touch the simulator.
+This repo is separate from Ciarán's BFG simulator project (`cpsdonnelly/bfg`). Never edit the simulator's code or `bfgxr/`. The only things this project adds there are the extracted scenario files and its own rows in the claims file (see "Working with the simulator project").
 
 Do phase 1 completely before starting phase 2. Don't build any scenario until Ciarán has picked it.
 
@@ -200,3 +200,30 @@ The rulings in `reference/booklet_rules/` stand. A few relevant ones (Ciarán ha
 - **A single escort may be taken** if the fleet has no other escorts; otherwise escorts form squadrons per the fleet list.
 - **Fleet lists don't include defences;** defences are scenario dependent.
 - **Sourcebook change logs** describe changes; they are not rules text.
+
+## Working with the simulator project (agreed with Ciarán)
+
+This repo does the `extract` stage of a three-stage pipeline (`extract`, `build`, `AI`). The
+other two stages are done by sessions working in `cpsdonnelly/bfg`. Read
+`docs/BRIEFING_SCENARIO_EXTRACTION.md` in that repo before the first extraction; it gives the
+per-scenario file format (verbatim text, forces, set-up, first turn, special rules, game end,
+victory conditions, unclear text).
+
+- **Claims.** One claims file for every stage: `docs/CLAIMS.md` in `cpsdonnelly/bfg`, under
+  "Scenario bundles". Fetch it from every working branch, add your row, push at once, then
+  start. One active claim, at most three next. Never edit another session's row. Any bundle may
+  be claimed.
+- **Where files go.** Write extractions here first (`extracted/<bundle>/<scenario>.md`). When a
+  bundle is finished, copy it to `scenarios/fanzine/<bundle>/` on your branch in
+  `cpsdonnelly/bfg`, set the claim row to `build` / `unclaimed`, and tell Ciarán so he can ask
+  for the pull request. Open a pull request only when Ciarán asks.
+- **Which copy is authoritative.** Until the bundle merges into `cpsdonnelly/bfg`, the copy here
+  is the master. After the merge, the copy in `cpsdonnelly/bfg` is the master and receives all
+  fixes and owner rulings. Never edit both.
+- **Scope.** Rules text, forces, set-up, special rules, victory conditions, ship stats. No art,
+  no fluff, no whole articles. Non-profit; Battlefleet Gothic is no longer supported by GW.
+- **Collaborators** need Write access to both repos, work on their own branch, and never push
+  to `main`. Ciarán approves merges.
+- **Unclear text.** Never guess silently. Give your best reading, mark it, and list the question.
+  Where a zine rule contradicts XR, keep the zine's text and add the question. Your own
+  wording still goes in a review file for Ciarán before it is used anywhere.
